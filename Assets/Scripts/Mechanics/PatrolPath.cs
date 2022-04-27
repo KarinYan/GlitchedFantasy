@@ -21,8 +21,8 @@ namespace Platformer.Mechanics
 
         void Reset()
         {
-            startPosition = Vector3.left;
-            endPosition = Vector3.right;
+            startPosition = Vector2.left;
+            endPosition = Vector2.right;
         }
     }
 }
