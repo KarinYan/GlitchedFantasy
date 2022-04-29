@@ -5,13 +5,12 @@ ScriptsOnlyBuild:
     - HealthBar
     - MainMenu
     - PauseMenu
-    - Platformer.Mechanics.AnimationController
-    - Platformer.Mechanics.Attack
-    - Platformer.Mechanics.Corruption
+    - Platformer.Mechanics.AttackManager
+    - Platformer.Mechanics.CorruptionManager
     - Platformer.Mechanics.DeathZone
-    - Platformer.Mechanics.Enemies
-    - Platformer.Mechanics.EnemyController
+    - Platformer.Mechanics.EnemyManager
     - Platformer.Mechanics.GameController
+    - Platformer.Mechanics.ItemPicker
     - Platformer.Mechanics.PlayerManager
     - Platformer.Mechanics.StatusBar
     - Platformer.Mechanics.TokenController
@@ -141,6 +140,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2320}
     - Class: 114
+      Script: {instanceID: 2386}
+    - Class: 114
       Script: {instanceID: 2436}
     - Class: 114
       Script: {instanceID: 2564}
@@ -175,20 +176,24 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4344}
     - Class: 114
-      Script: {instanceID: 4808}
+      Script: {instanceID: 4772}
     - Class: 114
-      Script: {instanceID: 4834}
+      Script: {instanceID: 4810}
     - Class: 114
-      Script: {instanceID: 5268}
+      Script: {instanceID: 4836}
     - Class: 114
-      Script: {instanceID: 5274}
+      Script: {instanceID: 5270}
     - Class: 114
-      Script: {instanceID: 5326}
+      Script: {instanceID: 5276}
     - Class: 114
-      Script: {instanceID: 5988}
+      Script: {instanceID: 5328}
     - Class: 114
-      Script: {instanceID: 6130}
+      Script: {instanceID: 5990}
+    - Class: 114
+      Script: {instanceID: 6132}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -268,9 +273,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3656}
     - Class: 114
-      Script: {instanceID: 5212}
+      Script: {instanceID: 5214}
     - Class: 114
-      Script: {instanceID: 5620}
+      Script: {instanceID: 5622}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -539,7 +544,7 @@ ScriptsOnlyBuild:
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: Platformer.Mechanics
-    className: Corruption
+    className: CorruptionManager
   - hash:
       serializedVersion: 2
       Hash: 61b150b87f409b41cf1a3983d0e1e4d7
@@ -620,7 +625,7 @@ ScriptsOnlyBuild:
     className: AspectRatioFitter
   - hash:
       serializedVersion: 2
-      Hash: 3b6d8782f43593a7d2c484af98c7f004
+      Hash: 3c60704c213195eef45556ebbd5a1f14
     assemblyName: Assembly-CSharp.dll
     namespaceName: Platformer.Mechanics
     className: PlayerManager
@@ -1106,10 +1111,16 @@ ScriptsOnlyBuild:
     className: CinemachineTrackedDolly
   - hash:
       serializedVersion: 2
+      Hash: 371976b1ef4dcb9ce9165273b7972b8b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Platformer.Mechanics
+    className: ItemPicker
+  - hash:
+      serializedVersion: 2
       Hash: 13f8f373b951cbaf0f891949929b196a
     assemblyName: Assembly-CSharp.dll
     namespaceName: Platformer.Mechanics
-    className: Attack
+    className: AttackManager
   - hash:
       serializedVersion: 2
       Hash: aba7b2852ef61d175dd9602e7723d5e5
@@ -1247,7 +1258,7 @@ ScriptsOnlyBuild:
       Hash: d03ce56b094a17af29c33997febd8a5d
     assemblyName: Assembly-CSharp.dll
     namespaceName: Platformer.Mechanics
-    className: Enemies
+    className: EnemyManager
   - hash:
       serializedVersion: 2
       Hash: af56f77a30c1a2da1680c736a6f5c6e8
@@ -1420,4 +1431,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Level1.unity
-  playerPath: D:/Users/Gakama/IOC/PROJECTE/glitched_fantasy.exe
+  playerPath: D:/Users/Gakama/IOC/PROJECTE/GlitchedFantasy/Build/glitched_fantasy.exe
