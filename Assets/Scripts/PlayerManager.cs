@@ -100,7 +100,13 @@ namespace Platformer.Mechanics
                 gameIsPaused = true;
             }
 
-        }
+        }        
+
+        public void DeathZone()
+        {
+            health = 0;
+            Destroy(gameObject);
+        }       
 
         private void OnTriggerEnter2D(Collider2D other)
         {
@@ -112,12 +118,11 @@ namespace Platformer.Mechanics
                 Destroy(other.gameObject);                                                    
             }
 
-        }
+            if(other.transform.tag == "TutorialObjects")               
+            {              
+                Destroy(other.gameObject);                                                    
+            }
 
-        public void DeathZone()
-        {
-            health = 0;
-            Destroy(gameObject);
         }
     }
 }

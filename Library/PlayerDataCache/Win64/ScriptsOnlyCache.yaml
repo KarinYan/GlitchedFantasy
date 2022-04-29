@@ -12,6 +12,7 @@ ScriptsOnlyBuild:
     - Platformer.Mechanics.GameController
     - Platformer.Mechanics.ItemPicker
     - Platformer.Mechanics.PlayerManager
+    - Platformer.Mechanics.SignZone
     - Platformer.Mechanics.StatusBar
     - Platformer.Mechanics.TokenController
     - Platformer.Mechanics.VictoryZone
@@ -191,6 +192,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5990}
     - Class: 114
       Script: {instanceID: 6132}
+    - Class: 114
+      Script: {instanceID: 20010}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1427,8 +1430,14 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: AmbientOcclusion
+  - hash:
+      serializedVersion: 2
+      Hash: c1d2d9621f531aa3ba889a7c6804f02d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Platformer.Mechanics
+    className: SignZone
   platform: 19
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Level1.unity
-  playerPath: D:/Users/Gakama/IOC/PROJECTE/GlitchedFantasy/Build/glitched_fantasy.exe
+  playerPath: D:/Users/Gakama/IOC/PROJECTE/GlitchedFantasy/Build/glitched_fantasy_Data/glitched_fantasy.exe
