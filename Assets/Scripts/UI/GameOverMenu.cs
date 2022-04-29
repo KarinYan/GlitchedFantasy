@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameOverMenu : MonoBehaviour
 {
 
-    public static bool GameIsPaused = false;
+    public static bool gameIsPaused = false;
 
     public GameObject gameOverMenuUI;
 
@@ -14,7 +14,7 @@ public class GameOverMenu : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (GameIsPaused)
+            if (gameIsPaused)
             {
                 Resume();
             }
@@ -29,14 +29,14 @@ public class GameOverMenu : MonoBehaviour
     {
         gameOverMenuUI.SetActive(false);
         Time.timeScale = 1f;
-        GameIsPaused = false;
+        gameIsPaused = false;
     }
 
     public void Pause()
     {
         gameOverMenuUI.SetActive(true);
         Time.timeScale = 0f;
-        GameIsPaused = true;
+        gameIsPaused = true;
     }
 
     public void ReloadGame()

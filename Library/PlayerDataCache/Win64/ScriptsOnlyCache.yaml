@@ -2,22 +2,23 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - GameOverMenu
+    - HealthBar
     - MainMenu
     - PauseMenu
     - Platformer.Mechanics.AnimationController
     - Platformer.Mechanics.Attack
     - Platformer.Mechanics.Corruption
     - Platformer.Mechanics.DeathZone
-    - Platformer.Mechanics.DexterController
     - Platformer.Mechanics.Enemies
     - Platformer.Mechanics.EnemyController
     - Platformer.Mechanics.GameController
+    - Platformer.Mechanics.PlayerManager
+    - Platformer.Mechanics.StatusBar
     - Platformer.Mechanics.TokenController
     - Platformer.Mechanics.VictoryZone
     - Platformer.UI.MainUIController
     - Platformer.UI.MetaGameController
     - Platformer.View.ParallaxLayer
-    - PlayAudioClip
     - VolumeSetting
     Cinemachine.dll:
     - Cinemachine.CinemachineBrain
@@ -67,10 +68,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -82,7 +81,9 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.GridLayoutGroup
     - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
     - UnityEngine.UI.Mask
     - UnityEngine.UI.RawImage
     - UnityEngine.UI.Slider
@@ -136,39 +137,45 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1672}
     - Class: 114
-      Script: {instanceID: 2322}
+      Script: {instanceID: 1756}
     - Class: 114
-      Script: {instanceID: 2438}
+      Script: {instanceID: 2320}
     - Class: 114
-      Script: {instanceID: 2566}
+      Script: {instanceID: 2436}
+    - Class: 114
+      Script: {instanceID: 2564}
+    - Class: 114
+      Script: {instanceID: 2622}
     - Class: 114
       Script: {instanceID: 2624}
     - Class: 114
-      Script: {instanceID: 2802}
+      Script: {instanceID: 2654}
     - Class: 114
-      Script: {instanceID: 2852}
+      Script: {instanceID: 2804}
     - Class: 114
-      Script: {instanceID: 2860}
+      Script: {instanceID: 2854}
     - Class: 114
-      Script: {instanceID: 2872}
+      Script: {instanceID: 2862}
     - Class: 114
-      Script: {instanceID: 2946}
+      Script: {instanceID: 2874}
     - Class: 114
-      Script: {instanceID: 3018}
+      Script: {instanceID: 2948}
     - Class: 114
-      Script: {instanceID: 3040}
+      Script: {instanceID: 3020}
     - Class: 114
-      Script: {instanceID: 3144}
+      Script: {instanceID: 3042}
     - Class: 114
-      Script: {instanceID: 3582}
+      Script: {instanceID: 3146}
     - Class: 114
-      Script: {instanceID: 3974}
+      Script: {instanceID: 3586}
+    - Class: 114
+      Script: {instanceID: 3978}
     - Class: 114
       Script: {instanceID: 4276}
     - Class: 114
       Script: {instanceID: 4344}
     - Class: 114
-      Script: {instanceID: 4806}
+      Script: {instanceID: 4808}
     - Class: 114
       Script: {instanceID: 4834}
     - Class: 114
@@ -179,6 +186,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5326}
     - Class: 114
       Script: {instanceID: 5988}
+    - Class: 114
+      Script: {instanceID: 6130}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -245,23 +254,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1946}
     - Class: 114
-      Script: {instanceID: 2366}
+      Script: {instanceID: 2364}
     - Class: 114
-      Script: {instanceID: 2388}
+      Script: {instanceID: 2386}
     - Class: 114
-      Script: {instanceID: 2852}
+      Script: {instanceID: 2854}
     - Class: 114
-      Script: {instanceID: 3040}
+      Script: {instanceID: 3042}
     - Class: 114
-      Script: {instanceID: 3466}
+      Script: {instanceID: 3470}
     - Class: 114
-      Script: {instanceID: 3582}
+      Script: {instanceID: 3586}
     - Class: 114
-      Script: {instanceID: 3652}
+      Script: {instanceID: 3656}
     - Class: 114
       Script: {instanceID: 5212}
     - Class: 114
-      Script: {instanceID: 5618}
+      Script: {instanceID: 5620}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -533,10 +542,22 @@ ScriptsOnlyBuild:
     className: Corruption
   - hash:
       serializedVersion: 2
+      Hash: 61b150b87f409b41cf1a3983d0e1e4d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HealthBar
+  - hash:
+      serializedVersion: 2
       Hash: 0bcc1c23e70eab6bb5ec7e5f89a0095d
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine.PostFX
     className: CinemachinePostProcessing
+  - hash:
+      serializedVersion: 2
+      Hash: dd97c1b28160d12c7859e82bffb4b4cb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Platformer.Mechanics
+    className: StatusBar
   - hash:
       serializedVersion: 2
       Hash: 2ce2187bbae6f802011f568630bd3d1f
@@ -599,10 +620,10 @@ ScriptsOnlyBuild:
     className: AspectRatioFitter
   - hash:
       serializedVersion: 2
-      Hash: d3a322c0ce34e4f9fc66d5e7d5c6918f
+      Hash: 3b6d8782f43593a7d2c484af98c7f004
     assemblyName: Assembly-CSharp.dll
     namespaceName: Platformer.Mechanics
-    className: DexterController
+    className: PlayerManager
   - hash:
       serializedVersion: 2
       Hash: dbb0a7b7461c44101df31c40555e8a8d
@@ -1013,6 +1034,12 @@ ScriptsOnlyBuild:
     className: SelectionRoot
   - hash:
       serializedVersion: 2
+      Hash: 0f15034f74dcf7097a63e50a3539c638
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Platformer.Mechanics
+    className: PatrolPath
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
@@ -1217,7 +1244,7 @@ ScriptsOnlyBuild:
     className: CinemachineHardLockToTarget
   - hash:
       serializedVersion: 2
-      Hash: a06f10707988e64d30c87c51ffa1ca3b
+      Hash: d03ce56b094a17af29c33997febd8a5d
     assemblyName: Assembly-CSharp.dll
     namespaceName: Platformer.Mechanics
     className: Enemies
@@ -1227,6 +1254,12 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: GroupWeightManipulator
+  - hash:
+      serializedVersion: 2
+      Hash: d625c53d541575006ac47a7f8bc6382b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Platformer.Mechanics
+    className: AnimationController
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1383,20 +1416,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: AmbientOcclusion
-  - hash:
-      serializedVersion: 2
-      Hash: d625c53d541575006ac47a7f8bc6382b
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Platformer.Mechanics
-    className: AnimationController
-  - hash:
-      serializedVersion: 2
-      Hash: 0f15034f74dcf7097a63e50a3539c638
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Platformer.Mechanics
-    className: PatrolPath
   platform: 19
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Level1.unity
-  playerPath: D:/Users/Gakama/IOC/PROJECTE/GlitchedFantasy/glitched_fantasy.exe
+  playerPath: D:/Users/Gakama/IOC/PROJECTE/glitched_fantasy.exe

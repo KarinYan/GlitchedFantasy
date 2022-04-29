@@ -15,17 +15,17 @@ namespace Platformer.Mechanics
     {
         private Rigidbody2D Rigidbody2D;
         public GameObject gameOverMenuUI;
-        public static bool GameIsPaused = false;
+        public static bool gameIsPaused = false;
 
         private void OnTriggerEnter2D(Collider2D collision)
         {
-            DexterController dexter = collision.GetComponent<DexterController>();
-            if (dexter != null)
+            PlayerManager player = collision.GetComponent<PlayerManager>();
+            if (player != null)
             {
-                dexter.DeathZone();
+                player.DeathZone();
                 gameOverMenuUI.SetActive(true);
                 Time.timeScale = 0f;
-                GameIsPaused = true;
+                gameIsPaused = true;
             }
         }
     }
