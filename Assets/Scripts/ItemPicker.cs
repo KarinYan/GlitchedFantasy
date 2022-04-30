@@ -11,26 +11,30 @@ namespace Platformer.Mechanics
 {
     public class ItemPicker : MonoBehaviour
     {
+        private PlayerManager collectHealth;
+        private PlayerManager player;
+        private bool triggerEntered = false;
         public Text coreCounter;
-        //private bool isPressed = false;
-       // private PlayerManager collectHealth;
         
         private int core;
-        //public int potion;
 
         void Update()
         { 
-            
-
+            if (Input.GetKeyDown (KeyCode.E) && triggerEntered == true && collectHealth !=null) 
+            {
+                collectHealth.HealthCollect();                
+                Destroy(gameObject);
+            }
         }
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            /*if(other.transform.tag == "Potions" && (Input.GetKey(KeyCode.E)) )               
+            PlayerManager player = other.GetComponent<PlayerManager>();
+            if(player != null)               
             {              
-                potion++;
-                                                      
-            }*/
+                collectHealth = other.GetComponent<PlayerManager>();
+                triggerEntered = true;                                      
+            }
 
             if(other.transform.tag == "Cores")
             {
@@ -39,7 +43,6 @@ namespace Platformer.Mechanics
                 Destroy(other.gameObject);
             }
         }
-
         
     }
 }

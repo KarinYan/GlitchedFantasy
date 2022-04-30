@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1904
     height: 981
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 7}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 0
 --- !u!114 &2
@@ -72,10 +72,10 @@ MonoBehaviour:
     y: 30
     width: 1904
     height: 931
-  m_MinSize: {x: 979, y: 401}
-  m_MaxSize: {x: 16004, y: 8042}
+  m_MinSize: {x: 981, y: 401}
+  m_MaxSize: {x: 16006, y: 8042}
   vertical: 0
-  controlID: 147
+  controlID: 113
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 931
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -254,7 +254,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 342}
   m_MaxSize: {x: 8003, y: 8042}
   vertical: 1
-  controlID: 76
+  controlID: 52
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -279,7 +279,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 77
+  controlID: 53
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -579,22 +579,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Menus/Sprites
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Menus/Sprites
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Users\Gakama\IOC\PROJECTE\GlitchedFantasy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7a4e0000
-    m_LastClickedID: 20090
-    m_ExpandedIDs: 00000000f64a0000f84a0000fa4a0000fc4a0000fe4a0000ac4b000000ca9a3b
+    scrollPos: {x: 0, y: 60}
+    m_SelectedIDs: f44b0000
+    m_LastClickedID: 19444
+    m_ExpandedIDs: 00000000244b0000264b0000284b00002a4b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -622,7 +622,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f64a0000f84a0000fa4a0000fc4a0000fe4a0000
+    m_ExpandedIDs: 00000000244b0000264b0000284b00002a4b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -647,8 +647,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 926dffff
-    m_LastClickedInstanceID: -37486
+    m_SelectedInstanceIDs: 3a460000
+    m_LastClickedInstanceID: 17978
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000bc490000925200007c5100009a550000945500000c48000000000000
     m_RenameOverlay:
@@ -747,7 +747,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 5259ffff6e59ffff7059ffffe859ffff845affffa05afffff05bffff6e5cffffacf3ffffb2f3ffff00fbffff6e450000b4450000
+      m_ExpandedIDs: 08a2ffff24a2ffff74a3fffff2a3ffff1ea5ffff3aa5ffff8aa6ffff08a7ffff34fbffff6245000094450000d84500003a460000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -808,9 +808,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.040679507, y: 1.0479419, z: 85.91008}
+    m_Target: {x: 0.6783724, y: 1.484988, z: 114.807976}
     speed: 2
-    m_Value: {x: -0.040679507, y: 1.0479419, z: 85.91008}
+    m_Value: {x: 0.6783724, y: 1.484988, z: 114.807976}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -861,9 +861,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2.4580264
+    m_Target: 3.3450344
     speed: 2
-    m_Value: 2.4580264
+    m_Value: 3.3450344
   m_Ortho:
     m_Target: 1
     speed: 2

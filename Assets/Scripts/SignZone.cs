@@ -13,7 +13,6 @@ namespace Platformer.Mechanics
     /// </summary>
     public class SignZone : MonoBehaviour
     {
-        private Rigidbody2D Rigidbody2D;
         public GameObject infoMenuUI;
         public static bool gameIsPaused = false;
         private bool triggerEntered = false;
@@ -22,9 +21,18 @@ namespace Platformer.Mechanics
         {
             if (Input.GetKeyDown (KeyCode.E) && triggerEntered == true) 
             {
-                infoMenuUI.SetActive(true);
-                Time.timeScale = 0f;
-                gameIsPaused = true;
+                if (gameIsPaused == false)
+                {
+                    infoMenuUI.SetActive(true);
+                    Time.timeScale = 0f;
+                    gameIsPaused = true;
+                }
+                else {
+                    infoMenuUI.SetActive(false);
+                    Time.timeScale = 1f;
+                    gameIsPaused = false;
+                    triggerEntered = false; 
+                }
             }
         }
 
@@ -42,13 +50,13 @@ namespace Platformer.Mechanics
             PlayerManager player = collision.GetComponent<PlayerManager>();
             if (player = null)
             {                
-                triggerEntered = false;
-                
+                triggerEntered = false;            
             }
         }
 
         public void ExitSign()
         {
+            triggerEntered = false;
             Time.timeScale = 1f;
             gameIsPaused = false;
         }

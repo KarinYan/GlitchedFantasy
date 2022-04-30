@@ -12,9 +12,6 @@ namespace Platformer.Mechanics
     {   
         public static event Action OnPlayerDamaged;
         public static event Action OnPlayerHealed;
-
-        private int potion;
-
         public GameObject projectilePrefab;
         public GameObject gameOverMenuUI;
 
@@ -29,7 +26,7 @@ namespace Platformer.Mechanics
         private bool Grounded;
         private float lastShoot;
         public int maxHealth;
-        //[HideInInspector]
+        [HideInInspector]
         public int health;
 
         void Start()
@@ -99,8 +96,13 @@ namespace Platformer.Mechanics
                 Time.timeScale = 0f;
                 gameIsPaused = true;
             }
+        }     
 
-        }        
+        public void HealthCollect()
+        {
+            health = health + 1;
+            OnPlayerHealed?.Invoke();
+        }    
 
         public void DeathZone()
         {
@@ -110,14 +112,6 @@ namespace Platformer.Mechanics
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if(other.transform.tag == "Potions")               
-            {              
-                potion++;
-                health = health + 1;
-                OnPlayerHealed?.Invoke();
-                Destroy(other.gameObject);                                                    
-            }
-
             if(other.transform.tag == "TutorialObjects")               
             {              
                 Destroy(other.gameObject);                                                    

@@ -189,11 +189,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5328}
     - Class: 114
-      Script: {instanceID: 5990}
+      Script: {instanceID: 5984}
     - Class: 114
-      Script: {instanceID: 6132}
+      Script: {instanceID: 5992}
     - Class: 114
-      Script: {instanceID: 20010}
+      Script: {instanceID: 6134}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1366,6 +1366,12 @@ ScriptsOnlyBuild:
     className: CinemachineBasicMultiChannelPerlin
   - hash:
       serializedVersion: 2
+      Hash: c1d2d9621f531aa3ba889a7c6804f02d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Platformer.Mechanics
+    className: SignZone
+  - hash:
+      serializedVersion: 2
       Hash: 92f1a6fa53cef8a4f50f40db8fdbdd93
     assemblyName: Assembly-CSharp.dll
     namespaceName: Platformer.UI
@@ -1430,14 +1436,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: AmbientOcclusion
-  - hash:
-      serializedVersion: 2
-      Hash: c1d2d9621f531aa3ba889a7c6804f02d
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Platformer.Mechanics
-    className: SignZone
   platform: 19
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Level1.unity
-  playerPath: D:/Users/Gakama/IOC/PROJECTE/GlitchedFantasy/Build/glitched_fantasy_Data/glitched_fantasy.exe
+  playerPath: D:/Users/Gakama/IOC/PROJECTE/GlitchedFantasy/Build/glitched_fantasy.exe
