@@ -3,12 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
 
-public class VolumeSetting : MonoBehaviour
+namespace Platformer.Mechanics
 {
-    public AudioMixer audioMixer;
-
-    public void SetVolume(float volume)
+    public class VolumeSetting : MonoBehaviour
     {
-        audioMixer.SetFloat("volume", volume);
+        public AudioMixer audioMixer;
+
+        public void SetVolume(float volume)
+        {
+            audioMixer.SetFloat("volume", volume);
+        }
     }
 }

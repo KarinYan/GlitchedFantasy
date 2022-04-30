@@ -1,25 +1,25 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - GameOverMenu
     - HealthBar
-    - MainMenu
-    - PauseMenu
     - Platformer.Mechanics.AttackManager
     - Platformer.Mechanics.CorruptionManager
     - Platformer.Mechanics.DeathZone
     - Platformer.Mechanics.EnemyManager
     - Platformer.Mechanics.GameController
+    - Platformer.Mechanics.GameOverMenu
     - Platformer.Mechanics.ItemPicker
+    - Platformer.Mechanics.MainMenu
+    - Platformer.Mechanics.PauseMenu
     - Platformer.Mechanics.PlayerManager
     - Platformer.Mechanics.SignZone
     - Platformer.Mechanics.StatusBar
     - Platformer.Mechanics.TokenController
     - Platformer.Mechanics.VictoryZone
+    - Platformer.Mechanics.VolumeSetting
     - Platformer.UI.MainUIController
     - Platformer.UI.MetaGameController
     - Platformer.View.ParallaxLayer
-    - VolumeSetting
     Cinemachine.dll:
     - Cinemachine.CinemachineBrain
     - Cinemachine.CinemachineConfiner
@@ -352,9 +352,9 @@ ScriptsOnlyBuild:
     className: RandomTile
   - hash:
       serializedVersion: 2
-      Hash: c8c5e65e9fb858572516474d6e2102bc
+      Hash: e04105678b8bb1b6b734b822c2a32061
     assemblyName: Assembly-CSharp.dll
-    namespaceName: 
+    namespaceName: Platformer.Mechanics
     className: PauseMenu
   - hash:
       serializedVersion: 2
@@ -786,7 +786,7 @@ ScriptsOnlyBuild:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
-    namespaceName: 
+    namespaceName: Platformer.Mechanics
     className: MainMenu
   - hash:
       serializedVersion: 2
@@ -828,7 +828,7 @@ ScriptsOnlyBuild:
       serializedVersion: 2
       Hash: d835e37be8caf473a0d64dc941f2a2a8
     assemblyName: Assembly-CSharp.dll
-    namespaceName: 
+    namespaceName: Platformer.Mechanics
     className: VolumeSetting
   - hash:
       serializedVersion: 2
@@ -904,7 +904,7 @@ ScriptsOnlyBuild:
     className: CinemachineSmoothPath
   - hash:
       serializedVersion: 2
-      Hash: 8dd7eeae5fbc27965d5726b12372a852
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: Platformer.UI
     className: MainUIController
@@ -1240,9 +1240,9 @@ ScriptsOnlyBuild:
     className: DeathZone
   - hash:
       serializedVersion: 2
-      Hash: 6cd67092c1fc6f7447b75d23a4733578
+      Hash: 2975b88f4bcf11bc32e1efd6139a0415
     assemblyName: Assembly-CSharp.dll
-    namespaceName: 
+    namespaceName: Platformer.Mechanics
     className: GameOverMenu
   - hash:
       serializedVersion: 2

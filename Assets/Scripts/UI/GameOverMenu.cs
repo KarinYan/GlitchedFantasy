@@ -3,50 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;  
 
-public class GameOverMenu : MonoBehaviour
+namespace Platformer.Mechanics
 {
-
-    public static bool gameIsPaused = false;
-
-    public GameObject gameOverMenuUI;
-
-    void Update ()
+    public class GameOverMenu : MonoBehaviour
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        public static bool gameIsPaused = false;
+        public static bool gameOverOpen = false;
+
+        public GameObject gameOverMenu;
+        public GameObject pauseMenu;
+
+        public void ReloadGame()
         {
-            if (gameIsPaused)
-            {
-                Resume();
-            }
-            else
-            {
-                Pause();
-            }
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            Time.timeScale = 1f;
         }
-    }
 
-    void Resume()
-    {
-        gameOverMenuUI.SetActive(false);
-        Time.timeScale = 1f;
-        gameIsPaused = false;
-    }
-
-    public void Pause()
-    {
-        gameOverMenuUI.SetActive(true);
-        Time.timeScale = 0f;
-        gameIsPaused = true;
-    }
-
-    public void ReloadGame()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        Time.timeScale = 1f;
-    }
-
-    public void ReturnMainMenu()
-    {
-        SceneManager.LoadScene(0);
-    }
-} 
+        public void ReturnMainMenu()
+        {
+            SceneManager.LoadScene(0);
+        }
+    } 
+}
