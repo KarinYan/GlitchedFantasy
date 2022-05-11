@@ -16,6 +16,7 @@ namespace Platformer.Mechanics
         public GameObject infoMenuUI;
         public static bool gameIsPaused = false;
         private bool triggerEntered = false;
+        
 
         void Update()
         {
@@ -34,24 +35,22 @@ namespace Platformer.Mechanics
                     triggerEntered = false; 
                 }
             }
+ 
+
         }
 
         private void OnTriggerEnter2D(Collider2D collision)
         {
             PlayerManager player = collision.GetComponent<PlayerManager>();
-            if (player != null)
-            {                
-                triggerEntered = true;
-            }
+            triggerEntered = true;
+            
         }
 
-        private void OnTriggerExit(Collider collision)
+        private void OnTriggerExit2D(Collider2D collision)
         {
             PlayerManager player = collision.GetComponent<PlayerManager>();
-            if (player = null)
-            {                
-                triggerEntered = false;            
-            }
+            triggerEntered = false;            
+            
         }
 
         public void ExitSign()
