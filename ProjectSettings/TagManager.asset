@@ -5,11 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - TutorialRequirement
+  - Cores
+  - Potions
+  - TutorialObjects
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
