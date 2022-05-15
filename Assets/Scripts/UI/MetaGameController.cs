@@ -27,7 +27,7 @@ namespace Platformer.UI
 
         bool showMainCanvas = false;
 
-        void OnEnable()
+        /*void OnEnable()
         {
             _ToggleMainMenu(showMainCanvas);
         }
@@ -36,7 +36,7 @@ namespace Platformer.UI
         /// Turn the main menu on or off.
         /// </summary>
         /// <param name="show"></param>
-        public void ToggleMainMenu(bool show)
+        /*public void ToggleMainMenu(bool show)
         {
             if (this.showMainCanvas != show)
             {
@@ -63,11 +63,7 @@ namespace Platformer.UI
 
         void Update()
         {
-            if (Input.GetButtonDown("Menu"))
-            {
-                ToggleMainMenu(show: !showMainCanvas);
-            }
-        }
+        }*/
 
     }
 }
