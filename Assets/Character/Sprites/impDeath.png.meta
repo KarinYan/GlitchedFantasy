@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: ab96a442894700e4db3304bf2d78f1b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3054042532936593757
+    second: impDeath_0
+  - first:
+      213: -5568567445678662702
+    second: impDeath_0
+  - first:
+      213: -844314781189667005
+    second: impDeath_1
+  - first:
+      213: -4626800789961234394
+    second: impDeath_2
+  - first:
+      213: 8984852421477672039
+    second: impDeath_3
+  - first:
+      213: -6421299548016182021
+    second: impDeath_5
+  - first:
+      213: -7569998170753327274
+    second: impDeath_4
+  - first:
+      213: 8113631263792520961
+    second: impDeath_5
+  - first:
+      213: 5528410542404369000
+    second: impDeath_8
+  - first:
+      213: 3540593466990030989
+    second: impDeath_6
+  - first:
+      213: -6934107190477145459
+    second: impDeath_7
+  - first:
+      213: 9218004521586907551
+    second: impDeath_11
+  - first:
+      213: -3652867744714419800
+    second: impDeath_12
+  - first:
+      213: 7935639293518567359
+    second: impDeath_13
+  - first:
+      213: -5382761159950730086
+    second: impDeath_14
+  - first:
+      213: 6056866541879357953
+    second: impDeath_8
+  - first:
+      213: 4063880513305965968
+    second: impDeath_9
+  - first:
+      213: -2584885187375505861
+    second: impDeath_10
+  - first:
+      213: 7420387573130180095
+    second: impDeath_11
+  - first:
+      213: 2466877284732721366
+    second: impDeath_12
+  - first:
+      213: 9098772567697598516
+    second: impDeath_13
+  - first:
+      213: 8194286226676747140
+    second: impDeath_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: impDeath_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1843
+        width: 221
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae416f4f7cdd95d0800000000000000
+      internalID: -3054042532936593757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1843
+        width: 205
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbd484696978b2b0800000000000000
+      internalID: -5568567445678662702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1827
+        width: 208
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347049c0e246844f0800000000000000
+      internalID: -844314781189667005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1847
+        width: 209
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6282dd3023d4acfb0800000000000000
+      internalID: -4626800789961234394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_4
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1844
+        width: 216
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7642c7d6cab90bc70800000000000000
+      internalID: 8984852421477672039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_5
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1838
+        width: 218
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7e142516f2e6a0800000000000000
+      internalID: -6421299548016182021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_6
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1841
+        width: 211
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f14e175c6f1f690800000000000000
+      internalID: -7569998170753327274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_7
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1840
+        width: 221
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f5bd485a8699070800000000000000
+      internalID: 8113631263792520961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1624
+        width: 214
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a7988f81cd8bc40800000000000000
+      internalID: 5528410542404369000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1621
+        width: 230
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d807206dff6b22130800000000000000
+      internalID: 3540593466990030989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1624
+        width: 220
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab02daf3a15cf90800000000000000
+      internalID: -6934107190477145459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1636
+        width: 220
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99d127f54eecef70800000000000000
+      internalID: 9218004521586907551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_12
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1638
+        width: 223
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a190d0d3286e4dc0800000000000000
+      internalID: -3652867744714419800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_13
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1636
+        width: 215
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75ec384ed012e60800000000000000
+      internalID: 7935639293518567359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_14
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1633
+        width: 212
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cfd5e7e379c45b0800000000000000
+      internalID: -5382761159950730086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_15
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1638
+        width: 213
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102faa877005e0450800000000000000
+      internalID: 6056866541879357953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1425
+        width: 208
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095fb35abcdc56830800000000000000
+      internalID: 4063880513305965968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1419
+        width: 206
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e505d0e94a02cd0800000000000000
+      internalID: -2584885187375505861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1420
+        width: 204
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5b520de238af660800000000000000
+      internalID: 7420387573130180095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_19
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1422
+        width: 204
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d859f402db1c3220800000000000000
+      internalID: 2466877284732721366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_20
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1420
+        width: 241
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382fa56175554e70800000000000000
+      internalID: 9098772567697598516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impDeath_21
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1116
+        width: 187
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b81f078e3f7b170800000000000000
+      internalID: 8194286226676747140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

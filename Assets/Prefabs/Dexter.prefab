@@ -29,9 +29,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5322912597287289041}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.43, y: 0.26, z: 0}
-  m_LocalScale: {x: 5, y: 5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.108305, y: -0.38654935, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -76,12 +76,13 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 591526336708533081, guid: 70ad693ad944bc24d92272555aced0cb, type: 3}
+  m_Sprite: {fileID: -3100299196106773790, guid: bc24027da7214ef49a0e2e97605615d9,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.19, y: 0.18}
+  m_Size: {x: 2, y: 2.46}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -140,8 +141,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.011986494, y: 0.0065222024}
-  m_Size: {x: 0.16001426, y: 0.18901458}
+  m_Offset: {x: -0.16481674, y: -0.0709064}
+  m_Size: {x: 1.127558, y: 2.3181872}
   m_Direction: 0
 --- !u!114 &5322912597287289047
 MonoBehaviour:
@@ -160,8 +161,8 @@ MonoBehaviour:
   gameOverMenuUI: {fileID: 0}
   speed: 3
   jumpForce: 280
-  maxHealth: 10
-  health: 2
+  maxHealth: 6
+  health: 0
 --- !u!114 &5322912597287289046
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -4,16 +4,16 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 4531275813216471585
-    second: projectile_4
+    second: projectile_3
   - first:
       213: 1499340714466408896
-    second: projectile_5
+    second: projectile_4
   - first:
       213: -1074786334143915823
-    second: projectile_6
+    second: projectile_5
   - first:
       213: 105169053199506356
-    second: projectile_7
+    second: projectile_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -108,7 +108,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 8
+        width: 11
         height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -127,30 +127,9 @@ TextureImporter:
       name: projectile_1
       rect:
         serializedVersion: 2
-        x: 8
+        x: 11
         y: 0
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9ac0817d933334d0800000000000000
-      internalID: -3156122162549437794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: projectile_2
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 8
+        width: 11
         height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -166,12 +145,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: projectile_3
+      name: projectile_2
       rect:
         serializedVersion: 2
-        x: 24
+        x: 22
         y: 0
-        width: 8
+        width: 9
         height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -187,12 +166,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: projectile_4
+      name: projectile_3
       rect:
         serializedVersion: 2
-        x: 32
+        x: 31
         y: 0
-        width: 8
+        width: 10
         height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -208,12 +187,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: projectile_5
+      name: projectile_4
       rect:
         serializedVersion: 2
-        x: 40
+        x: 41
         y: 0
-        width: 8
+        width: 10
         height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -229,12 +208,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: projectile_6
+      name: projectile_5
       rect:
         serializedVersion: 2
-        x: 48
+        x: 51
         y: 0
-        width: 8
+        width: 9
         height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -250,10 +229,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: projectile_7
+      name: projectile_6
       rect:
         serializedVersion: 2
-        x: 56
+        x: 60
         y: 0
         width: 8
         height: 8

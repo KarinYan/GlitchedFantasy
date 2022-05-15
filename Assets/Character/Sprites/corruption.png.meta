@@ -1,7 +1,181 @@
 fileFormatVersion: 2
-guid: bfac830a16e80bc4db7aa6aa2f371fd3
+guid: 0122bb26aabc5474da51b7ec5c598867
 TextureImporter:
   internalIDToNameTable:
+  - first:
+      213: 2083679511765926496
+    second: corruption 1_0
+  - first:
+      213: 7957490437599131853
+    second: corruption 1_1
+  - first:
+      213: 2676349217646776709
+    second: corruption 1_2
+  - first:
+      213: -5693673143719492025
+    second: corruption 1_3
+  - first:
+      213: -6538043473724750383
+    second: corruption 1_4
+  - first:
+      213: -1024862609914965199
+    second: corruption 1_5
+  - first:
+      213: 454079204387996920
+    second: corruption 1_6
+  - first:
+      213: 8809198821978191231
+    second: corruption 1_7
+  - first:
+      213: -7364247652556073906
+    second: corruption 1_8
+  - first:
+      213: 525825840840709766
+    second: corruption 1_9
+  - first:
+      213: 3832725965527581788
+    second: corruption 1_10
+  - first:
+      213: 852123681528770393
+    second: corruption 1_11
+  - first:
+      213: 7588018917558287519
+    second: corruption 1_12
+  - first:
+      213: -3674499694242700831
+    second: corruption 1_13
+  - first:
+      213: -8762350327139085084
+    second: corruption 1_14
+  - first:
+      213: 3206564002683396443
+    second: corruption 1_15
+  - first:
+      213: 1648979948839401426
+    second: corruption 1_16
+  - first:
+      213: 4779191624880515797
+    second: corruption 1_17
+  - first:
+      213: 3567145384814612789
+    second: corruption 1_18
+  - first:
+      213: -8631325282283823887
+    second: corruption 1_19
+  - first:
+      213: -9060724814265811993
+    second: corruption 1_20
+  - first:
+      213: -337992250286761617
+    second: corruption 1_21
+  - first:
+      213: -2391664105442469627
+    second: corruption 1_22
+  - first:
+      213: -196406279914169576
+    second: corruption 1_23
+  - first:
+      213: 3883420196738304219
+    second: corruption 1_24
+  - first:
+      213: 7860805599691088404
+    second: corruption 1_25
+  - first:
+      213: -7422357665669130714
+    second: corruption 1_26
+  - first:
+      213: 4569246224376270977
+    second: corruption 1_27
+  - first:
+      213: -5064930765066967157
+    second: corruption 1_28
+  - first:
+      213: -3270755288727721729
+    second: corruption 1_29
+  - first:
+      213: -4134234393422338619
+    second: corruption 1_30
+  - first:
+      213: -5570589169422310305
+    second: corruption 1_31
+  - first:
+      213: 3042282818818270212
+    second: corruption 1_32
+  - first:
+      213: -3432315907842476185
+    second: corruption 1_33
+  - first:
+      213: -7941398011133326078
+    second: corruption 1_34
+  - first:
+      213: 3393299194980687998
+    second: corruption 1_35
+  - first:
+      213: -830665654487493927
+    second: corruption 1_36
+  - first:
+      213: 5502566235762950350
+    second: corruption 1_37
+  - first:
+      213: -7157358938878179448
+    second: corruption 1_38
+  - first:
+      213: -7983606013349049948
+    second: corruption 1_39
+  - first:
+      213: -6786321598717478532
+    second: corruption 1_40
+  - first:
+      213: -5131194786279417864
+    second: corruption 1_41
+  - first:
+      213: 6216737832505906261
+    second: corruption 1_42
+  - first:
+      213: 4654400604005083008
+    second: corruption 1_43
+  - first:
+      213: 143373107396062553
+    second: corruption 1_44
+  - first:
+      213: -4918940092997480470
+    second: corruption 1_45
+  - first:
+      213: -7576366795612852344
+    second: corruption 1_46
+  - first:
+      213: 1613888388321353122
+    second: corruption 1_47
+  - first:
+      213: 7961252319185224359
+    second: corruption 1_48
+  - first:
+      213: 280897864004096125
+    second: corruption 1_49
+  - first:
+      213: -9039763334868795664
+    second: corruption 1_50
+  - first:
+      213: -6359950204533995853
+    second: corruption 1_51
+  - first:
+      213: -7131693252772297574
+    second: corruption 1_52
+  - first:
+      213: 6328982507465444634
+    second: corruption 1_53
+  - first:
+      213: -8759359804990818325
+    second: corruption 1_54
+  - first:
+      213: -339470520539543324
+    second: corruption 1_55
+  - first:
+      213: 3004206282988613562
+    second: corruption 1_56
+  - first:
+      213: 6670487525382764126
+    second: corruption 1_57
   - first:
       213: 3226188900150162354
     second: corruption_0
@@ -26,6 +200,309 @@ TextureImporter:
   - first:
       213: -1644272240036521628
     second: corruption_7
+  - first:
+      213: -5036117152571730136
+    second: corruption_8
+  - first:
+      213: -2848396413653155437
+    second: corruption_9
+  - first:
+      213: 5786729199009545788
+    second: corruption_10
+  - first:
+      213: 7283166401056389121
+    second: corruption_11
+  - first:
+      213: -623540728644279266
+    second: corruption_12
+  - first:
+      213: 8240324863539223999
+    second: corruption_13
+  - first:
+      213: -4166372037505768072
+    second: corruption_14
+  - first:
+      213: 8532236340333605986
+    second: corruption_15
+  - first:
+      213: 6054093936207273519
+    second: corruption_16
+  - first:
+      213: -3818717951315154679
+    second: corruption_17
+  - first:
+      213: 6552104442747797880
+    second: corruption_18
+  - first:
+      213: 2000965676498467934
+    second: corruption_19
+  - first:
+      213: -3870667908812422580
+    second: corruption_20
+  - first:
+      213: -3410662101693451751
+    second: corruption_21
+  - first:
+      213: -573277011585395767
+    second: corruption_22
+  - first:
+      213: 3400534243313330766
+    second: corruption_23
+  - first:
+      213: 2444263607943308217
+    second: corruption_24
+  - first:
+      213: -5921391414612225448
+    second: corruption_25
+  - first:
+      213: 6766499564393085553
+    second: corruption_26
+  - first:
+      213: 3886474784952622129
+    second: corruption_27
+  - first:
+      213: -6147505409131484502
+    second: corruption_28
+  - first:
+      213: -7709090771011466799
+    second: corruption_29
+  - first:
+      213: -1536591843441638353
+    second: corruption_30
+  - first:
+      213: -2441788693674143542
+    second: corruption_31
+  - first:
+      213: 1036196424893815458
+    second: corruption_32
+  - first:
+      213: -368434615791793961
+    second: corruption_33
+  - first:
+      213: 3082557658536311269
+    second: corruption_34
+  - first:
+      213: 8385967021857016325
+    second: corruption_35
+  - first:
+      213: 6699363558599597229
+    second: corruption_36
+  - first:
+      213: -2240664744005716716
+    second: corruption_37
+  - first:
+      213: -937469725201374296
+    second: corruption_38
+  - first:
+      213: -6380383800050068193
+    second: corruption_39
+  - first:
+      213: -8901535133678090692
+    second: corruption_40
+  - first:
+      213: 6512627644860481039
+    second: corruption_41
+  - first:
+      213: 7924160096944945572
+    second: corruption_42
+  - first:
+      213: 6826815554189837464
+    second: corruption_43
+  - first:
+      213: 6380587267661985605
+    second: corruption_44
+  - first:
+      213: 3064791438530295585
+    second: corruption_45
+  - first:
+      213: 6301268686290815703
+    second: corruption_46
+  - first:
+      213: -1231136783091107058
+    second: corruption_47
+  - first:
+      213: 6512836151853153314
+    second: corruption_48
+  - first:
+      213: -4079872503137571064
+    second: corruption_49
+  - first:
+      213: -5908138636974599683
+    second: corruption_50
+  - first:
+      213: -5839169445128415205
+    second: corruption_51
+  - first:
+      213: 6593620514895358859
+    second: corruption_52
+  - first:
+      213: 7392279790379079657
+    second: corruption_53
+  - first:
+      213: -1623960523245327247
+    second: corruption_54
+  - first:
+      213: 689233425597452649
+    second: corruption_55
+  - first:
+      213: -2409423466935342569
+    second: corruption_56
+  - first:
+      213: 4208237860141277509
+    second: corruption_57
+  - first:
+      213: -7595652158623953425
+    second: corruption_58
+  - first:
+      213: 5940874964747627395
+    second: corruption_59
+  - first:
+      213: 8473368506249352253
+    second: corruption_60
+  - first:
+      213: 4847989825014606473
+    second: corruption_61
+  - first:
+      213: 5645631893303159099
+    second: corruption_62
+  - first:
+      213: -9139363799333044976
+    second: corruption_63
+  - first:
+      213: 4191308145133578697
+    second: corruption_64
+  - first:
+      213: 2193649538375625955
+    second: corruption_65
+  - first:
+      213: -8525558371245443013
+    second: corruption_66
+  - first:
+      213: 263025955517019959
+    second: corruption_67
+  - first:
+      213: 8972339327865544144
+    second: corruption_68
+  - first:
+      213: 874858621429232361
+    second: corruption_69
+  - first:
+      213: 22503128949339548
+    second: corruption_70
+  - first:
+      213: 3859723138334876794
+    second: corruption_71
+  - first:
+      213: 6251282501620618196
+    second: corruption_72
+  - first:
+      213: -7959198032530297618
+    second: corruption_73
+  - first:
+      213: 2297562065653073787
+    second: corruption_74
+  - first:
+      213: 1315388448632092616
+    second: corruption_75
+  - first:
+      213: 6205384493859794327
+    second: corruption_76
+  - first:
+      213: -2996367244686669582
+    second: corruption_77
+  - first:
+      213: 5191728979848644435
+    second: corruption_78
+  - first:
+      213: -8277873587838450249
+    second: corruption_79
+  - first:
+      213: -8444501409727074315
+    second: corruption_80
+  - first:
+      213: 5628123745607676492
+    second: corruption_81
+  - first:
+      213: -3907471677138087028
+    second: corruption_82
+  - first:
+      213: -8486456652796188829
+    second: corruption_83
+  - first:
+      213: -6422499814644566011
+    second: corruption_84
+  - first:
+      213: 5205449823320198786
+    second: corruption_85
+  - first:
+      213: 7277406969909524610
+    second: corruption_86
+  - first:
+      213: 42831143838904256
+    second: corruption_87
+  - first:
+      213: 5636541474188316605
+    second: corruption_88
+  - first:
+      213: -9086973547462228064
+    second: corruption_89
+  - first:
+      213: -6370120123463515409
+    second: corruption_90
+  - first:
+      213: 2775837965184971299
+    second: corruption_91
+  - first:
+      213: -1087796563145255042
+    second: corruption_92
+  - first:
+      213: 7156755305169042121
+    second: corruption_93
+  - first:
+      213: -6702335978020612673
+    second: corruption_94
+  - first:
+      213: -2498783439697824828
+    second: corruption_95
+  - first:
+      213: -2291500714720335489
+    second: corruption_96
+  - first:
+      213: -3041493067624713087
+    second: corruption_97
+  - first:
+      213: -8571601436033095088
+    second: corruption_98
+  - first:
+      213: -3804765982030084572
+    second: corruption_99
+  - first:
+      213: 493878897116968304
+    second: corruption_100
+  - first:
+      213: -6673076763882549668
+    second: corruption_101
+  - first:
+      213: -869948585877133949
+    second: corruption_102
+  - first:
+      213: -1519814653885729906
+    second: corruption_103
+  - first:
+      213: 6193145061430461487
+    second: corruption_104
+  - first:
+      213: 3848567182455660386
+    second: corruption_105
+  - first:
+      213: -2815190979297331069
+    second: corruption_106
+  - first:
+      213: -6631754061933502677
+    second: corruption_107
+  - first:
+      213: -8389430314064937976
+    second: corruption_108
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -119,9 +596,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 18
-        height: 18
+        y: 3954
+        width: 418
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,10 +616,10 @@ TextureImporter:
       name: corruption_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 0
-        width: 18
-        height: 18
+        x: 418
+        y: 3954
+        width: 418
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +637,10 @@ TextureImporter:
       name: corruption_2
       rect:
         serializedVersion: 2
-        x: 36
-        y: 0
-        width: 18
-        height: 18
+        x: 836
+        y: 3954
+        width: 418
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +658,10 @@ TextureImporter:
       name: corruption_3
       rect:
         serializedVersion: 2
-        x: 54
-        y: 0
-        width: 18
-        height: 18
+        x: 1254
+        y: 3954
+        width: 418
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,10 +679,10 @@ TextureImporter:
       name: corruption_4
       rect:
         serializedVersion: 2
-        x: 72
-        y: 0
-        width: 18
-        height: 18
+        x: 1672
+        y: 3954
+        width: 418
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,10 +700,10 @@ TextureImporter:
       name: corruption_5
       rect:
         serializedVersion: 2
-        x: 90
-        y: 0
-        width: 18
-        height: 18
+        x: 2090
+        y: 3954
+        width: 418
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,10 +721,10 @@ TextureImporter:
       name: corruption_6
       rect:
         serializedVersion: 2
-        x: 108
-        y: 0
-        width: 18
-        height: 18
+        x: 2508
+        y: 3954
+        width: 418
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,10 +742,10 @@ TextureImporter:
       name: corruption_7
       rect:
         serializedVersion: 2
-        x: 126
-        y: 0
-        width: 18
-        height: 18
+        x: 2926
+        y: 3954
+        width: 418
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,6 +755,1959 @@ TextureImporter:
       bones: []
       spriteID: 46956920c1f5e29e0800000000000000
       internalID: -1644272240036521628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_8
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 3954
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d5b9d12e1c1ab0800000000000000
+      internalID: -5036117152571730136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3812
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39105b0ad867878d0800000000000000
+      internalID: -2848396413653155437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3812
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e385e0c879e4050800000000000000
+      internalID: 5786729199009545788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3812
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b60ff041031560800000000000000
+      internalID: 7283166401056389121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_12
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3812
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e146b2ec20db857f0800000000000000
+      internalID: -623540728644279266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_13
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 3812
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd1315edc38b5270800000000000000
+      internalID: 8240324863539223999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_14
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 3812
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875295ec4b21e26c0800000000000000
+      internalID: -4166372037505768072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_15
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 3812
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264734deeb7986670800000000000000
+      internalID: 8532236340333605986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_16
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 3812
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e1b78eb56740450800000000000000
+      internalID: 6054093936207273519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_17
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 3812
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e3767140310bc0800000000000000
+      internalID: -3818717951315154679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3670
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871cd31b640cdea50800000000000000
+      internalID: 6552104442747797880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3670
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb0736eabd4cb10800000000000000
+      internalID: 2000965676498467934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_20
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3670
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c424bbb6b00a84ac0800000000000000
+      internalID: -3870667908812422580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_21
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3670
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912bca393e4eaa0d0800000000000000
+      internalID: -3410662101693451751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_22
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 3670
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c31e86689f4b08f0800000000000000
+      internalID: -573277011585395767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_23
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 3670
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a2e33a0ef113f20800000000000000
+      internalID: 3400534243313330766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_24
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 3670
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b320e81dc4cbe120800000000000000
+      internalID: 2444263607943308217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_25
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 3670
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8529dfb91edf2dda0800000000000000
+      internalID: -5921391414612225448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_26
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 3670
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a3c7cd08f67ed50800000000000000
+      internalID: 6766499564393085553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3528
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c1d99b9388fe530800000000000000
+      internalID: 3886474784952622129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_28
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3528
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaece9b66cafaaa0800000000000000
+      internalID: -6147505409131484502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_29
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3528
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d98e9cc9cec30590800000000000000
+      internalID: -7709090771011466799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_30
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3528
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2406ee0cddecaae0800000000000000
+      internalID: -1536591843441638353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_31
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 3528
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0dcf8ce160d1ed0800000000000000
+      internalID: -2441788693674143542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_32
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 3528
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa535f882f416e00800000000000000
+      internalID: 1036196424893815458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_33
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 3528
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8c5c24bae03eaf0800000000000000
+      internalID: -368434615791793961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_34
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 3528
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e977bcbbd177ca20800000000000000
+      internalID: 3082557658536311269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_35
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 3528
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a8deb5390f06470800000000000000
+      internalID: 8385967021857016325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3386
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac968b69abe8fc50800000000000000
+      internalID: 6699363558599597229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3386
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4153cc0794f87e0e0800000000000000
+      internalID: -2240664744005716716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_38
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3386
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a360b970407df2f0800000000000000
+      internalID: -937469725201374296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_39
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3386
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15db531db25477a0800000000000000
+      internalID: -6380383800050068193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_40
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 3386
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36457155f4677480800000000000000
+      internalID: -8901535133678090692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_41
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 3386
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e3c4e6650816a50800000000000000
+      internalID: 6512627644860481039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_42
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 3386
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a97ab9cf9548fd60800000000000000
+      internalID: 7924160096944945572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_43
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 3386
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894c8969398bdbe50800000000000000
+      internalID: 6826815554189837464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_44
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 3386
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5477f5b60566c8850800000000000000
+      internalID: 6380587267661985605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b14c4393588a20800000000000000
+      internalID: 3064791438530295585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_46
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3244
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da08a01c7a927750800000000000000
+      internalID: 6301268686290815703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_47
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3244
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bffed5e9f1aeee0800000000000000
+      internalID: -1231136783091107058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_48
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3244
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c778f39fd326a50800000000000000
+      internalID: 6512836151853153314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_49
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 3244
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe99113916167c0800000000000000
+      internalID: -4079872503137571064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_50
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 3244
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df15e5b5633120ea0800000000000000
+      internalID: -5908138636974599683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_51
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 3244
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b185ecfa35a17fea0800000000000000
+      internalID: -5839169445128415205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_52
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 3244
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8be01e7cee318b50800000000000000
+      internalID: 6593620514895358859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_53
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 3244
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e718d9ad47a69660800000000000000
+      internalID: 7392279790379079657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3102
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c64ba12888679e0800000000000000
+      internalID: -1623960523245327247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_55
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3102
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961df0c1626a09900800000000000000
+      internalID: 689233425597452649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_56
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3102
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a24db5f12009ed0800000000000000
+      internalID: -2409423466935342569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_57
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3102
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5412210a90aa66a30800000000000000
+      internalID: 4208237860141277509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_58
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 3102
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed4acfea92d69690800000000000000
+      internalID: -7595652158623953425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2960
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2bc8ed4a327250800000000000000
+      internalID: 5940874964747627395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_60
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2960
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3499f933c3779570800000000000000
+      internalID: 8473368506249352253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2818
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a24b26f05874340800000000000000
+      internalID: 4847989825014606473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_62
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2818
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3963fc8b40595e40800000000000000
+      internalID: 5645631893303159099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2676
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d70b30c057a2180800000000000000
+      internalID: -9139363799333044976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_64
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2676
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c963ee2d848a2a30800000000000000
+      internalID: 4191308145133578697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2534
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec2498f1a8617e10800000000000000
+      internalID: 2193649538375625955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_66
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2534
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38be0ae4d12fa980800000000000000
+      internalID: -8525558371245443013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2392
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737bc4586b476a300800000000000000
+      internalID: 263025955517019959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_68
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2392
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd51b9c417248c70800000000000000
+      internalID: 8972339327865544144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e23afee74f142c00800000000000000
+      internalID: 874858621429232361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_70
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2250
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c953c5ff972ff4000800000000000000
+      internalID: 22503128949339548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2108
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a746ecf9ebd709530800000000000000
+      internalID: 3859723138334876794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_72
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2108
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d356b3805401c650800000000000000
+      internalID: 6251282501620618196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1966
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec2b0e1f8f3b8190800000000000000
+      internalID: -7959198032530297618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_74
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1966
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b770aa4968492ef10800000000000000
+      internalID: 2297562065653073787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c73e5623d2314210800000000000000
+      internalID: 1315388448632092616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_76
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1824
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dea33d154fd1650800000000000000
+      internalID: 6205384493859794327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1682
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c5dbcdd3ca66d0800000000000000
+      internalID: -2996367244686669582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_78
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1682
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357cafd000abc0840800000000000000
+      internalID: 5191728979848644435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b50d4574d51f1d80800000000000000
+      internalID: -8277873587838450249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_80
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1540
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffaeef65ba1fca80800000000000000
+      internalID: -8444501409727074315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1398
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f2e04abc1b1e40800000000000000
+      internalID: 5628123745607676492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_82
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1398
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83d84a563fd5c9c0800000000000000
+      internalID: -3907471677138087028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367255033ac0a3a80800000000000000
+      internalID: -8486456652796188829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_84
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1256
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508391a4272bed6a0800000000000000
+      internalID: -6422499814644566011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1114
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ece1fd8097d3840800000000000000
+      internalID: 5205449823320198786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_86
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1114
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288b86fe41b8ef460800000000000000
+      internalID: 7277406969909524610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf67d9c2ba289000800000000000000
+      internalID: 42831143838904256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_88
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 972
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf40ca6b94093e40800000000000000
+      internalID: 5636541474188316605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7842414b594e180800000000000000
+      internalID: -9086973547462228064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_90
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 830
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2c3608f79c897a0800000000000000
+      internalID: -6370120123463515409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322b4ec1ce1c58620800000000000000
+      internalID: 2775837965184971299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_92
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 688
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7716d90ace57e0f0800000000000000
+      internalID: -1087796563145255042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca3efc2807e15360800000000000000
+      internalID: 7156755305169042121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_94
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 546
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d2c040f48cf2a0800000000000000
+      internalID: -6702335978020612673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3be2263b9825dd0800000000000000
+      internalID: -2498783439697824828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_96
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 404
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796a88ad34f230e0800000000000000
+      internalID: -2291500714720335489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1847a656b227ac5d0800000000000000
+      internalID: -3041493067624713087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_98
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 262
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ae40188ed8b0980800000000000000
+      internalID: -8571601436033095088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4264b937f71c23bc0800000000000000
+      internalID: -3804765982030084572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corruption_100
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 120
+        width: 418
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f7b08d3c9ad600800000000000000
+      internalID: 493878897116968304
       vertices: []
       indices: 
       edges: []
