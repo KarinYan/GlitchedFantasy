@@ -7,6 +7,7 @@ using static Platformer.Core.Simulation;
 
 namespace Platformer.Mechanics
 {
+    //Clase que administra el comportamiento y estados del jugador
     public class PlayerManager : MonoBehaviour
     {   
         public static event Action OnPlayerDamaged;
@@ -34,30 +35,25 @@ namespace Platformer.Mechanics
         [HideInInspector]
         public int health;
 
+        //Función que inicializa la salud del jugador, la física como cuerpo rígido 2D y sus animaciones, siempre que se activa la clase
         void Start()
         {
             health = maxHealth; 
             Rigidbody2D = GetComponent<Rigidbody2D>();
             Animator = GetComponent<Animator>();
-            transform.rotation = Quaternion.identity;
         }
     
+        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones y el estado del jugador
+        //en base a distintos parámetros (cumplimiento de condiciones de estados, teclas apretadas, salud)
         void Update()
         {     
             Animator.SetBool("running", Horizontal != 0.0f); 
-
             Animator.SetBool("grounded", playerIsGrounded); 
-
             Animator.SetBool("dead", playerIsDead);
-
             Animator.SetBool("jumping", playerIsJumping);
-
             Animator.SetBool("landing", playerIsLanding);
-
             Animator.SetBool("falling", playerIsFalling);
-
             Animator.SetBool("shooting", playerIsShooting); 
-
             Horizontal = Input.GetAxisRaw("Horizontal");
 
             if (Horizontal < 0.0f) transform.localScale = new Vector3(-0.5f, 0.5f, 1.0f);
@@ -88,8 +84,7 @@ namespace Platformer.Mechanics
                 Shoot();
                 lastShoot = Time.time;
             }
-            else playerIsShooting = false;
-            
+            else playerIsShooting = false;            
 
             if (Rigidbody2D.velocity.y < 0 && playerIsGrounded == false)
             {
@@ -104,7 +99,8 @@ namespace Platformer.Mechanics
             }            
         }
 
-         private void FixedUpdate()
+        //Función que se va ejecutando cada 0.02 segundos para actualizar la velocidad del jugador según tecla apretada
+        private void FixedUpdate()
         {
             if (Input.GetKey(KeyCode.Space))
             {
@@ -113,11 +109,13 @@ namespace Platformer.Mechanics
             else Rigidbody2D.velocity = new Vector2(Horizontal * speed, Rigidbody2D.velocity.y);            
         }
 
+        //Función que aplica velocidad en el eje Y del jugador en función de la fuerza de salto
         private void Jump()
         {
             Rigidbody2D.AddForce(Vector2.up * jumpForce);
         }
 
+        //Función que activa lanzamiento de proyectil
         private void Shoot()
         {
             Vector3 direction;
@@ -133,23 +131,28 @@ namespace Platformer.Mechanics
             projectile.GetComponent<AttackManager>().SetDirection(direction);
         }
        
+        //Función que deduce una vida al jugador e invoca el evento OnPlayerDamaged
         public void Touch()
         {             
             health = health - 1;
             OnPlayerDamaged?.Invoke();
         }
 
+        //Función que incrementa una vida e invoca el evento OnPlayerHealed
         public void HealthCollect()
         {
             health = health + 1;
             OnPlayerHealed?.Invoke();
         }    
 
+        //Función que actualiza el estado del jugador a muerto
         public void PlayerDied()
         {
             playerIsDead = true;
+            health = 0;
         }
 
+        //Función que actualiza el estado del jugador a muerto y destruye el objeto
         public void Die()
         {            
             gameOverMenuUI.SetActive(true);
@@ -158,6 +161,7 @@ namespace Platformer.Mechanics
             Destroy(gameObject);
         }        
 
+        //Función que destruye los objetos etiquetados con TutorialObjects
         private void OnTriggerEnter2D(Collider2D other)
         {
             if(other.transform.tag == "TutorialObjects")               

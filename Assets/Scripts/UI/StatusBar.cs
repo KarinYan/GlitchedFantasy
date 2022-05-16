@@ -5,32 +5,39 @@ using UnityEngine;
 using UnityEngine.UI;
 using static Platformer.Core.Simulation;
 
-
 namespace Platformer.Mechanics
 {
+    //Clase que actualiza la barra del estado de salud
     public class StatusBar : MonoBehaviour
     {
         public GameObject heartPrefab;
         public PlayerManager playerHealth;
         List<HealthBar> hearts = new List<HealthBar>();
 
+        //Función que se ejecuta siempre que el objeto se activa, para suscribirse a los eventos del PlayerManager 
         private void OnEnable()
         {
             PlayerManager.OnPlayerDamaged += DrawHearts;
             PlayerManager.OnPlayerHealed += DrawHearts;
         }
 
+        //Función que se ejecuta siempre que el objeto se desactiva, para desuscribirse de los eventos del PlayerManager 
         private void OnDisable()
         {
             PlayerManager.OnPlayerDamaged -= DrawHearts;
             PlayerManager.OnPlayerHealed -= DrawHearts;
         }
 
+        //Función que ejecuta la actualización de la barra de estado siempre que el objeto se activa
         private void Start()
         {
             DrawHearts();
         }
         
+        //Función que actualiza la barra de estado en varios pasos:
+        //1. Limpiar la barra de estado
+        //2. Crear corazones vacíos hasta el límite de la salud máxima definida en PlayerHealth
+        //3. Actualizar la imagen de los corazones según el estado actual del jugador definido en PlayerHealth
         public void DrawHearts()
         {
             ClearHearts();
@@ -55,9 +62,9 @@ namespace Platformer.Mechanics
             }
         }
 
+        //Función que crea un corazón vacío en la barra de estado
         public void CreateEmptyHeart()
         {
-            
             GameObject newHeart = Instantiate(heartPrefab);
         
             newHeart.transform.SetParent(transform);
@@ -66,16 +73,14 @@ namespace Platformer.Mechanics
             hearts.Add(heartComponent);
         }
 
-
+        //Función que limpia la barra de estado destruyendo todos los corazones y creando una lista vacía
         public void ClearHearts()
         {
-            
             foreach(Transform t in transform)
             {               
                 Destroy(t.gameObject);
             }
             hearts = new List<HealthBar>();
         }
-
     }
 }
