@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637881148644952936
-    m_Hash: 924395830
+      ticks: 637882279485568553
+    m_Hash: 484129918
   m_LockFileStatus:
     m_FilePath: D:/Users/Gakama/IOC/PROJECTE/GlitchedFantasy/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637881148645391868
-    m_Hash: 1528514030
+      ticks: 637882279485608553
+    m_Hash: 1805817675
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -224,12 +224,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/2d.git
         revision: de062e9b52e01d9b7c1e2b7e86c8897a78342167
         path: 
-    - packageId: com.unity.2d.tilemap.extras@file:C:\Users\karin\Downloads\2d-extras-2020.3\2d-extras-2020.3
+    - packageId: com.unity.2d.tilemap.extras@file:D:\Users\Gakama\IOC\PROJECTE\GlitchedFantasy\2d-extras-2020.3\2d-extras-2020.3
       testable: 0
       isDirectDependency: 1
       version: 1.8.3-preview
       source: 4
-      resolvedPath: C:\Users\karin\Downloads\2d-extras-2020.3\2d-extras-2020.3
+      resolvedPath: D:\Users\Gakama\IOC\PROJECTE\GlitchedFantasy\2d-extras-2020.3\2d-extras-2020.3
       assetPath: Packages/com.unity.2d.tilemap.extras
       name: com.unity.2d.tilemap.extras
       displayName: 2D Tilemap Extras
@@ -4068,14 +4068,14 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus:
-    - m_FilePath: C:\Users\karin\Downloads\2d-extras-2020.3\2d-extras-2020.3/package.json
+    - m_FilePath: D:\Users\Gakama\IOC\PROJECTE\GlitchedFantasy\2d-extras-2020.3\2d-extras-2020.3/package.json
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
         ticks: 637846317820000000
       m_Hash: 1749114636
-    - m_FilePath: C:\Users\karin\Downloads\2d-extras-2020.3\2d-extras-2020.3
+    - m_FilePath: D:\Users\Gakama\IOC\PROJECTE\GlitchedFantasy\2d-extras-2020.3\2d-extras-2020.3
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
