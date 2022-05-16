@@ -6,16 +6,14 @@ using UnityEngine.SceneManagement;
 
 namespace Platformer.Mechanics
 {
-    /// <summary>
-    /// DeathZone components mark a collider which will schedule a
-    /// PlayerEnteredDeathZone event when the player enters the trigger.
-    /// </summary>
+    //Clase de administra la zona de muerte del juego
     public class DeathZone : MonoBehaviour
     {
         private Rigidbody2D Rigidbody2D;
         public GameObject gameOverMenuUI;
         public static bool gameIsPaused = false;
 
+        //Función que invoca la función PlayerDied del PlayerManager, cuando el jugador entra en la zona de muerte
         private void OnTriggerEnter2D(Collider2D collision)
         {
             PlayerManager player = collision.GetComponent<PlayerManager>();

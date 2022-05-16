@@ -8,6 +8,7 @@ using static Platformer.Core.Simulation;
 
 namespace Platformer.Mechanics
 {
+    //Clase encargada de coleccionar objetos
     public class ItemPicker : MonoBehaviour
     {
         private PlayerManager collectHealth;
@@ -17,6 +18,7 @@ namespace Platformer.Mechanics
         
         private int core;
 
+        //Función que se ejecuta en cada frame del juego y que invoca la función HealthCollect del PlayerManager y destruye el objeto si se cumplen las condiciones definidas
         void Update()
         { 
             if (Input.GetKeyDown (KeyCode.E) && triggerEntered == true && collectHealth !=null) 
@@ -26,6 +28,8 @@ namespace Platformer.Mechanics
             }            
         }
 
+        //Función que, al producirse una colisión de objetos, activa la posibilidad de coleccionar salud al jugador
+        //y actualiza el contador de núcleos, destruyéndolos posteriormente
         private void OnTriggerEnter2D(Collider2D other)
         {
             PlayerManager player = other.GetComponent<PlayerManager>();

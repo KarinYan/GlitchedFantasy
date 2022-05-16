@@ -6,6 +6,7 @@ using static Platformer.Core.Simulation;
 
 namespace Platformer.Mechanics
 {
+    //Clase que administra el comportamiento y el estado de los enemigos
     public class EnemyManager : MonoBehaviour
     {
         public int health;
@@ -22,6 +23,7 @@ namespace Platformer.Mechanics
         private bool flip;
         private bool enemyIsDead = false;
 
+        //Función que inicializa la física del enemigo como cuerpo rígido 2D y sus animaciones, siempre que se activa la clase
         void Start()
         {
             Rigidbody2D = GetComponent<Rigidbody2D>();
@@ -29,6 +31,7 @@ namespace Platformer.Mechanics
             patrol = true;
         }
 
+        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones y el estado del enemigo según las configuraciones de cada uno
         void Update()
         {               
             if(patrol)    
@@ -37,7 +40,6 @@ namespace Platformer.Mechanics
             }
 
             Animator.SetBool("moving", move); 
-
             Animator.SetBool("dead", enemyIsDead); 
 
             if (speed != 0)
@@ -53,6 +55,7 @@ namespace Platformer.Mechanics
             }
         }
 
+        //Función que se va ejecutando cada 0.02 segundos para detectar si es el momento de invertir dirección y velocidad
         private void FixedUpdate()
         {
             if (patrol)
@@ -61,6 +64,7 @@ namespace Platformer.Mechanics
             }
         }
 
+        //Función que llama la función Flip cada vez que el enemigo colisiona con las paredes o llega al final de una plataforma
         void Patrol()
         {
             if (flip || wallCollider.IsTouchingLayers(groundLayer))
@@ -70,27 +74,31 @@ namespace Platformer.Mechanics
             Rigidbody2D.velocity = new Vector2(speed * Time.fixedDeltaTime, Rigidbody2D.velocity.y);
         }
 
+        //Función que invierte la dirección del sprite y la velocidad del enemigo
         void Flip()
         {
             if (speed != 0)
             { 
-            patrol = false;
-            transform.localScale = new Vector2(transform.localScale.x * -1, transform.localScale.y);
-            speed *= -1;
-            patrol = true;
+                patrol = false;
+                transform.localScale = new Vector2(transform.localScale.x * -1, transform.localScale.y);
+                speed *= -1;
+                patrol = true;
             }
         }      
 
+        //Función que deduce una vida al enemigo
         public void Hit()
         {
             health = health - 1;
         }
 
+        //Función que destruye el objeto del enemigo
         public void EnemyDeath()
         {
             Destroy(gameObject);
         }
 
+        //Función que llama la función Touch del jugador en el momento que el enemigo colisiona con el jugador
         private void OnCollisionEnter2D(Collision2D collision)
         {
             PlayerManager player = collision.collider.GetComponent<PlayerManager>();
