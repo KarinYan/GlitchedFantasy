@@ -14,6 +14,12 @@ namespace Platformer.Mechanics
         public static event Action OnPlayerHealed;
         public GameObject projectilePrefab;
         public GameObject gameOverMenuUI;
+        public AudioClip jumping;
+        public AudioClip hurt;
+        public AudioClip dead;
+        public AudioClip collectPotions;
+        public AudioClip collectCores;
+        AudioSource audioSource;
 
         public float speed;
         public float jumpForce;      
@@ -35,15 +41,16 @@ namespace Platformer.Mechanics
         [HideInInspector]
         public int health;
 
-        //Función que inicializa la salud del jugador, la física como cuerpo rígido 2D y sus animaciones, siempre que se activa la clase
+        //Función que inicializa la salud del jugador, la física como cuerpo rígido 2D, sus animaciones y sonidos, siempre que se activa la clase
         void Start()
         {
             health = maxHealth; 
             Rigidbody2D = GetComponent<Rigidbody2D>();
             Animator = GetComponent<Animator>();
+            audioSource = GetComponent<AudioSource>();
         }
     
-        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones y el estado del jugador
+        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones, sonidos y el estado del jugador
         //en base a distintos parámetros (cumplimiento de condiciones de estados, teclas apretadas, salud)
         void Update()
         {     
@@ -59,11 +66,11 @@ namespace Platformer.Mechanics
             if (Horizontal < 0.0f) transform.localScale = new Vector3(-0.5f, 0.5f, 1.0f);
             else if (Horizontal > 0.0f) transform.localScale = new Vector3(0.5f, 0.5f, 1.0f);               
 
-            if (Physics2D.Raycast(transform.position, Vector3.down, 0.75f))
+            if (Physics2D.Raycast(transform.position, Vector3.down, 1f))
             {
                 if (Rigidbody2D.velocity.y < 0)
                 {
-                    playerIsLanding = true;
+                    playerIsLanding = true;                              
                 }
                 else playerIsLanding = false;
                 playerIsGrounded = true;
@@ -77,9 +84,8 @@ namespace Platformer.Mechanics
             }
 
             if (Input.GetKey(KeyCode.Space) && Time.time > lastShoot + 0.25f)
-            {
-                   
-                Rigidbody2D.velocity = new Vector2(Horizontal * 0, Rigidbody2D.velocity.y);  
+            {                   
+                Rigidbody2D.velocity = new Vector3(Horizontal * 0, Rigidbody2D.velocity.y);  
                 playerIsShooting = true;               
                 Shoot();
                 lastShoot = Time.time;
@@ -104,15 +110,16 @@ namespace Platformer.Mechanics
         {
             if (Input.GetKey(KeyCode.Space))
             {
-                Rigidbody2D.velocity = new Vector2(0,Rigidbody2D.velocity.y);
+                Rigidbody2D.velocity = new Vector3(0,Rigidbody2D.velocity.y);
             }
-            else Rigidbody2D.velocity = new Vector2(Horizontal * speed, Rigidbody2D.velocity.y);            
+            else Rigidbody2D.velocity = new Vector3(Horizontal * speed, Rigidbody2D.velocity.y);            
         }
 
         //Función que aplica velocidad en el eje Y del jugador en función de la fuerza de salto
         private void Jump()
         {
             Rigidbody2D.AddForce(Vector2.up * jumpForce);
+            audioSource.PlayOneShot(jumping, 0.7f);
         }
 
         //Función que activa lanzamiento de proyectil
@@ -131,25 +138,28 @@ namespace Platformer.Mechanics
             projectile.GetComponent<AttackManager>().SetDirection(direction);
         }
        
-        //Función que deduce una vida al jugador e invoca el evento OnPlayerDamaged
+        //Función que deduce una vida al jugador, invoca el evento OnPlayerDamaged y reproduce un sonido
         public void Touch()
         {             
             health = health - 1;
             OnPlayerDamaged?.Invoke();
+            audioSource.PlayOneShot(hurt);
         }
 
-        //Función que incrementa una vida e invoca el evento OnPlayerHealed
+        //Función que incrementa una vida, invoca el evento OnPlayerHealed y reproduce un sonido
         public void HealthCollect()
         {
             health = health + 1;
+            audioSource.PlayOneShot(collectPotions, 0.7f);
             OnPlayerHealed?.Invoke();
         }    
 
-        //Función que actualiza el estado del jugador a muerto
+        //Función que actualiza el estado del jugador a muerto y reproduce un sonido
         public void PlayerDied()
         {
             playerIsDead = true;
             health = 0;
+            audioSource.PlayOneShot(dead, 0.7f);
         }
 
         //Función que actualiza el estado del jugador a muerto y destruye el objeto
@@ -161,12 +171,18 @@ namespace Platformer.Mechanics
             Destroy(gameObject);
         }        
 
-        //Función que destruye los objetos etiquetados con TutorialObjects
+        //Función que destruye los objetos etiquetados con TutorialObjects y 
+        //reproduce un sonido al entrar en contacto con los objetos etiquetados con Cores
         private void OnTriggerEnter2D(Collider2D other)
         {
             if(other.transform.tag == "TutorialObjects")               
             {              
                 Destroy(other.gameObject);                                                    
+            }
+
+            if(other.transform.tag == "Cores")               
+            {              
+                audioSource.PlayOneShot(collectCores, 0.7f);                                                    
             }
         }
     }

@@ -23,15 +23,20 @@ namespace Platformer.Mechanics
         private bool flip;
         private bool enemyIsDead = false;
 
-        //Función que inicializa la física del enemigo como cuerpo rígido 2D y sus animaciones, siempre que se activa la clase
+        public AudioClip hurt;
+        public AudioClip dead;
+        AudioSource audioSource;
+
+        //Función que inicializa la física del enemigo como cuerpo rígido 2D, sus animaciones y sonidos, siempre que se activa la clase
         void Start()
         {
             Rigidbody2D = GetComponent<Rigidbody2D>();
             Animator = GetComponent<Animator>();
+            audioSource = GetComponent<AudioSource>();
             patrol = true;
         }
 
-        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones y el estado del enemigo según las configuraciones de cada uno
+        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones, sonidos y el estado del enemigo según las configuraciones de cada uno
         void Update()
         {               
             if(patrol)    
@@ -50,6 +55,7 @@ namespace Platformer.Mechanics
 
             if (health <= 0)
             {
+                audioSource.PlayOneShot(dead, 0.7f);
                 enemyIsDead = true;
                 speed = 0;
             }
@@ -86,10 +92,11 @@ namespace Platformer.Mechanics
             }
         }      
 
-        //Función que deduce una vida al enemigo
+        //Función que deduce una vida al enemigo y reproduce un sonido
         public void Hit()
         {
             health = health - 1;
+            audioSource.PlayOneShot(hurt, 0.7f);
         }
 
         //Función que destruye el objeto del enemigo

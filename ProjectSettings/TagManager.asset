@@ -8,6 +8,8 @@ TagManager:
   - Cores
   - Potions
   - TutorialObjects
+  - Door
+  - TextBox
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,5724 @@
+fileFormatVersion: 2
+guid: beba52726119abc4ebf22b2938fb7bef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 378848975264188653
+    second: desarSortir_pressed_0
+  - first:
+      213: -7094353721405192485
+    second: desarSortir_pressed_1
+  - first:
+      213: 1538997870130299030
+    second: desarSortir_pressed_2
+  - first:
+      213: 1319865427668973075
+    second: desarSortir_pressed_3
+  - first:
+      213: 8420582011702419589
+    second: desarSortir_pressed_4
+  - first:
+      213: -4870380571433685046
+    second: desarSortir_pressed_5
+  - first:
+      213: 1308476276255867697
+    second: desarSortir_pressed_6
+  - first:
+      213: -5485830838788244145
+    second: desarSortir_pressed_7
+  - first:
+      213: -1338349430595002116
+    second: desarSortir_pressed_8
+  - first:
+      213: 2057019002717425932
+    second: desarSortir_pressed_9
+  - first:
+      213: 8665520641108380856
+    second: desarSortir_pressed_10
+  - first:
+      213: 4055492406442446949
+    second: desarSortir_pressed_11
+  - first:
+      213: -2601937470851169989
+    second: desarSortir_pressed_12
+  - first:
+      213: -32699088153345553
+    second: desarSortir_pressed_13
+  - first:
+      213: -7826631747191549101
+    second: desarSortir_pressed_14
+  - first:
+      213: 4761196048030257336
+    second: desarSortir_pressed_15
+  - first:
+      213: -3218970631003533436
+    second: desarSortir_pressed_16
+  - first:
+      213: -8150086695337027852
+    second: desarSortir_pressed_17
+  - first:
+      213: -7191696564290944932
+    second: desarSortir_pressed_18
+  - first:
+      213: 7450512140881492667
+    second: desarSortir_pressed_19
+  - first:
+      213: 3824180679624245170
+    second: desarSortir_pressed_20
+  - first:
+      213: -923201058061199463
+    second: desarSortir_pressed_21
+  - first:
+      213: -3438409492540778190
+    second: desarSortir_pressed_22
+  - first:
+      213: 5209700207424364357
+    second: desarSortir_pressed_23
+  - first:
+      213: -4012376795708082947
+    second: desarSortir_pressed_24
+  - first:
+      213: -8384631976395932667
+    second: desarSortir_pressed_25
+  - first:
+      213: -6052243974924457206
+    second: desarSortir_pressed_26
+  - first:
+      213: 3724097081482149495
+    second: desarSortir_pressed_27
+  - first:
+      213: 1939268220322701638
+    second: desarSortir_pressed_28
+  - first:
+      213: -1373682642088692880
+    second: desarSortir_pressed_29
+  - first:
+      213: -1622365613359534023
+    second: desarSortir_pressed_30
+  - first:
+      213: 7125048896492736500
+    second: desarSortir_pressed_31
+  - first:
+      213: 8478911673011119909
+    second: desarSortir_pressed_32
+  - first:
+      213: -351090943048261111
+    second: desarSortir_pressed_33
+  - first:
+      213: -7794160543962976443
+    second: desarSortir_pressed_34
+  - first:
+      213: -3736615573749366696
+    second: desarSortir_pressed_35
+  - first:
+      213: 5173058870625124878
+    second: desarSortir_pressed_36
+  - first:
+      213: -1751861455580844683
+    second: desarSortir_pressed_37
+  - first:
+      213: 9174972127253581548
+    second: desarSortir_pressed_38
+  - first:
+      213: -4777676779490953880
+    second: desarSortir_pressed_39
+  - first:
+      213: -2123348985130046005
+    second: desarSortir_pressed_40
+  - first:
+      213: -5195540701584622792
+    second: desarSortir_pressed_41
+  - first:
+      213: 2220903535919884463
+    second: desarSortir_pressed_42
+  - first:
+      213: 711648026280030559
+    second: desarSortir_pressed_43
+  - first:
+      213: -2056938621888541064
+    second: desarSortir_pressed_44
+  - first:
+      213: -1090329848799347747
+    second: desarSortir_pressed_45
+  - first:
+      213: 8098271656408703775
+    second: desarSortir_pressed_46
+  - first:
+      213: 7962065604349582731
+    second: desarSortir_pressed_47
+  - first:
+      213: -6938086764480595226
+    second: desarSortir_pressed_48
+  - first:
+      213: 6612794068327062028
+    second: desarSortir_pressed_49
+  - first:
+      213: -1961220167842230683
+    second: desarSortir_pressed_50
+  - first:
+      213: -3670485843314084016
+    second: desarSortir_pressed_51
+  - first:
+      213: 4576525304406466505
+    second: desarSortir_pressed_52
+  - first:
+      213: 7218080853865702500
+    second: desarSortir_pressed_53
+  - first:
+      213: -5352925605354879823
+    second: desarSortir_pressed_54
+  - first:
+      213: -8908319208844003615
+    second: desarSortir_pressed_55
+  - first:
+      213: 2815542376355033171
+    second: desarSortir_pressed_56
+  - first:
+      213: 6812488710202228334
+    second: desarSortir_pressed_57
+  - first:
+      213: -6358906608918070126
+    second: desarSortir_pressed_58
+  - first:
+      213: 2647813509571364703
+    second: desarSortir_pressed_59
+  - first:
+      213: 7538861949910519211
+    second: desarSortir_pressed_60
+  - first:
+      213: -5643991913452759316
+    second: desarSortir_pressed_61
+  - first:
+      213: -50180364247342335
+    second: desarSortir_pressed_62
+  - first:
+      213: -1429845739242039520
+    second: desarSortir_pressed_63
+  - first:
+      213: 2004833066173064019
+    second: desarSortir_pressed_64
+  - first:
+      213: 5144108399617496037
+    second: desarSortir_pressed_65
+  - first:
+      213: 2487991924462206566
+    second: desarSortir_pressed_66
+  - first:
+      213: 7433555220244672082
+    second: desarSortir_pressed_67
+  - first:
+      213: -2219558191665539170
+    second: desarSortir_pressed_68
+  - first:
+      213: -2317255180033182813
+    second: desarSortir_pressed_69
+  - first:
+      213: -4066300786173914002
+    second: desarSortir_pressed_70
+  - first:
+      213: -234139414807741898
+    second: desarSortir_pressed_71
+  - first:
+      213: -659753196421222062
+    second: desarSortir_pressed_72
+  - first:
+      213: -5324369211167168459
+    second: desarSortir_pressed_73
+  - first:
+      213: -8586942419274989194
+    second: desarSortir_pressed_74
+  - first:
+      213: 2419757688876829154
+    second: desarSortir_pressed_75
+  - first:
+      213: -2289046976059514918
+    second: desarSortir_pressed_76
+  - first:
+      213: -8262930033899836382
+    second: desarSortir_pressed_77
+  - first:
+      213: -181633469195628051
+    second: desarSortir_pressed_78
+  - first:
+      213: -2137455862713666152
+    second: desarSortir_pressed_79
+  - first:
+      213: -9072166059532537415
+    second: desarSortir_pressed_80
+  - first:
+      213: -6362844055477972180
+    second: desarSortir_pressed_81
+  - first:
+      213: -7275509143601199526
+    second: desarSortir_pressed_82
+  - first:
+      213: -1187977169668960764
+    second: desarSortir_pressed_83
+  - first:
+      213: 1491498253096488858
+    second: desarSortir_pressed_84
+  - first:
+      213: -4786112805483007039
+    second: desarSortir_pressed_85
+  - first:
+      213: -5279157562262623517
+    second: desarSortir_pressed_86
+  - first:
+      213: -6348068759629695717
+    second: desarSortir_pressed_87
+  - first:
+      213: 401626503874804948
+    second: desarSortir_pressed_88
+  - first:
+      213: -5962742775888767791
+    second: desarSortir_pressed_89
+  - first:
+      213: 6574812414689574817
+    second: desarSortir_pressed_90
+  - first:
+      213: -281775810408027096
+    second: desarSortir_pressed_91
+  - first:
+      213: 8735372935158752986
+    second: desarSortir_pressed_92
+  - first:
+      213: 7335676276376875901
+    second: desarSortir_pressed_93
+  - first:
+      213: 3992842884434729035
+    second: desarSortir_pressed_94
+  - first:
+      213: 261720113495182026
+    second: desarSortir_pressed_95
+  - first:
+      213: -849561736668374433
+    second: desarSortir_pressed_96
+  - first:
+      213: -7254096812779758634
+    second: desarSortir_pressed_97
+  - first:
+      213: 4001838800593020257
+    second: desarSortir_pressed_98
+  - first:
+      213: -1512010739247108562
+    second: desarSortir_pressed_99
+  - first:
+      213: -1892482310242824159
+    second: desarSortir_pressed_100
+  - first:
+      213: 2988169286030680852
+    second: desarSortir_pressed_101
+  - first:
+      213: -4392350679713760420
+    second: desarSortir_pressed_102
+  - first:
+      213: 7387158610434216262
+    second: desarSortir_pressed_103
+  - first:
+      213: -3674104465256842985
+    second: desarSortir_pressed_104
+  - first:
+      213: -1172491649837097631
+    second: desarSortir_pressed_105
+  - first:
+      213: -1165770351306588955
+    second: desarSortir_pressed_106
+  - first:
+      213: -5854280705287197953
+    second: desarSortir_pressed_107
+  - first:
+      213: -8913018719527830911
+    second: desarSortir_pressed_108
+  - first:
+      213: 3473398444237639201
+    second: desarSortir_pressed_109
+  - first:
+      213: 4902766283277319752
+    second: desarSortir_pressed_110
+  - first:
+      213: -6447712758159185393
+    second: desarSortir_pressed_111
+  - first:
+      213: 2307540452295574453
+    second: desarSortir_pressed_112
+  - first:
+      213: 2696102155697572284
+    second: desarSortir_pressed_113
+  - first:
+      213: -3254004721707518397
+    second: desarSortir_pressed_114
+  - first:
+      213: 4619879905279058329
+    second: desarSortir_pressed_115
+  - first:
+      213: 178475671114987976
+    second: desarSortir_pressed_116
+  - first:
+      213: 8316644134487979985
+    second: desarSortir_pressed_117
+  - first:
+      213: -7660169161724263220
+    second: desarSortir_pressed_118
+  - first:
+      213: 5200352888827475924
+    second: desarSortir_pressed_119
+  - first:
+      213: 8789420569469856149
+    second: desarSortir_pressed_120
+  - first:
+      213: 2284276793933906578
+    second: desarSortir_pressed_121
+  - first:
+      213: 3609228042367048075
+    second: desarSortir_pressed_122
+  - first:
+      213: 1368928830493039893
+    second: desarSortir_pressed_123
+  - first:
+      213: 9120263606863822246
+    second: desarSortir_pressed_124
+  - first:
+      213: -5861471274122036024
+    second: desarSortir_pressed_125
+  - first:
+      213: -3541380977252132106
+    second: desarSortir_pressed_126
+  - first:
+      213: -5717069107027494621
+    second: desarSortir_pressed_127
+  - first:
+      213: -6751314754431557353
+    second: desarSortir_pressed_128
+  - first:
+      213: -5866478116199525077
+    second: desarSortir_pressed_129
+  - first:
+      213: 4244264607876923669
+    second: desarSortir_pressed_130
+  - first:
+      213: 8857854225512276934
+    second: desarSortir_pressed_131
+  - first:
+      213: -8854806020805371695
+    second: desarSortir_pressed_132
+  - first:
+      213: 4704098139959533802
+    second: desarSortir_pressed_133
+  - first:
+      213: -1045192756232634297
+    second: desarSortir_pressed_134
+  - first:
+      213: -2423336748441995345
+    second: desarSortir_pressed_135
+  - first:
+      213: -2496908573817829745
+    second: desarSortir_pressed_136
+  - first:
+      213: -7683882141585746720
+    second: desarSortir_pressed_137
+  - first:
+      213: 8613872349577790767
+    second: desarSortir_pressed_138
+  - first:
+      213: -4752932598598121357
+    second: desarSortir_pressed_139
+  - first:
+      213: 6109686573165139912
+    second: desarSortir_pressed_140
+  - first:
+      213: 6925967947957379464
+    second: desarSortir_pressed_141
+  - first:
+      213: 4592623956155593540
+    second: desarSortir_pressed_142
+  - first:
+      213: 6408011456706310640
+    second: desarSortir_pressed_143
+  - first:
+      213: 7523847117148424700
+    second: desarSortir_pressed_144
+  - first:
+      213: 8288701732178615355
+    second: desarSortir_pressed_145
+  - first:
+      213: 1922934962622190885
+    second: desarSortir_pressed_146
+  - first:
+      213: -3231602027875947156
+    second: desarSortir_pressed_147
+  - first:
+      213: 4218234249426224848
+    second: desarSortir_pressed_148
+  - first:
+      213: -8232162332275418129
+    second: desarSortir_pressed_149
+  - first:
+      213: -4008972727806163104
+    second: desarSortir_pressed_150
+  - first:
+      213: 6625509340518426017
+    second: desarSortir_pressed_151
+  - first:
+      213: 4383406391897425709
+    second: desarSortir_pressed_152
+  - first:
+      213: 1432803363670168486
+    second: desarSortir_pressed_153
+  - first:
+      213: -3164054686653272810
+    second: desarSortir_pressed_154
+  - first:
+      213: 2052427265413135416
+    second: desarSortir_pressed_155
+  - first:
+      213: -1573585551967974757
+    second: desarSortir_pressed_156
+  - first:
+      213: -3224212617200128999
+    second: desarSortir_pressed_157
+  - first:
+      213: 2304900116007748063
+    second: desarSortir_pressed_158
+  - first:
+      213: -5921969259859973021
+    second: desarSortir_pressed_159
+  - first:
+      213: 1121111724722143457
+    second: desarSortir_pressed_160
+  - first:
+      213: 6401075407568554488
+    second: desarSortir_pressed_161
+  - first:
+      213: -7872331910721544239
+    second: desarSortir_pressed_162
+  - first:
+      213: 6677418493383806293
+    second: desarSortir_pressed_163
+  - first:
+      213: -9183425370168864033
+    second: desarSortir_pressed_164
+  - first:
+      213: -1619407657595225949
+    second: desarSortir_pressed_165
+  - first:
+      213: -8383445169340864356
+    second: desarSortir_pressed_166
+  - first:
+      213: 63817275387245312
+    second: desarSortir_pressed_167
+  - first:
+      213: 2596512268261283299
+    second: desarSortir_pressed_168
+  - first:
+      213: 188650330095404883
+    second: desarSortir_pressed_169
+  - first:
+      213: 5803773943423028811
+    second: desarSortir_pressed_170
+  - first:
+      213: 536419731096690975
+    second: desarSortir_pressed_171
+  - first:
+      213: -8137074292321983393
+    second: desarSortir_pressed_172
+  - first:
+      213: 5085507940036453844
+    second: desarSortir_pressed_173
+  - first:
+      213: 4976867356217678847
+    second: desarSortir_pressed_174
+  - first:
+      213: 5769742535988729066
+    second: desarSortir_pressed_175
+  - first:
+      213: 4412692176114791007
+    second: desarSortir_pressed_176
+  - first:
+      213: -23825344881327844
+    second: desarSortir_pressed_177
+  - first:
+      213: 1624002510549708703
+    second: desarSortir_pressed_178
+  - first:
+      213: 1246591354263577506
+    second: desarSortir_pressed_179
+  - first:
+      213: 4571588376387477821
+    second: desarSortir_pressed_180
+  - first:
+      213: 9060227835798214758
+    second: desarSortir_pressed_181
+  - first:
+      213: 7831482171104836436
+    second: desarSortir_pressed_182
+  - first:
+      213: -383250179523420640
+    second: desarSortir_pressed_183
+  - first:
+      213: -7831037945374143946
+    second: desarSortir_pressed_184
+  - first:
+      213: 1032203756361671375
+    second: desarSortir_pressed_185
+  - first:
+      213: 7153058644055352474
+    second: desarSortir_pressed_186
+  - first:
+      213: 4154280383305224268
+    second: desarSortir_pressed_187
+  - first:
+      213: 1925549433816243039
+    second: desarSortir_pressed_188
+  - first:
+      213: -4127352218005828514
+    second: desarSortir_pressed_189
+  - first:
+      213: 6977264427735662538
+    second: desarSortir_pressed_190
+  - first:
+      213: -7969448411662501123
+    second: desarSortir_pressed_191
+  - first:
+      213: 2407893278387911451
+    second: desarSortir_pressed_192
+  - first:
+      213: -1009569090423371817
+    second: desarSortir_pressed_193
+  - first:
+      213: -7684015650081697967
+    second: desarSortir_pressed_194
+  - first:
+      213: -4173551453723105148
+    second: desarSortir_pressed_195
+  - first:
+      213: 259598808439259071
+    second: desarSortir_pressed_196
+  - first:
+      213: -4802707099009659370
+    second: desarSortir_pressed_197
+  - first:
+      213: -6971697188592669392
+    second: desarSortir_pressed_198
+  - first:
+      213: 6310185919910551911
+    second: desarSortir_pressed_199
+  - first:
+      213: -2636625858342108489
+    second: desarSortir_pressed_200
+  - first:
+      213: 8146767194028876131
+    second: desarSortir_pressed_201
+  - first:
+      213: -887631219956578423
+    second: desarSortir_pressed_202
+  - first:
+      213: 6382257594261042262
+    second: desarSortir_pressed_203
+  - first:
+      213: -1507778926169422838
+    second: desarSortir_pressed_204
+  - first:
+      213: 5185040640405815143
+    second: desarSortir_pressed_205
+  - first:
+      213: 4587289045188177712
+    second: desarSortir_pressed_206
+  - first:
+      213: -956346573190530620
+    second: desarSortir_pressed_207
+  - first:
+      213: -2923446058765578759
+    second: desarSortir_pressed_208
+  - first:
+      213: -4532590495771121396
+    second: desarSortir_pressed_209
+  - first:
+      213: -7613010285561564800
+    second: desarSortir_pressed_210
+  - first:
+      213: 1266540746147700465
+    second: desarSortir_pressed_211
+  - first:
+      213: -246183913910793012
+    second: desarSortir_pressed_212
+  - first:
+      213: 9046009473028288212
+    second: desarSortir_pressed_213
+  - first:
+      213: 4094984857647378999
+    second: desarSortir_pressed_214
+  - first:
+      213: 7651303259174455104
+    second: desarSortir_pressed_215
+  - first:
+      213: -7871807349156080183
+    second: desarSortir_pressed_216
+  - first:
+      213: 347150191504393330
+    second: desarSortir_pressed_217
+  - first:
+      213: -935100763738550610
+    second: desarSortir_pressed_218
+  - first:
+      213: 4398342990525779951
+    second: desarSortir_pressed_219
+  - first:
+      213: -3098874933695713228
+    second: desarSortir_pressed_220
+  - first:
+      213: 5658109539376184816
+    second: desarSortir_pressed_221
+  - first:
+      213: 1219797064950789049
+    second: desarSortir_pressed_222
+  - first:
+      213: 6652758468714424036
+    second: desarSortir_pressed_223
+  - first:
+      213: 7137546570934506528
+    second: desarSortir_pressed_224
+  - first:
+      213: 6515671442788059357
+    second: desarSortir_pressed_225
+  - first:
+      213: 151097623131698282
+    second: desarSortir_pressed_226
+  - first:
+      213: -7180788209466857045
+    second: desarSortir_pressed_227
+  - first:
+      213: 3463809549686031444
+    second: desarSortir_pressed_228
+  - first:
+      213: 2840067594983030843
+    second: desarSortir_pressed_229
+  - first:
+      213: -8048189219267047041
+    second: desarSortir_pressed_230
+  - first:
+      213: -6481005871775039515
+    second: desarSortir_pressed_231
+  - first:
+      213: 1711043339094530560
+    second: desarSortir_pressed_232
+  - first:
+      213: -3769931890847869141
+    second: desarSortir_pressed_233
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: desarSortir_pressed_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4024
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88422c221f14500800000000000000
+      internalID: 378848975264188653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 4024
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd64cacb0eacb8d90800000000000000
+      internalID: -7094353721405192485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 4024
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690033fa86e9b5510800000000000000
+      internalID: 1538997870130299030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_3
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316378f0d9a115210800000000000000
+      internalID: 1319865427668973075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_4
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5802199b9baebd470800000000000000
+      internalID: 8420582011702419589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_5
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf2bb6bcaee86cb0800000000000000
+      internalID: -4870380571433685046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_6
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133c14b9d34a82210800000000000000
+      internalID: 1308476276255867697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_7
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db424dae96ed3b0800000000000000
+      internalID: -5485830838788244145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_8
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e904a84a3d6de0800000000000000
+      internalID: -1338349430595002116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_9
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01533962effb8c10800000000000000
+      internalID: 2057019002717425932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_10
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc84177c1d124870800000000000000
+      internalID: 8665520641108380856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_11
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560db435bd0084830800000000000000
+      internalID: 4055492406442446949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_12
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 4024
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31432ae7af04ebd0800000000000000
+      internalID: -2601937470851169989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe104224a54db8ff0800000000000000
+      internalID: -32699088153345553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3535ad8a4e7326390800000000000000
+      internalID: -7826631747191549101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b056dc649a231240800000000000000
+      internalID: 4761196048030257336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8e94144be353d0800000000000000
+      internalID: -3218970631003533436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_17
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f69cc3e45315ee80800000000000000
+      internalID: -8150086695337027852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_18
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508a09f316f13c90800000000000000
+      internalID: -7191696564290944932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_19
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaf9ff4159856760800000000000000
+      internalID: 7450512140881492667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_20
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3ae51118321530800000000000000
+      internalID: 3824180679624245170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9975ffd67812033f0800000000000000
+      internalID: -923201058061199463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_22
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23996c4b8c05840d0800000000000000
+      internalID: -3438409492540778190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_23
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fdec98cb29c4840800000000000000
+      internalID: 5209700207424364357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_24
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4bcc2109c2158c0800000000000000
+      internalID: -4012376795708082947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_25
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf98224adc3ab80800000000000000
+      internalID: -8384631976395932667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b21a4cb2c120ca0800000000000000
+      internalID: -6052243974924457206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77effc28096aea330800000000000000
+      internalID: 3724097081482149495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641e984fb2aa9ea10800000000000000
+      internalID: 1939268220322701638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_29
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073fe244ae2bfece0800000000000000
+      internalID: -1373682642088692880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_30
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93075eff1133c79e0800000000000000
+      internalID: -1622365613359534023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_31
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff0db2a83241e260800000000000000
+      internalID: 7125048896492736500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_32
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527adbf4e352ba570800000000000000
+      internalID: 8478911673011119909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_33
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90260cfb5aca02bf0800000000000000
+      internalID: -351090943048261111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_34
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fa8bec74495d390800000000000000
+      internalID: -7794160543962976443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_35
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8500a70eeefd42cc0800000000000000
+      internalID: -3736615573749366696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_36
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e024bc182a56ac740800000000000000
+      internalID: 5173058870625124878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_37
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da764b94320b7e0800000000000000
+      internalID: -1751861455580844683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_38
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3874
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee4f05e98c045f70800000000000000
+      internalID: 9174972127253581548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653fc2484842bdb0800000000000000
+      internalID: -4777676779490953880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_40
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd232719595882e0800000000000000
+      internalID: -2123348985130046005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_41
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bf6f1524bb5e7b0800000000000000
+      internalID: -5195540701584622792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_42
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8e9e2cffb32de10800000000000000
+      internalID: 2220903535919884463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_43
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5177830c1840e900800000000000000
+      internalID: 711648026280030559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_44
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e4d85b8394473e0800000000000000
+      internalID: -2056938621888541064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_45
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb3f4287ce5ed0f0800000000000000
+      internalID: -1090329848799347747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_46
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13eade3a27d26070800000000000000
+      internalID: 8098271656408703775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_47
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ddc997b70fe7e60800000000000000
+      internalID: 7962065604349582731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_48
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea7b46e8d6f6bf90800000000000000
+      internalID: -6938086764480595226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_49
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad1774b2d55cb50800000000000000
+      internalID: 6612794068327062028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_50
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e8e69f5a858c4e0800000000000000
+      internalID: -1961220167842230683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_51
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057f9249290df0dc0800000000000000
+      internalID: -3670485843314084016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfdbb25485138f30800000000000000
+      internalID: 4576525304406466505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_53
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464a6b62b46cb2460800000000000000
+      internalID: 7218080853865702500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_54
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4cabfd58696b5b0800000000000000
+      internalID: -5352925605354879823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_55
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6701bb0ea4f5480800000000000000
+      internalID: -8908319208844003615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_56
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35073b8bfd0d21720800000000000000
+      internalID: 2815542376355033171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_57
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e76f74362da8e50800000000000000
+      internalID: 6812488710202228334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_58
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cfd8f4120a0c7a0800000000000000
+      internalID: -6358906608918070126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_59
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574b75bb5ceeb420800000000000000
+      internalID: 2647813509571364703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_60
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad0027300b6f9860800000000000000
+      internalID: 7538861949910519211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_61
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6987302438ca1b0800000000000000
+      internalID: -5643991913452759316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_62
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103665e7939bd4ff0800000000000000
+      internalID: -50180364247342335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_63
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275fd430ea282ce0800000000000000
+      internalID: -1429845739242039520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_64
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e3373d0992db10800000000000000
+      internalID: 2004833066173064019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3dd45b55b836740800000000000000
+      internalID: 5144108399617496037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_66
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e3c9d297f178220800000000000000
+      internalID: 2487991924462206566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_67
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e2fe0961b492760800000000000000
+      internalID: 7433555220244672082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_68
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97977b959b8231e0800000000000000
+      internalID: -2219558191665539170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_69
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3303ce0b477dfd0800000000000000
+      internalID: -2317255180033182813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_70
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64563aaaf89197c0800000000000000
+      internalID: -4066300786173914002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_71
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a7778517b20ccf0800000000000000
+      internalID: -234139414807741898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_72
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25172ef96f518d6f0800000000000000
+      internalID: -659753196421222062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_73
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538aa53896a0c16b0800000000000000
+      internalID: -5324369211167168459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_74
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67181608d5d05d880800000000000000
+      internalID: -8586942419274989194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_75
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e906003cc4b49120800000000000000
+      internalID: 2419757688876829154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_76
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf5ac537ebab30e0800000000000000
+      internalID: -2289046976059514918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_77
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c6e7db9ec245d80800000000000000
+      internalID: -8262930033899836382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1d5457255ba7df0800000000000000
+      internalID: -181633469195628051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_79
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89530e3b73b3652e0800000000000000
+      internalID: -2137455862713666152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_80
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b135360901391280800000000000000
+      internalID: -9072166059532537415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_81
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2397081b03a2b7a0800000000000000
+      internalID: -6362844055477972180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_82
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a564b8f2bf2380b90800000000000000
+      internalID: -7275509143601199526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_83
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e8b90fe05738fe0800000000000000
+      internalID: -1187977169668960764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_84
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f8ee642cdd2b410800000000000000
+      internalID: 1491498253096488858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_85
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3bc36e2cf449db0800000000000000
+      internalID: -4786112805483007039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_86
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eae404da2aacb6b0800000000000000
+      internalID: -5279157562262623517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_87
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15748cb81127e7a0800000000000000
+      internalID: -6348068759629695717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_88
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf6d76d2dd29500800000000000000
+      internalID: 401626503874804948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_89
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49f1c8905104da0800000000000000
+      internalID: -5962742775888767791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_90
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3570
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af766a6e0d6e3b50800000000000000
+      internalID: 6574812414689574817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_91
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ce452b46ee61cf0800000000000000
+      internalID: -281775810408027096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_92
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6e2bc07674a3970800000000000000
+      internalID: 8735372935158752986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_93
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7334b015be8dc560800000000000000
+      internalID: 7335676276376875901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_94
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b489daac27d696730800000000000000
+      internalID: 3992842884434729035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_95
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca847b7e01d1a300800000000000000
+      internalID: 261720113495182026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_96
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a1e170a10c534f0800000000000000
+      internalID: -849561736668374433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_97
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db18f3f165445b90800000000000000
+      internalID: -7254096812779758634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_98
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165e8bdbf23698730800000000000000
+      internalID: 4001838800593020257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_99
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea99e5e32440be0800000000000000
+      internalID: -1512010739247108562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_100
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120144a9d5d8cb5e0800000000000000
+      internalID: -1892482310242824159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_101
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4136796322c187920800000000000000
+      internalID: 2988169286030680852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_102
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b37b6145c3b03c0800000000000000
+      internalID: -4392350679713760420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_103
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3496
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641566a0e95748660800000000000000
+      internalID: 7387158610434216262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3420
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71970b08475f20dc0800000000000000
+      internalID: -3674104465256842985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_105
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d195d7e097abfe0800000000000000
+      internalID: -1172491649837097631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_106
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3420
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec30b0ca0a52dfe0800000000000000
+      internalID: -1165770351306588955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_107
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaeee147ba61cea0800000000000000
+      internalID: -5854280705287197953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_108
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af222a2b89e4480800000000000000
+      internalID: -8913018719527830911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_109
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ecd207b7df33030800000000000000
+      internalID: 3473398444237639201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_110
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb18b65ff1a0440800000000000000
+      internalID: 4902766283277319752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_111
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aea2c686f1586a0800000000000000
+      internalID: -6447712758159185393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_112
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30ce3c0d7060020800000000000000
+      internalID: 2307540452295574453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_113
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9c48440aa7a6520800000000000000
+      internalID: 2696102155697572284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_114
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346fd2132f377d2d0800000000000000
+      internalID: -3254004721707518397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_115
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991af13fb4c1d1040800000000000000
+      internalID: 4619879905279058329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_116
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3420
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9bbd16da21a7200800000000000000
+      internalID: 178475671114987976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7fd7fd6c7aa6370800000000000000
+      internalID: 8316644134487979985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_118
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc406049bbc91b590800000000000000
+      internalID: -7660169161724263220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_119
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3346
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7fc35566d5b2840800000000000000
+      internalID: 5200352888827475924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_120
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59923c8807b4af970800000000000000
+      internalID: 8789420569469856149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_121
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292491734a163bf10800000000000000
+      internalID: 2284276793933906578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_122
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899aa238cd861230800000000000000
+      internalID: 3609228042367048075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_123
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d1458b4896ff210800000000000000
+      internalID: 1368928830493039893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_124
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad7a01ed6fa19e70800000000000000
+      internalID: 9120263606863822246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_125
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccbccc7eeed7aea0800000000000000
+      internalID: -5861471274122036024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_126
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9f84a3cc7adec0800000000000000
+      internalID: -3541380977252132106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_127
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329344fffe3e8a0b0800000000000000
+      internalID: -5717069107027494621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_128
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711e04730038e42a0800000000000000
+      internalID: -6751314754431557353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_129
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3346
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2513593c35169ea0800000000000000
+      internalID: -5866478116199525077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_130
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511444d7c28a6ea30800000000000000
+      internalID: 4244264607876923669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_131
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c32ad7bc7b6dea70800000000000000
+      internalID: 8857854225512276934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_132
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d7eeb6d86d1580800000000000000
+      internalID: -8854806020805371695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_133
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae02ddcb550584140800000000000000
+      internalID: 4704098139959533802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_134
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74041f2d9babe71f0800000000000000
+      internalID: -1045192756232634297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_135
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f6f111149e5ed0800000000000000
+      internalID: -2423336748441995345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_136
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8606fc91e2395dd0800000000000000
+      internalID: -2496908573817829745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_137
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e450d637ed5d5590800000000000000
+      internalID: -7683882141585746720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_138
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25c421834f9a8770800000000000000
+      internalID: 8613872349577790767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_139
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3272
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3784f23dbf03a0eb0800000000000000
+      internalID: -4752932598598121357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_140
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3272
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c75b7a5197f9c450800000000000000
+      internalID: 6109686573165139912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_141
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3272
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881adbf372bfd1060800000000000000
+      internalID: 6925967947957379464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_142
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3272
+        width: 308
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437a95c7274cbf30800000000000000
+      internalID: 4592623956155593540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_143
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3196
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1fc910874dde850800000000000000
+      internalID: 6408011456706310640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_144
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3196
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf98af907131a6860800000000000000
+      internalID: 7523847117148424700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_145
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3196
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cdbab5f42670370800000000000000
+      internalID: 8288701732178615355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_146
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3196
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525564d0923afaa10800000000000000
+      internalID: 1922934962622190885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_147
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3196
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da501d31b0723d0800000000000000
+      internalID: -3231602027875947156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_148
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3196
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6cf6063bd2a8a30800000000000000
+      internalID: 4218234249426224848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_149
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3196
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb5f5389fb71cd80800000000000000
+      internalID: -8232162332275418129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_150
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3196
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06782e46b844d58c0800000000000000
+      internalID: -4008972727806163104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_151
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3196
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a522a944a982fb50800000000000000
+      internalID: 6625509340518426017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_152
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3196
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27093f93ecf4dc30800000000000000
+      internalID: 4383406391897425709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_153
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3196
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a39b84611752e310800000000000000
+      internalID: 1432803363670168486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_154
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3196
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d2f10c6050714d0800000000000000
+      internalID: -3164054686653272810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_155
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3196
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cb64249bfab7c10800000000000000
+      internalID: 2052427265413135416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a03471740892ae0800000000000000
+      internalID: -1573585551967974757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_157
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c247f05bb4143d0800000000000000
+      internalID: -3224212617200128999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_158
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd106619176acff10800000000000000
+      internalID: 2304900116007748063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_159
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c63478550f0dda0800000000000000
+      internalID: -5921969259859973021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_160
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0c6997c2dfe8f00800000000000000
+      internalID: 1121111724722143457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_161
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9cc983b2035d850800000000000000
+      internalID: 6401075407568554488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_162
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df587b26dbdfb290800000000000000
+      internalID: -7872331910721544239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_163
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d04c2cdb4faac50800000000000000
+      internalID: 6677418493383806293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_164
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd256cd184bed8080800000000000000
+      internalID: -9183425370168864033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_165
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a83d7eb055b689e0800000000000000
+      internalID: -1619407657595225949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_166
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98297f290508ab80800000000000000
+      internalID: -8383445169340864356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_167
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0037dfd4979b2e000800000000000000
+      internalID: 63817275387245312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_168
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3120
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e558aca62aa80420800000000000000
+      internalID: 2596512268261283299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_169
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3046
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357c818c9783e9200800000000000000
+      internalID: 188650330095404883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_170
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3046
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ec56ed6a52b8050800000000000000
+      internalID: 5803773943423028811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_171
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3046
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11678247eeb17700800000000000000
+      internalID: 536419731096690975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_172
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 3046
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546f2f0b0e431f80800000000000000
+      internalID: -8137074292321983393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_173
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 3046
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52d4cf68a539640800000000000000
+      internalID: 5085507940036453844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_174
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3044
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb979ded72611540800000000000000
+      internalID: 4976867356217678847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_175
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 3044
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d11f544e321050800000000000000
+      internalID: 5769742535988729066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_176
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 3044
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b77c97280d3d30800000000000000
+      internalID: 4412692176114791007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_177
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 3044
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1182bd99fa5baff0800000000000000
+      internalID: -23825344881327844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_178
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 3044
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f68a3ddad998610800000000000000
+      internalID: 1624002510549708703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_179
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 3046
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a324f26b38cc4110800000000000000
+      internalID: 1246591354263577506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_180
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3046
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3161e1386b817f30800000000000000
+      internalID: 4571588376387477821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_181
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 3046
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668dbd8a6356cbd70800000000000000
+      internalID: 9060227835798214758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_182
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3289aa830fac60800000000000000
+      internalID: 7831482171104836436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_183
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ed6650efb6eaaf0800000000000000
+      internalID: -383250179523420640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_184
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a8e53ba70925390800000000000000
+      internalID: -7831037945374143946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_185
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2e2c9f8df135e00800000000000000
+      internalID: 1032203756361671375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_186
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e47030f4c44360800000000000000
+      internalID: 7153058644055352474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_187
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4018409ff7f6a930800000000000000
+      internalID: 4154280383305224268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_188
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5210120de8ba10800000000000000
+      internalID: 1925549433816243039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_189
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c87de7603b8b6c0800000000000000
+      internalID: -4127352218005828514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_190
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf3727a70934d060800000000000000
+      internalID: 6977264427735662538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_191
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa3e0fb4e4d66190800000000000000
+      internalID: -7969448411662501123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_192
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bbc5bdd2e8a6120800000000000000
+      internalID: 2407893278387911451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_193
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7c91dd24a4df1f0800000000000000
+      internalID: -1009569090423371817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_194
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 2970
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f86585a74ec5590800000000000000
+      internalID: -7684015650081697967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_195
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e405b0119416c0800000000000000
+      internalID: -4173551453723105148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_196
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbff229adb74a9300800000000000000
+      internalID: 259598808439259071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_197
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e484bd65b595db0800000000000000
+      internalID: -4802707099009659370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_198
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2858385e8f3f90800000000000000
+      internalID: -6971697188592669392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_199
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761a0fe49a8429750800000000000000
+      internalID: 6310185919910551911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_200
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c8e350c2d86bd0800000000000000
+      internalID: -2636625858342108489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_201
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361a5eb79912f0170800000000000000
+      internalID: 8146767194028876131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_202
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98701fabb108ea3f0800000000000000
+      internalID: -887631219956578423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_203
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654f7f2a775529850800000000000000
+      internalID: 6382257594261042262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_204
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 2894
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a040ad12e0b431be0800000000000000
+      internalID: -1507778926169422838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_205
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 2894
+        width: 310
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f3a5dadf6f4f740800000000000000
+      internalID: 5185040640405815143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_206
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2894
+        width: 310
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f6b74051359af30800000000000000
+      internalID: 4587289045188177712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_207
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 2894
+        width: 310
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f0decbdf5ab2f0800000000000000
+      internalID: -956346573190530620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_208
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2820
+        width: 310
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd03437c45dd67d0800000000000000
+      internalID: -2923446058765578759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_209
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2820
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09204375f00911c0800000000000000
+      internalID: -4532590495771121396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_210
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2820
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08135b11b77295690800000000000000
+      internalID: -7613010285561564800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_211
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2820
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe11b32918a39110800000000000000
+      internalID: 1266540746147700465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_212
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2820
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc8eedd801659cf0800000000000000
+      internalID: -246183913910793012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_213
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 2820
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de6baa10b1e98d70800000000000000
+      internalID: 9046009473028288212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_214
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2820
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732fca8280f44d830800000000000000
+      internalID: 4094984857647378999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_215
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2820
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047c1ef96c3ee2a60800000000000000
+      internalID: 7651303259174455104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_216
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2820
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c51e3d2ce8b1c290800000000000000
+      internalID: -7871807349156080183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_217
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2820
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2740458824351d400800000000000000
+      internalID: 347150191504393330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_218
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 2820
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeca2c4fcad503f0800000000000000
+      internalID: -935100763738550610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_219
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2820
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef4e9e75ad0a0d30800000000000000
+      internalID: 4398342990525779951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_220
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2820
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43074b59aa59ef4d0800000000000000
+      internalID: -3098874933695713228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_221
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd34cae5a4a58e40800000000000000
+      internalID: 5658109539376184816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_222
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b472c7f69de010800000000000000
+      internalID: 1219797064950789049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_223
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6e1385498535c50800000000000000
+      internalID: 6652758468714424036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_224
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024db583ac8ad0360800000000000000
+      internalID: 7137546570934506528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_225
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd80a8cd7a05c6a50800000000000000
+      internalID: 6515671442788059357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_226
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64bb29dc7ec81200800000000000000
+      internalID: 151097623131698282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_227
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba92a6f3b27b85c90800000000000000
+      internalID: -7180788209466857045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_228
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45444a2fe6ce11030800000000000000
+      internalID: 3463809549686031444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_229
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30cf092e62f96720800000000000000
+      internalID: 2840067594983030843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_230
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f719574db861f4090800000000000000
+      internalID: -8048189219267047041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_231
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb0a95f77de06a0800000000000000
+      internalID: -6481005871775039515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_232
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a1706f9d8deb710800000000000000
+      internalID: 1711043339094530560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desarSortir_pressed_233
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 2744
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2798925be28eabc0800000000000000
+      internalID: -3769931890847869141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

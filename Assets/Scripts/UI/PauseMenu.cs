@@ -14,6 +14,8 @@ namespace Platformer.Mechanics
         public PlayerManager playerHealth;
         public GameObject pauseMenuUI;
 
+        private int currentSceneIndex;   
+
         //Función que se ejecuta en cada frame del juego y que activa o desactiva el menú de pausa si se apreta la tecla definida y se cumple la condición establecida
         void Update ()
         {
@@ -44,6 +46,15 @@ namespace Platformer.Mechanics
             pauseMenuUI.SetActive(true);
             Time.timeScale = 0f;
             gameIsPaused = true;
+        }
+
+        //Función que guarda el índice de la escena activa y devuelve al menú principal
+        public void SaveAndExit ()
+        {
+            currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+            PlayerPrefs.SetInt("SavedScene", currentSceneIndex);
+            Time.timeScale = 1f;
+            SceneManager.LoadScene(0);
         }
 
         //Función que reinicia la escena activa

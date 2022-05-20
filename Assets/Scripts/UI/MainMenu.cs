@@ -8,6 +8,8 @@ namespace Platformer.Mechanics
     //Clase que controla las acciones del menú principal
     public class MainMenu : MonoBehaviour
     {
+        private int lastScene;
+        
         //Función que vuelve a cargar el juego desde la primera pantalla
         public void NewGame()
         {
@@ -15,11 +17,17 @@ namespace Platformer.Mechanics
             Time.timeScale = 1f;
         }
 
-        //Función que carga la escena guardada
+        //Función que carga la última escena jugada
         public void LoadGame()
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-            Time.timeScale = 1f;
+            lastScene = PlayerPrefs.GetInt("SavedScene");
+
+            if (lastScene !=0)
+            {
+                SceneManager.LoadScene((int)(lastScene));
+                Time.timeScale = 1f;
+            }
+            else return;
         }
 
         //Función que finaliza el juego

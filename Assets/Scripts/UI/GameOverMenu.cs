@@ -12,7 +12,6 @@ namespace Platformer.Mechanics
         public static bool gameOverOpen = false;
 
         public GameObject gameOverMenu;
-        public GameObject pauseMenu;
 
         //Función que reinicia la escena activa
         public void ReloadGame()
@@ -25,6 +24,7 @@ namespace Platformer.Mechanics
         public void ReturnMainMenu()
         {
             SceneManager.LoadScene(0);
+            Time.timeScale = 1f;
         }
     } 
 }

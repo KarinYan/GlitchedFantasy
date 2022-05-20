@@ -1,0 +1,5652 @@
+fileFormatVersion: 2
+guid: 8ec7cf7de91959a4dac2eca95c9c49c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5341593129015547061
+    second: tornar_pressed_0
+  - first:
+      213: -7103372826431127196
+    second: tornar_pressed_1
+  - first:
+      213: 3509385041809158997
+    second: tornar_pressed_2
+  - first:
+      213: 8522930313019001447
+    second: tornar_pressed_3
+  - first:
+      213: 3128056036867560412
+    second: tornar_pressed_4
+  - first:
+      213: 7341245089991959082
+    second: tornar_pressed_5
+  - first:
+      213: 1683530086450475287
+    second: tornar_pressed_6
+  - first:
+      213: 8585528436457175657
+    second: tornar_pressed_7
+  - first:
+      213: 681021541238860613
+    second: tornar_pressed_8
+  - first:
+      213: -7373723654538521537
+    second: tornar_pressed_9
+  - first:
+      213: 4947917055865529714
+    second: tornar_pressed_10
+  - first:
+      213: -3020342317394609023
+    second: tornar_pressed_11
+  - first:
+      213: -6294935676564040251
+    second: tornar_pressed_12
+  - first:
+      213: -4901119754446388056
+    second: tornar_pressed_13
+  - first:
+      213: -5306951926922691228
+    second: tornar_pressed_14
+  - first:
+      213: -2136472103517247213
+    second: tornar_pressed_15
+  - first:
+      213: -2644567016862135609
+    second: tornar_pressed_16
+  - first:
+      213: -6206875708027308616
+    second: tornar_pressed_17
+  - first:
+      213: 4370272710518263745
+    second: tornar_pressed_18
+  - first:
+      213: -1616928464546402262
+    second: tornar_pressed_19
+  - first:
+      213: 8311866876183077148
+    second: tornar_pressed_20
+  - first:
+      213: -520589556326405981
+    second: tornar_pressed_21
+  - first:
+      213: 7484808054056265332
+    second: tornar_pressed_22
+  - first:
+      213: -7659843981334871008
+    second: tornar_pressed_23
+  - first:
+      213: 1058571057138218348
+    second: tornar_pressed_24
+  - first:
+      213: 4030235879535693126
+    second: tornar_pressed_25
+  - first:
+      213: 2813186708780257988
+    second: tornar_pressed_26
+  - first:
+      213: 5745507002883500700
+    second: tornar_pressed_27
+  - first:
+      213: 4796648874727355229
+    second: tornar_pressed_28
+  - first:
+      213: 4799066666167738564
+    second: tornar_pressed_29
+  - first:
+      213: -4330439654061983917
+    second: tornar_pressed_30
+  - first:
+      213: 6233735146132278850
+    second: tornar_pressed_31
+  - first:
+      213: -4636028028750799419
+    second: tornar_pressed_32
+  - first:
+      213: 1320094537858953345
+    second: tornar_pressed_33
+  - first:
+      213: -4567145117181785896
+    second: tornar_pressed_34
+  - first:
+      213: 2323122180869101493
+    second: tornar_pressed_35
+  - first:
+      213: -6226986886366129045
+    second: tornar_pressed_36
+  - first:
+      213: -2238557357662926271
+    second: tornar_pressed_37
+  - first:
+      213: -1469457085223146918
+    second: tornar_pressed_38
+  - first:
+      213: 6398232722680923462
+    second: tornar_pressed_39
+  - first:
+      213: 3865523519847888343
+    second: tornar_pressed_40
+  - first:
+      213: -3158796327034996343
+    second: tornar_pressed_41
+  - first:
+      213: -5797443076094871631
+    second: tornar_pressed_42
+  - first:
+      213: -5463879597428640306
+    second: tornar_pressed_43
+  - first:
+      213: -4261020204878993934
+    second: tornar_pressed_44
+  - first:
+      213: 1059004750504424278
+    second: tornar_pressed_45
+  - first:
+      213: -3766990454289983215
+    second: tornar_pressed_46
+  - first:
+      213: 827288557901667008
+    second: tornar_pressed_47
+  - first:
+      213: 3815643260629596679
+    second: tornar_pressed_48
+  - first:
+      213: 3228657960540116173
+    second: tornar_pressed_49
+  - first:
+      213: 5462702429254388628
+    second: tornar_pressed_50
+  - first:
+      213: 6894989396420011908
+    second: tornar_pressed_51
+  - first:
+      213: 3677294222775656877
+    second: tornar_pressed_52
+  - first:
+      213: -2726979610496027582
+    second: tornar_pressed_53
+  - first:
+      213: 430361053248203000
+    second: tornar_pressed_54
+  - first:
+      213: 273920150991502588
+    second: tornar_pressed_55
+  - first:
+      213: -4029615530196854591
+    second: tornar_pressed_56
+  - first:
+      213: 2093429356603737229
+    second: tornar_pressed_57
+  - first:
+      213: 1606548201544457976
+    second: tornar_pressed_58
+  - first:
+      213: 6725912101974283074
+    second: tornar_pressed_59
+  - first:
+      213: -8158017875369181429
+    second: tornar_pressed_60
+  - first:
+      213: 5967191614461065237
+    second: tornar_pressed_61
+  - first:
+      213: 5166845813618089613
+    second: tornar_pressed_62
+  - first:
+      213: -7588782291567755130
+    second: tornar_pressed_63
+  - first:
+      213: -7544234713027706886
+    second: tornar_pressed_64
+  - first:
+      213: 7727169878689701460
+    second: tornar_pressed_65
+  - first:
+      213: -284982250684241416
+    second: tornar_pressed_66
+  - first:
+      213: 5526375252816673623
+    second: tornar_pressed_67
+  - first:
+      213: 5169829705624775387
+    second: tornar_pressed_68
+  - first:
+      213: -4176734479592317143
+    second: tornar_pressed_69
+  - first:
+      213: -324817189575819689
+    second: tornar_pressed_70
+  - first:
+      213: -5232286745527075455
+    second: tornar_pressed_71
+  - first:
+      213: -6839732405929764189
+    second: tornar_pressed_72
+  - first:
+      213: 8429035791051467131
+    second: tornar_pressed_73
+  - first:
+      213: -1883187934199550975
+    second: tornar_pressed_74
+  - first:
+      213: -4546394090083549577
+    second: tornar_pressed_75
+  - first:
+      213: 7696679899717088035
+    second: tornar_pressed_76
+  - first:
+      213: -454120714107687787
+    second: tornar_pressed_77
+  - first:
+      213: -4092281040726798630
+    second: tornar_pressed_78
+  - first:
+      213: -7605328762856754335
+    second: tornar_pressed_79
+  - first:
+      213: -5945984788573133092
+    second: tornar_pressed_80
+  - first:
+      213: 7770168781464888822
+    second: tornar_pressed_81
+  - first:
+      213: -7393254252099327370
+    second: tornar_pressed_82
+  - first:
+      213: 4018259573214291158
+    second: tornar_pressed_83
+  - first:
+      213: 9163691378765310316
+    second: tornar_pressed_84
+  - first:
+      213: -5383897050335677099
+    second: tornar_pressed_85
+  - first:
+      213: 3164209653183073616
+    second: tornar_pressed_86
+  - first:
+      213: -8115486342579609479
+    second: tornar_pressed_87
+  - first:
+      213: -6780927377903679390
+    second: tornar_pressed_88
+  - first:
+      213: -6692476301629139250
+    second: tornar_pressed_89
+  - first:
+      213: -4884781614104462955
+    second: tornar_pressed_90
+  - first:
+      213: 3950161521970930111
+    second: tornar_pressed_91
+  - first:
+      213: 190738742097434197
+    second: tornar_pressed_92
+  - first:
+      213: -3632553940316156451
+    second: tornar_pressed_93
+  - first:
+      213: -8714323307174825414
+    second: tornar_pressed_94
+  - first:
+      213: -6903239254313488900
+    second: tornar_pressed_95
+  - first:
+      213: -6935000882364428146
+    second: tornar_pressed_96
+  - first:
+      213: -5443060419780390040
+    second: tornar_pressed_97
+  - first:
+      213: 777029485015360280
+    second: tornar_pressed_98
+  - first:
+      213: 503616895393214601
+    second: tornar_pressed_99
+  - first:
+      213: -2469227034268346742
+    second: tornar_pressed_100
+  - first:
+      213: -7750689092265455243
+    second: tornar_pressed_101
+  - first:
+      213: 6261867909651117117
+    second: tornar_pressed_102
+  - first:
+      213: -3894038122985436115
+    second: tornar_pressed_103
+  - first:
+      213: 6363963716745164642
+    second: tornar_pressed_104
+  - first:
+      213: -7981989593891730606
+    second: tornar_pressed_105
+  - first:
+      213: -9183045022149537917
+    second: tornar_pressed_106
+  - first:
+      213: -4811542820426571338
+    second: tornar_pressed_107
+  - first:
+      213: 288822506181146372
+    second: tornar_pressed_108
+  - first:
+      213: 5857715937223254910
+    second: tornar_pressed_109
+  - first:
+      213: 6238405315405524598
+    second: tornar_pressed_110
+  - first:
+      213: 4702993229135854335
+    second: tornar_pressed_111
+  - first:
+      213: 4673419180243751289
+    second: tornar_pressed_112
+  - first:
+      213: 6790250716227570235
+    second: tornar_pressed_113
+  - first:
+      213: 1383588284744901432
+    second: tornar_pressed_114
+  - first:
+      213: -8225640027722682710
+    second: tornar_pressed_115
+  - first:
+      213: -668741734418032133
+    second: tornar_pressed_116
+  - first:
+      213: 1143239779437555509
+    second: tornar_pressed_117
+  - first:
+      213: -4117076818862679403
+    second: tornar_pressed_118
+  - first:
+      213: -7379850010199956756
+    second: tornar_pressed_119
+  - first:
+      213: 8064812517913131560
+    second: tornar_pressed_120
+  - first:
+      213: -5457441471473079414
+    second: tornar_pressed_121
+  - first:
+      213: 937559006441748220
+    second: tornar_pressed_122
+  - first:
+      213: 5080696720427780882
+    second: tornar_pressed_123
+  - first:
+      213: -4598351552094502122
+    second: tornar_pressed_124
+  - first:
+      213: -5285656803314249728
+    second: tornar_pressed_125
+  - first:
+      213: 8396898281256537926
+    second: tornar_pressed_126
+  - first:
+      213: -3736102936387896601
+    second: tornar_pressed_127
+  - first:
+      213: 8390223852199655114
+    second: tornar_pressed_128
+  - first:
+      213: 4169009148118575042
+    second: tornar_pressed_129
+  - first:
+      213: 1597608526100418521
+    second: tornar_pressed_130
+  - first:
+      213: 3607430528914722393
+    second: tornar_pressed_131
+  - first:
+      213: 6204764281044592999
+    second: tornar_pressed_132
+  - first:
+      213: -457162684579343463
+    second: tornar_pressed_133
+  - first:
+      213: 894366114052368565
+    second: tornar_pressed_134
+  - first:
+      213: 4194074373261446524
+    second: tornar_pressed_135
+  - first:
+      213: -2487548720814161706
+    second: tornar_pressed_136
+  - first:
+      213: 8095555087452316263
+    second: tornar_pressed_137
+  - first:
+      213: 7349251716164639904
+    second: tornar_pressed_138
+  - first:
+      213: 9080696837728007989
+    second: tornar_pressed_139
+  - first:
+      213: -7672688759235683309
+    second: tornar_pressed_140
+  - first:
+      213: 3183013996003559270
+    second: tornar_pressed_141
+  - first:
+      213: 3864562173419802134
+    second: tornar_pressed_142
+  - first:
+      213: -1424984632467799795
+    second: tornar_pressed_143
+  - first:
+      213: 6807400032598352795
+    second: tornar_pressed_144
+  - first:
+      213: 859772594323310087
+    second: tornar_pressed_145
+  - first:
+      213: -2485834627388274846
+    second: tornar_pressed_146
+  - first:
+      213: -3616539014748924989
+    second: tornar_pressed_147
+  - first:
+      213: -242263209604822129
+    second: tornar_pressed_148
+  - first:
+      213: -1090343795211488685
+    second: tornar_pressed_149
+  - first:
+      213: 3089288323876894660
+    second: tornar_pressed_150
+  - first:
+      213: 2663003607472909124
+    second: tornar_pressed_151
+  - first:
+      213: -656094623804910857
+    second: tornar_pressed_152
+  - first:
+      213: 2811295767415350122
+    second: tornar_pressed_153
+  - first:
+      213: -2460919313676225433
+    second: tornar_pressed_154
+  - first:
+      213: 813598901925142294
+    second: tornar_pressed_155
+  - first:
+      213: 5889653998884781039
+    second: tornar_pressed_156
+  - first:
+      213: 1688515974513688100
+    second: tornar_pressed_157
+  - first:
+      213: -4099408246539608624
+    second: tornar_pressed_158
+  - first:
+      213: -1039343798922023357
+    second: tornar_pressed_159
+  - first:
+      213: -4901787409436753888
+    second: tornar_pressed_160
+  - first:
+      213: 8272326022511342193
+    second: tornar_pressed_161
+  - first:
+      213: 2622095645851813820
+    second: tornar_pressed_162
+  - first:
+      213: -3362307762856697100
+    second: tornar_pressed_163
+  - first:
+      213: -1344055741644284723
+    second: tornar_pressed_164
+  - first:
+      213: -4119652882031103412
+    second: tornar_pressed_165
+  - first:
+      213: -8378095318995173544
+    second: tornar_pressed_166
+  - first:
+      213: 7830452592723802220
+    second: tornar_pressed_167
+  - first:
+      213: -3453132927826454329
+    second: tornar_pressed_168
+  - first:
+      213: -7072440430669694355
+    second: tornar_pressed_169
+  - first:
+      213: 4135661767953175176
+    second: tornar_pressed_170
+  - first:
+      213: 5065659350024068480
+    second: tornar_pressed_171
+  - first:
+      213: 4475696800495342365
+    second: tornar_pressed_172
+  - first:
+      213: -2972443341513957569
+    second: tornar_pressed_173
+  - first:
+      213: -8657687472427234096
+    second: tornar_pressed_174
+  - first:
+      213: 7351408452280840116
+    second: tornar_pressed_175
+  - first:
+      213: -7197244910638754257
+    second: tornar_pressed_176
+  - first:
+      213: 1952199757347230947
+    second: tornar_pressed_177
+  - first:
+      213: 546994476130456032
+    second: tornar_pressed_178
+  - first:
+      213: -9188105254852069383
+    second: tornar_pressed_179
+  - first:
+      213: 2069993133210726119
+    second: tornar_pressed_180
+  - first:
+      213: -7813644253891862909
+    second: tornar_pressed_181
+  - first:
+      213: 3329506941000926105
+    second: tornar_pressed_182
+  - first:
+      213: 1764666133342405488
+    second: tornar_pressed_183
+  - first:
+      213: 3044301902158099520
+    second: tornar_pressed_184
+  - first:
+      213: -3339869341819540219
+    second: tornar_pressed_185
+  - first:
+      213: -9153800442148104098
+    second: tornar_pressed_186
+  - first:
+      213: 6903618125810392029
+    second: tornar_pressed_187
+  - first:
+      213: 2132727000861854960
+    second: tornar_pressed_188
+  - first:
+      213: 8357518097011464926
+    second: tornar_pressed_189
+  - first:
+      213: -4735225997793689021
+    second: tornar_pressed_190
+  - first:
+      213: -9017096964309050913
+    second: tornar_pressed_191
+  - first:
+      213: 4256264907507504831
+    second: tornar_pressed_192
+  - first:
+      213: -8072841548103325964
+    second: tornar_pressed_193
+  - first:
+      213: -4247158974212887603
+    second: tornar_pressed_194
+  - first:
+      213: -8716230379351954552
+    second: tornar_pressed_195
+  - first:
+      213: 1863605026356898686
+    second: tornar_pressed_196
+  - first:
+      213: 708319201051028488
+    second: tornar_pressed_197
+  - first:
+      213: -4777874856649697746
+    second: tornar_pressed_198
+  - first:
+      213: -8500007941905425786
+    second: tornar_pressed_199
+  - first:
+      213: 495217091962864728
+    second: tornar_pressed_200
+  - first:
+      213: 1167124908771190328
+    second: tornar_pressed_201
+  - first:
+      213: -4545865854774180118
+    second: tornar_pressed_202
+  - first:
+      213: -4534415964282798145
+    second: tornar_pressed_203
+  - first:
+      213: 2740715060041641143
+    second: tornar_pressed_204
+  - first:
+      213: -1041456648035471488
+    second: tornar_pressed_205
+  - first:
+      213: -5391146995226545914
+    second: tornar_pressed_206
+  - first:
+      213: -7691747674639586505
+    second: tornar_pressed_207
+  - first:
+      213: 540280150907122687
+    second: tornar_pressed_208
+  - first:
+      213: 4177648914486645919
+    second: tornar_pressed_209
+  - first:
+      213: 5439467481673081165
+    second: tornar_pressed_210
+  - first:
+      213: 6766728011294046790
+    second: tornar_pressed_211
+  - first:
+      213: 1870975795103160502
+    second: tornar_pressed_212
+  - first:
+      213: -186192498368409062
+    second: tornar_pressed_213
+  - first:
+      213: -8782113093713367217
+    second: tornar_pressed_214
+  - first:
+      213: -3356430331880111519
+    second: tornar_pressed_215
+  - first:
+      213: 4368719543820630386
+    second: tornar_pressed_216
+  - first:
+      213: -6934216207047268620
+    second: tornar_pressed_217
+  - first:
+      213: 434193476298455383
+    second: tornar_pressed_218
+  - first:
+      213: 4067934866815906350
+    second: tornar_pressed_219
+  - first:
+      213: 7968754023179554716
+    second: tornar_pressed_220
+  - first:
+      213: 1773832027519526529
+    second: tornar_pressed_221
+  - first:
+      213: -3750159013284723996
+    second: tornar_pressed_222
+  - first:
+      213: 4216485092741987427
+    second: tornar_pressed_223
+  - first:
+      213: 6354326593795069513
+    second: tornar_pressed_224
+  - first:
+      213: -7843504679091914213
+    second: tornar_pressed_225
+  - first:
+      213: -4819716763510128398
+    second: tornar_pressed_226
+  - first:
+      213: 3837429828032992602
+    second: tornar_pressed_227
+  - first:
+      213: -6735803663742432154
+    second: tornar_pressed_228
+  - first:
+      213: -8627089688214340647
+    second: tornar_pressed_229
+  - first:
+      213: -128403831342267719
+    second: tornar_pressed_230
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tornar_pressed_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4026
+        width: 422
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b493ad56a6212a40800000000000000
+      internalID: 5341593129015547061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 4026
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4610965bc00cb6d90800000000000000
+      internalID: -7103372826431127196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4026
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553ba1d1a17d3b030800000000000000
+      internalID: 3509385041809158997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_3
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 4026
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a08e896f7874670800000000000000
+      internalID: 8522930313019001447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_4
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 4026
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d1037466196b20800000000000000
+      internalID: 3128056036867560412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_5
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 4024
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a222d06838751e560800000000000000
+      internalID: 7341245089991959082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_6
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 4024
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113093a1b91d5710800000000000000
+      internalID: 1683530086450475287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_7
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 4024
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a7b08ff9ce52770800000000000000
+      internalID: 8585528436457175657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_8
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 4024
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b6ee9cb79737900800000000000000
+      internalID: 681021541238860613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3950
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34165367654ba990800000000000000
+      internalID: -7373723654538521537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27526fcd8588aa440800000000000000
+      internalID: 4947917055865529714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_11
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3d9f2aa69516d0800000000000000
+      internalID: -3020342317394609023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_12
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5977aaa55e3a8a0800000000000000
+      internalID: -6294935676564040251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_13
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4c292fc89bbfbb0800000000000000
+      internalID: -4901119754446388056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_14
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db2b3075be956b0800000000000000
+      internalID: -5306951926922691228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_15
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3952
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319a25df0f9b952e0800000000000000
+      internalID: -2136472103517247213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_16
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 3952
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cac7374f4c9c4bd0800000000000000
+      internalID: -2644567016862135609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_17
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 3952
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f702dd6fbcd9a0800000000000000
+      internalID: -6206875708027308616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3878
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf460220e356ac30800000000000000
+      internalID: 4370272710518263745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3878
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a207e7bd0248f89e0800000000000000
+      internalID: -1616928464546402262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_20
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3878
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116a3fb2eea95370800000000000000
+      internalID: 8311866876183077148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_21
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3878
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e2658e8e76c8f0800000000000000
+      internalID: -520589556326405981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_22
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3878
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a10ad4416fd760800000000000000
+      internalID: 7484808054056265332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3878
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0240f998b74c2b590800000000000000
+      internalID: -7659843981334871008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_24
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 3878
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65bb3694ccc0be00800000000000000
+      internalID: 1058571057138218348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_25
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 3878
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d42c8ed264ee730800000000000000
+      internalID: 4030235879535693126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_26
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3878
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c292bf18627a0720800000000000000
+      internalID: 2813186708780257988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3804
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ae3699d242cbf40800000000000000
+      internalID: 5745507002883500700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3804
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53b662ecbe119240800000000000000
+      internalID: 4796648874727355229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_29
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3804
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a852d4b5b99240800000000000000
+      internalID: 4799066666167738564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_30
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 3804
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357be5a041037e3c0800000000000000
+      internalID: -4330439654061983917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_31
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3804
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0511761da28650800000000000000
+      internalID: 6233735146132278850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_32
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3804
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cddd81121589afb0800000000000000
+      internalID: -4636028028750799419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_33
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 3804
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180340fecfae15210800000000000000
+      internalID: 1320094537858953345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_34
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 3804
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d848b4b6bd3e90c0800000000000000
+      internalID: -4567145117181785896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_35
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3804
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b79888a0536d3020800000000000000
+      internalID: 2323122180869101493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3728
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6491293b6c4599a0800000000000000
+      internalID: -6226986886366129045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3728
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a0a2f81fb0fe0e0800000000000000
+      internalID: -2238557357662926271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3728
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae79601907b9be0800000000000000
+      internalID: -1469457085223146918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_39
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3728
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6454da113c61bc850800000000000000
+      internalID: 6398232722680923462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_40
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3730
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5737f292915a530800000000000000
+      internalID: 3865523519847888343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_41
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 3730
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98935410a73b924d0800000000000000
+      internalID: -3158796327034996343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_42
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3730
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b731db0d385b8fa0800000000000000
+      internalID: -5797443076094871631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_43
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3730
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5f2cb74766c24b0800000000000000
+      internalID: -5463879597428640306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_44
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3730
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5ec6313b0ddd4c0800000000000000
+      internalID: -4261020204878993934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3656
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6537441b53752be00800000000000000
+      internalID: 1059004750504424278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_46
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3656
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11912c3e326f8bbc0800000000000000
+      internalID: -3766990454289983215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_47
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3656
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca597c6f8e1b7b00800000000000000
+      internalID: 827288557901667008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_48
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3656
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab0735453e3f430800000000000000
+      internalID: 3815643260629596679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_49
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3656
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc41b371f4f7ecc20800000000000000
+      internalID: 3228657960540116173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_50
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 3656
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b0f51baea6fcb40800000000000000
+      internalID: 5462702429254388628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_51
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3656
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48723b7235cefaf50800000000000000
+      internalID: 6894989396420011908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_52
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 3656
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a32bcc9f580330800000000000000
+      internalID: 3677294222775656877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_53
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3656
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244b6ae0e72d72ad0800000000000000
+      internalID: -2726979610496027582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3582
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8a5080913f8f500800000000000000
+      internalID: 430361053248203000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3582
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc7ba01de82dc300800000000000000
+      internalID: 273920150991502588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3582
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8183d660ee318c0800000000000000
+      internalID: -4029615530196854591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_57
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3582
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d848dba88ea5d0d10800000000000000
+      internalID: 2093429356603737229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_58
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3582
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe9993d31b9b4610800000000000000
+      internalID: 1606548201544457976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_59
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3582
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439dacdb6d375d50800000000000000
+      internalID: 6725912101974283074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_60
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3582
+        width: 428
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f355327f5e8ce80800000000000000
+      internalID: -8158017875369181429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_61
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3582
+        width: 428
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51834a66829bfc250800000000000000
+      internalID: 5967191614461065237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_62
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3582
+        width: 428
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e9be174e254b740800000000000000
+      internalID: 5166845813618089613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3506
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680445186ba3fa690800000000000000
+      internalID: -7588782291567755130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3508
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affffc3ef7e7d4790800000000000000
+      internalID: -7544234713027706886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_65
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3508
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ed56a701c6c3b60800000000000000
+      internalID: 7727169878689701460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_66
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3508
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9aca4272a8b0cf0800000000000000
+      internalID: -284982250684241416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_67
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3508
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bb5af2301a1bc40800000000000000
+      internalID: 5526375252816673623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_68
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 3508
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdae601f9bceeb740800000000000000
+      internalID: 5169829705624775387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_69
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3508
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f16cebe124906c0800000000000000
+      internalID: -4176734479592317143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_70
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3508
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e746eac740e7bf0800000000000000
+      internalID: -324817189575819689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_71
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3508
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dbfd14dee2367b0800000000000000
+      internalID: -5232286745527075455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3432
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa14d18d936411a0800000000000000
+      internalID: -6839732405929764189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_73
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3432
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b792dac9463f9f470800000000000000
+      internalID: 8429035791051467131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_74
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3432
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cebb82d829dd5e0800000000000000
+      internalID: -1883187934199550975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_75
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3432
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e72a3b9a6f7e0c0800000000000000
+      internalID: -4546394090083549577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_76
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3432
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323b68c079910da60800000000000000
+      internalID: 7696679899717088035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_77
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 3432
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce676dd93a2b9f0800000000000000
+      internalID: -454120714107687787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_78
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3432
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adec966431c4537c0800000000000000
+      internalID: -4092281040726798630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_79
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3432
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163bcd1f8c1747690800000000000000
+      internalID: -7605328762856754335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_80
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3432
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6e835865e9b7da0800000000000000
+      internalID: -5945984788573133092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3360
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f56b00b65f25db60800000000000000
+      internalID: 7770168781464888822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_82
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3360
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a2979cd62e56990800000000000000
+      internalID: -7393254252099327370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_83
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3360
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d420cccac9b3c730800000000000000
+      internalID: 4018259573214291158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_84
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3360
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ad96f1c8fb2f70800000000000000
+      internalID: 9163691378765310316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_85
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3360
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f777682e8845b0800000000000000
+      internalID: -5383897050335677099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_86
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 3360
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dc6d43ae789eb20800000000000000
+      internalID: 3164209653183073616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_87
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3360
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970220b4b20006f80800000000000000
+      internalID: -8115486342579609479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_88
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3360
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26884580a7e45e1a0800000000000000
+      internalID: -6780927377903679390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_89
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3360
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6dcad034c8f13a0800000000000000
+      internalID: -6692476301629139250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3286
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599b1fda005c53cb0800000000000000
+      internalID: -4884781614104462955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_91
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3286
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16e72b9fac1d630800000000000000
+      internalID: 3950161521970930111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_92
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3286
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5565f9710e3a5a200800000000000000
+      internalID: 190738742097434197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_93
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 3286
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd8208ff63969dc0800000000000000
+      internalID: -3632553940316156451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_94
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 3286
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32ffe16f11801780800000000000000
+      internalID: -8714323307174825414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_95
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3286
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdac1f1974c230a0800000000000000
+      internalID: -6903239254313488900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_96
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 3286
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80d5a1d07de1cf90800000000000000
+      internalID: -6935000882364428146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_97
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3286
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8635004036d5674b0800000000000000
+      internalID: -5443060419780390040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_98
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 3286
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136852233098ca00800000000000000
+      internalID: 777029485015360280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3212
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803cc8e5e43df600800000000000000
+      internalID: 503616895393214601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_100
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3212
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86d4a8481b8bbdd0800000000000000
+      internalID: -2469227034268346742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_101
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3212
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571d503e555007490800000000000000
+      internalID: -7750689092265455243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_102
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 3212
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d343c21efaf96e650800000000000000
+      internalID: 6261867909651117117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_103
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3212
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ccf9965f895f9c0800000000000000
+      internalID: -3894038122985436115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_104
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3212
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267f11c5847515850800000000000000
+      internalID: 6363963716745164642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_105
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3212
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b083731c64a3190800000000000000
+      internalID: -7981989593891730606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_106
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3212
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f8b5ac4354f8080800000000000000
+      internalID: -9183045022149537917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_107
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 3212
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1a4e62c47f93db0800000000000000
+      internalID: -4811542820426571338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3138
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b0140a8a120400800000000000000
+      internalID: 288822506181146372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_109
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3138
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7326510c99ca4150800000000000000
+      internalID: 5857715937223254910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_110
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3138
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea7a5f494439650800000000000000
+      internalID: 6238405315405524598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_111
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3138
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffab5b3ac63644140800000000000000
+      internalID: 4702993229135854335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_112
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3138
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9711deccbf15bd040800000000000000
+      internalID: 4673419180243751289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_113
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 3138
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a0694dc01db3e50800000000000000
+      internalID: 6790250716227570235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_114
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3138
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ac93e63e733310800000000000000
+      internalID: 1383588284744901432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_115
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 3138
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeea51e9f7a8dd80800000000000000
+      internalID: -8225640027722682710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_116
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3138
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d8898fe628b6f0800000000000000
+      internalID: -668741734418032133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3064
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa872b58a9ddf00800000000000000
+      internalID: 1143239779437555509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_118
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3064
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ad1ba42743dd6c0800000000000000
+      internalID: -4117076818862679403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_119
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3064
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce26e5e0481859990800000000000000
+      internalID: -7379850010199956756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_120
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 3064
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82af55e7148fbef60800000000000000
+      internalID: 8064812517913131560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_121
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3064
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bac5e75e54344b0800000000000000
+      internalID: -5457441471473079414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_122
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3064
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6bdeee2f0e20d00800000000000000
+      internalID: 937559006441748220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_123
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 3064
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b0790afb2428640800000000000000
+      internalID: 5080696720427780882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_124
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3064
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6138a0160af5f20c0800000000000000
+      internalID: -4598351552094502122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_125
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3064
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d3d9542395a6b0800000000000000
+      internalID: -5285656803314249728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2990
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f42658f76c78470800000000000000
+      internalID: 8396898281256537926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_127
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2990
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea3e409c22b62cc0800000000000000
+      internalID: -3736102936387896601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_128
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2990
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6be58e320107470800000000000000
+      internalID: 8390223852199655114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_129
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2990
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c726fa5bbb4bd930800000000000000
+      internalID: 4169009148118575042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_130
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2990
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfc9507d78db2610800000000000000
+      internalID: 1597608526100418521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_131
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 2990
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e8cdbf3fa201230800000000000000
+      internalID: 3607430528914722393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_132
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2990
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769e1b64d30cb1650800000000000000
+      internalID: 6204764281044592999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_133
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 2990
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9939515e5f4d7a9f0800000000000000
+      internalID: -457162684579343463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_134
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2990
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8ec3ffd3d696c00800000000000000
+      internalID: 894366114052368565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2918
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d41dbdb68543a30800000000000000
+      internalID: 4194074373261446524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_136
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2918
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d005663e937a7dd0800000000000000
+      internalID: -2487548720814161706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_137
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2918
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a33fb570395070800000000000000
+      internalID: 8095555087452316263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_138
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2918
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac5ce27f79cdf560800000000000000
+      internalID: 7349251716164639904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_139
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2918
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5377acd89ad150e70800000000000000
+      internalID: 9080696837728007989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_140
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2918
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cdf91a932258590800000000000000
+      internalID: -7672688759235683309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_141
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 2918
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66783e27d565c2c20800000000000000
+      internalID: 3183013996003559270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_142
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 2918
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e491742dea1a530800000000000000
+      internalID: 3864562173419802134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_143
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2918
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01cd53d600793ce0800000000000000
+      internalID: -1424984632467799795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2844
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e103334eb87e50800000000000000
+      internalID: 6807400032598352795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_145
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2844
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706c1488e968eeb00800000000000000
+      internalID: 859772594323310087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_146
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2844
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2670820b39a808dd0800000000000000
+      internalID: -2485834627388274846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_147
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2844
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c39c856de87fcdc0800000000000000
+      internalID: -3616539014748924989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_148
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2844
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bcb59f4ee43acf0800000000000000
+      internalID: -242263209604822129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_149
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2844
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3523e5b58125ed0f0800000000000000
+      internalID: -1090343795211488685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_150
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2844
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7b171ec5b5fda20800000000000000
+      internalID: 3089288323876894660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_151
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 2844
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba10bfba3e4f420800000000000000
+      internalID: 2663003607472909124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_152
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 2844
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f290117a6515e6f0800000000000000
+      internalID: -656094623804910857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_153
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2772
+        width: 428
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e9570b9ab30720800000000000000
+      internalID: 2811295767415350122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_154
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2772
+        width: 428
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643e673cee09ddd0800000000000000
+      internalID: -2460919313676225433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_155
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2772
+        width: 430
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f55e204eb7a4b00800000000000000
+      internalID: 813598901925142294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_156
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2772
+        width: 430
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb7c757b114cb150800000000000000
+      internalID: 5889653998884781039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_157
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2772
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ef57a2550de6710800000000000000
+      internalID: 1688515974513688100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_158
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 2772
+        width: 422
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd13bb5be9fb17c0800000000000000
+      internalID: -4099408246539608624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_159
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2772
+        width: 422
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6fb152528391f0800000000000000
+      internalID: -1039343798922023357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_160
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 2772
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0204a08625a59fbb0800000000000000
+      internalID: -4901787409436753888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_161
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 2772
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172320650b43dc270800000000000000
+      internalID: 8272326022511342193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2698
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb78812f81e836420800000000000000
+      internalID: 2622095645851813820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_163
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2698
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2636967eea651d0800000000000000
+      internalID: -3362307762856697100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_164
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2698
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccd7f09c64f85de0800000000000000
+      internalID: -1344055741644284723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_165
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2698
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c423f98d78d04d6c0800000000000000
+      internalID: -4119652882031103412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_166
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2698
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ffde842b60bbb80800000000000000
+      internalID: -8378095318995173544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_167
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2698
+        width: 428
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b6d3452b5bac60800000000000000
+      internalID: 7830452592723802220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_168
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2698
+        width: 428
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c813bac5e10410d0800000000000000
+      internalID: -3453132927826454329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_169
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2698
+        width: 430
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a72d256e4a9dd90800000000000000
+      internalID: -7072440430669694355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_170
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 2698
+        width: 430
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882530e5772d46930800000000000000
+      internalID: 4135661767953175176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_171
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2624
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d125ff656dc4640800000000000000
+      internalID: 5065659350024068480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_172
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2624
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1390ebd68edc1e30800000000000000
+      internalID: 4475696800495342365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_173
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2624
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd5129782cfb6d0800000000000000
+      internalID: -2972443341513957569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_174
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2624
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc00ad3d17b9d780800000000000000
+      internalID: -8657687472427234096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_175
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2624
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe005b903750660800000000000000
+      internalID: 7351408452280840116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_176
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2624
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2693ebe2ef3e1c90800000000000000
+      internalID: -7197244910638754257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_177
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 2624
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4194b065b971b10800000000000000
+      internalID: 1952199757347230947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_178
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 2624
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15bd3f390579700800000000000000
+      internalID: 546994476130456032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_179
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2624
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f774ad83fa4d7080800000000000000
+      internalID: -9188105254852069383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2550
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee58099c71abc10800000000000000
+      internalID: 2069993133210726119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_181
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2550
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed08513fb509390800000000000000
+      internalID: -7813644253891862909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_182
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2550
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993ce8f1ce8c43e20800000000000000
+      internalID: 3329506941000926105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_183
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2550
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0734909af7a5d7810800000000000000
+      internalID: 1764666133342405488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_184
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2550
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044fd2b53788f3a20800000000000000
+      internalID: 3044301902158099520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_185
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2550
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50de0ac678666a1d0800000000000000
+      internalID: -3339869341819540219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_186
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2550
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d2fc2ffa27f080800000000000000
+      internalID: -9153800442148104098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_187
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2550
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb50e5cb149ecf50800000000000000
+      internalID: 6903618125810392029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_188
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2550
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc414958e7f89d10800000000000000
+      internalID: 2132727000861854960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2478
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda5440ed6edbf370800000000000000
+      internalID: 8357518097011464926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_190
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2478
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34200561b09194eb0800000000000000
+      internalID: -4735225997793689021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_191
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2478
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd91b19e516dcd280800000000000000
+      internalID: -9017096964309050913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_192
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2478
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb612f9f16a411b30800000000000000
+      internalID: 4256264907507504831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_193
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2478
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6694d326187ff80800000000000000
+      internalID: -8072841548103325964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_194
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2478
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbad655a6f0f05c0800000000000000
+      internalID: -4247158974212887603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_195
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2478
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b224a86aab90780800000000000000
+      internalID: -8716230379351954552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_196
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2478
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ba2adc5eadcd910800000000000000
+      internalID: 1863605026356898686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_197
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 2478
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c2c3e7f8474d900800000000000000
+      internalID: 708319201051028488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_198
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2406
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26df14d12491bdb0800000000000000
+      internalID: -4777874856649697746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_199
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2406
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a5ab2dfc7e90a80800000000000000
+      internalID: -8500007941905425786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_200
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2406
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8540625425d5fd600800000000000000
+      internalID: 495217091962864728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_201
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2406
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83621dbbbe5723010800000000000000
+      internalID: 1167124908771190328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_202
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2406
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae68b911717d9e0c0800000000000000
+      internalID: -4545865854774180118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_203
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 2406
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf301174b48211c0800000000000000
+      internalID: -4534415964282798145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_204
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2406
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc685083d9f80620800000000000000
+      internalID: 2740715060041641143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_205
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2406
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f60ec42b00c81f0800000000000000
+      internalID: -1041456648035471488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_206
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 2406
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017b911f5cce25b0800000000000000
+      internalID: -5391146995226545914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_207
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2332
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bab271e3c614590800000000000000
+      internalID: -7691747674639586505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_208
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2332
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3730a4fe57f7700800000000000000
+      internalID: 540280150907122687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_209
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2332
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94d548bd8df9f930800000000000000
+      internalID: 4177648914486645919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_210
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2332
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a964eadedc7b40800000000000000
+      internalID: 5439467481673081165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_211
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2332
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64afddc464f38ed50800000000000000
+      internalID: 6766728011294046790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_212
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2332
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b85a72a29a07f910800000000000000
+      internalID: 1870975795103160502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_213
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2332
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1298e2c8e28a6df0800000000000000
+      internalID: -186192498368409062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_214
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 2332
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f68efbbaaaf1680800000000000000
+      internalID: -8782113093713367217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_215
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2332
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16280f275609b61d0800000000000000
+      internalID: -3356430331880111519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_216
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2260
+        width: 422
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2793cb4574fc0ac30800000000000000
+      internalID: 4368719543820630386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_217
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2260
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e0374917b4cf90800000000000000
+      internalID: -6934216207047268620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_218
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2258
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759bf8e8aa0960600800000000000000
+      internalID: 434193476298455383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_219
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2260
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22fcf16535347830800000000000000
+      internalID: 4067934866815906350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_220
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2260
+        width: 422
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f05165093b69e60800000000000000
+      internalID: 7968754023179554716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_221
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2260
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1862383b4daed9810800000000000000
+      internalID: 1773832027519526529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_222
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2260
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e24fe12f32c4fbc0800000000000000
+      internalID: -3750159013284723996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_223
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2260
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cbd991ad6f38a30800000000000000
+      internalID: 4216485092741987427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_224
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 2260
+        width: 426
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94619f1de5a1f2850800000000000000
+      internalID: 6354326593795069513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_225
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2186
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1abc901d06462390800000000000000
+      internalID: -7843504679091914213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_226
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2186
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0cbf8b32dec1db0800000000000000
+      internalID: -4819716763510128398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_227
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2186
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a551566d81a414530800000000000000
+      internalID: 3837429828032992602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_228
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2186
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c8bd1714e9582a0800000000000000
+      internalID: -6735803663742432154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_229
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2186
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db7c8803ab664880800000000000000
+      internalID: -8627089688214340647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornar_pressed_230
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2186
+        width: 424
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b28b0d4561d73ef0800000000000000
+      internalID: -128403831342267719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

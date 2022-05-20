@@ -1,0 +1,5724 @@
+fileFormatVersion: 2
+guid: 5813e5863bdfed1449db094032a44f22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6152204691513567768
+    second: carregar_0
+  - first:
+      213: -5537680505044210628
+    second: carregar_1
+  - first:
+      213: 7261139991952407473
+    second: carregar_2
+  - first:
+      213: -5747404319483184816
+    second: carregar_3
+  - first:
+      213: 6167338517759597706
+    second: carregar_4
+  - first:
+      213: 4631632989861151754
+    second: carregar_5
+  - first:
+      213: -2639067852278383831
+    second: carregar_6
+  - first:
+      213: -5817055217592143497
+    second: carregar_7
+  - first:
+      213: -5164339209818330534
+    second: carregar_8
+  - first:
+      213: -4088547889660703575
+    second: carregar_9
+  - first:
+      213: -5924268260049292691
+    second: carregar_10
+  - first:
+      213: 6956352131505681579
+    second: carregar_11
+  - first:
+      213: 4701632535007453907
+    second: carregar_12
+  - first:
+      213: -5609680500714157520
+    second: carregar_13
+  - first:
+      213: 5341631295064222836
+    second: carregar_14
+  - first:
+      213: -2147273759274694177
+    second: carregar_15
+  - first:
+      213: -2480066434661921457
+    second: carregar_16
+  - first:
+      213: 825188737949096148
+    second: carregar_17
+  - first:
+      213: 6347990281426509015
+    second: carregar_18
+  - first:
+      213: -3665945516869839308
+    second: carregar_19
+  - first:
+      213: -414092226790224007
+    second: carregar_20
+  - first:
+      213: -4150316291139389580
+    second: carregar_21
+  - first:
+      213: 7265877422883566637
+    second: carregar_22
+  - first:
+      213: -8234761657115245419
+    second: carregar_23
+  - first:
+      213: 8456705272549510854
+    second: carregar_24
+  - first:
+      213: 540797995695721525
+    second: carregar_25
+  - first:
+      213: -4132338374777717728
+    second: carregar_26
+  - first:
+      213: 6671842822839260002
+    second: carregar_27
+  - first:
+      213: -2878035277708483031
+    second: carregar_28
+  - first:
+      213: 1669969366657761612
+    second: carregar_29
+  - first:
+      213: 1930925941395222573
+    second: carregar_30
+  - first:
+      213: 238532242598304807
+    second: carregar_31
+  - first:
+      213: -4862811930457133122
+    second: carregar_32
+  - first:
+      213: -1927528463089797181
+    second: carregar_33
+  - first:
+      213: 3920330634793313919
+    second: carregar_34
+  - first:
+      213: -6727934254649221926
+    second: carregar_35
+  - first:
+      213: 2930268730729987610
+    second: carregar_36
+  - first:
+      213: 5001857951467902126
+    second: carregar_37
+  - first:
+      213: 6920073782237305437
+    second: carregar_38
+  - first:
+      213: -3991811650472916704
+    second: carregar_39
+  - first:
+      213: -6428371065434171464
+    second: carregar_40
+  - first:
+      213: 7282696828062574560
+    second: carregar_41
+  - first:
+      213: -1063938722734970754
+    second: carregar_42
+  - first:
+      213: -705857322548038816
+    second: carregar_43
+  - first:
+      213: 4633250635073084506
+    second: carregar_44
+  - first:
+      213: -1558918279793310832
+    second: carregar_45
+  - first:
+      213: -574004483187700456
+    second: carregar_46
+  - first:
+      213: 5381898434642833854
+    second: carregar_47
+  - first:
+      213: -4703458151388276179
+    second: carregar_48
+  - first:
+      213: 8712186338491725272
+    second: carregar_49
+  - first:
+      213: 3158823951923270443
+    second: carregar_50
+  - first:
+      213: 9130214564841691201
+    second: carregar_51
+  - first:
+      213: 7137525048473827411
+    second: carregar_52
+  - first:
+      213: -2759884389426918267
+    second: carregar_53
+  - first:
+      213: -7032475596715837823
+    second: carregar_54
+  - first:
+      213: -3328899418020456281
+    second: carregar_55
+  - first:
+      213: 3163394683336079192
+    second: carregar_56
+  - first:
+      213: 1979220889520834084
+    second: carregar_57
+  - first:
+      213: 2839933717978683539
+    second: carregar_58
+  - first:
+      213: -7485580511241319645
+    second: carregar_59
+  - first:
+      213: -8477056190078467961
+    second: carregar_60
+  - first:
+      213: -9101637390209853314
+    second: carregar_61
+  - first:
+      213: 51920027805460680
+    second: carregar_62
+  - first:
+      213: -7524810142912238399
+    second: carregar_63
+  - first:
+      213: 2650332780692995931
+    second: carregar_64
+  - first:
+      213: 8689799450423646141
+    second: carregar_65
+  - first:
+      213: -8246606957270615066
+    second: carregar_66
+  - first:
+      213: 559097314876459209
+    second: carregar_67
+  - first:
+      213: 2831351905187182055
+    second: carregar_68
+  - first:
+      213: 6927309305288164106
+    second: carregar_69
+  - first:
+      213: -7400399875298275309
+    second: carregar_70
+  - first:
+      213: -4365549839205060275
+    second: carregar_71
+  - first:
+      213: 2369113882579244489
+    second: carregar_72
+  - first:
+      213: -8251665990335388124
+    second: carregar_73
+  - first:
+      213: 8536495670727347013
+    second: carregar_74
+  - first:
+      213: -475343223569308040
+    second: carregar_75
+  - first:
+      213: -2271030939726488748
+    second: carregar_76
+  - first:
+      213: 6458114303824187499
+    second: carregar_77
+  - first:
+      213: -8628964526585001511
+    second: carregar_78
+  - first:
+      213: 6277065229022950319
+    second: carregar_79
+  - first:
+      213: -4555995488499487464
+    second: carregar_80
+  - first:
+      213: -195672872621951326
+    second: carregar_81
+  - first:
+      213: -5695042766843835202
+    second: carregar_82
+  - first:
+      213: 965982206642707958
+    second: carregar_83
+  - first:
+      213: -8721586158981647685
+    second: carregar_84
+  - first:
+      213: 4694351695224240821
+    second: carregar_85
+  - first:
+      213: 5141571375859668632
+    second: carregar_86
+  - first:
+      213: -2767014831867229315
+    second: carregar_87
+  - first:
+      213: 7018506376793915785
+    second: carregar_88
+  - first:
+      213: -8324775072317569913
+    second: carregar_89
+  - first:
+      213: 3029232747583826583
+    second: carregar_90
+  - first:
+      213: 6950756045260871420
+    second: carregar_91
+  - first:
+      213: 1124209554590132872
+    second: carregar_92
+  - first:
+      213: -7199641266191969915
+    second: carregar_93
+  - first:
+      213: 338154330874611912
+    second: carregar_94
+  - first:
+      213: -6015965007446454438
+    second: carregar_95
+  - first:
+      213: -973806063298133920
+    second: carregar_96
+  - first:
+      213: 2585029283520877592
+    second: carregar_97
+  - first:
+      213: 3503991218992027465
+    second: carregar_98
+  - first:
+      213: 464664643504669810
+    second: carregar_99
+  - first:
+      213: -2798441785902042384
+    second: carregar_100
+  - first:
+      213: -720611709221434709
+    second: carregar_101
+  - first:
+      213: -3051754303969387292
+    second: carregar_102
+  - first:
+      213: -2722029046642716111
+    second: carregar_103
+  - first:
+      213: 1490645334435902538
+    second: carregar_104
+  - first:
+      213: -1650279727704571547
+    second: carregar_105
+  - first:
+      213: -8914819394051002690
+    second: carregar_106
+  - first:
+      213: 5376060131662447501
+    second: carregar_107
+  - first:
+      213: -7406243115179126314
+    second: carregar_108
+  - first:
+      213: -9115014054106639713
+    second: carregar_109
+  - first:
+      213: 8407748841624761184
+    second: carregar_110
+  - first:
+      213: -3357003481445263502
+    second: carregar_111
+  - first:
+      213: 3690073749426221484
+    second: carregar_112
+  - first:
+      213: 8172848378648865953
+    second: carregar_113
+  - first:
+      213: 2179099338007171540
+    second: carregar_114
+  - first:
+      213: 3644521236624287453
+    second: carregar_115
+  - first:
+      213: -4037119560249582143
+    second: carregar_116
+  - first:
+      213: 815974889480268489
+    second: carregar_117
+  - first:
+      213: 1397067320635987107
+    second: carregar_118
+  - first:
+      213: -1812919522864619584
+    second: carregar_119
+  - first:
+      213: 2726024921703482697
+    second: carregar_120
+  - first:
+      213: -3858700066856611966
+    second: carregar_121
+  - first:
+      213: 559585622815334477
+    second: carregar_122
+  - first:
+      213: 6544046870109919259
+    second: carregar_123
+  - first:
+      213: 3499142958199058389
+    second: carregar_124
+  - first:
+      213: -3172104062583812592
+    second: carregar_125
+  - first:
+      213: -2817143009722715489
+    second: carregar_126
+  - first:
+      213: -6155096477636793231
+    second: carregar_127
+  - first:
+      213: -7827544272234777289
+    second: carregar_128
+  - first:
+      213: -7569295585318786730
+    second: carregar_129
+  - first:
+      213: -7566141436445052306
+    second: carregar_130
+  - first:
+      213: 7283037802795293962
+    second: carregar_131
+  - first:
+      213: -4878011093179618260
+    second: carregar_132
+  - first:
+      213: -8546540804429901703
+    second: carregar_133
+  - first:
+      213: 3925450698430718007
+    second: carregar_134
+  - first:
+      213: 837388034561552800
+    second: carregar_135
+  - first:
+      213: -1702444817034823487
+    second: carregar_136
+  - first:
+      213: -3809420197165542478
+    second: carregar_137
+  - first:
+      213: 8323168023589122266
+    second: carregar_138
+  - first:
+      213: -7362234362139812936
+    second: carregar_139
+  - first:
+      213: -5986010883250690500
+    second: carregar_140
+  - first:
+      213: 1052967688207941296
+    second: carregar_141
+  - first:
+      213: -3846980185169698436
+    second: carregar_142
+  - first:
+      213: -5939365858104970718
+    second: carregar_143
+  - first:
+      213: 74376292963043214
+    second: carregar_144
+  - first:
+      213: -1646488438693492716
+    second: carregar_145
+  - first:
+      213: 7570934851165521678
+    second: carregar_146
+  - first:
+      213: 6894844543558116316
+    second: carregar_147
+  - first:
+      213: -2155668100330537285
+    second: carregar_148
+  - first:
+      213: 7191163484334934076
+    second: carregar_149
+  - first:
+      213: 2085040806219675829
+    second: carregar_150
+  - first:
+      213: -2489612598500339092
+    second: carregar_151
+  - first:
+      213: 6408494134519402667
+    second: carregar_152
+  - first:
+      213: -1354539917200465596
+    second: carregar_153
+  - first:
+      213: 882907365373678346
+    second: carregar_154
+  - first:
+      213: -1986891817755710409
+    second: carregar_155
+  - first:
+      213: -8334392605125866105
+    second: carregar_156
+  - first:
+      213: -6451247807358939520
+    second: carregar_157
+  - first:
+      213: 27696646977421545
+    second: carregar_158
+  - first:
+      213: -6682484062993873260
+    second: carregar_159
+  - first:
+      213: -3786808774175812171
+    second: carregar_160
+  - first:
+      213: -4178664940425246281
+    second: carregar_161
+  - first:
+      213: 6671908730716324867
+    second: carregar_162
+  - first:
+      213: 5219625293256717240
+    second: carregar_163
+  - first:
+      213: -6155001563542597212
+    second: carregar_164
+  - first:
+      213: -7715270007820215253
+    second: carregar_165
+  - first:
+      213: 771593313095245661
+    second: carregar_166
+  - first:
+      213: 7304605496448799924
+    second: carregar_167
+  - first:
+      213: 6754906104777708468
+    second: carregar_168
+  - first:
+      213: -4296269862232445746
+    second: carregar_169
+  - first:
+      213: 7658634861344255354
+    second: carregar_170
+  - first:
+      213: -5832413972080898820
+    second: carregar_171
+  - first:
+      213: 7997543129653322002
+    second: carregar_172
+  - first:
+      213: 3502322552353106762
+    second: carregar_173
+  - first:
+      213: -3555320769302744139
+    second: carregar_174
+  - first:
+      213: 6909361761160325375
+    second: carregar_175
+  - first:
+      213: 1918409118062671561
+    second: carregar_176
+  - first:
+      213: -6172596501286807567
+    second: carregar_177
+  - first:
+      213: 1988971969613528692
+    second: carregar_178
+  - first:
+      213: -4875573719152431070
+    second: carregar_179
+  - first:
+      213: -4819999248745662173
+    second: carregar_180
+  - first:
+      213: -6916982856310047518
+    second: carregar_181
+  - first:
+      213: 8271830441744436661
+    second: carregar_182
+  - first:
+      213: -4003255973755069837
+    second: carregar_183
+  - first:
+      213: 5328341503153564750
+    second: carregar_184
+  - first:
+      213: -9161598791529684272
+    second: carregar_185
+  - first:
+      213: 1141571617026577209
+    second: carregar_186
+  - first:
+      213: 8477267601830404566
+    second: carregar_187
+  - first:
+      213: 6404492856839271654
+    second: carregar_188
+  - first:
+      213: 5556932483232624402
+    second: carregar_189
+  - first:
+      213: 1210018751736145526
+    second: carregar_190
+  - first:
+      213: 150228210890017289
+    second: carregar_191
+  - first:
+      213: -3327611633410073295
+    second: carregar_192
+  - first:
+      213: -5112861346387182741
+    second: carregar_193
+  - first:
+      213: 1306849546443553486
+    second: carregar_194
+  - first:
+      213: -2137832632062594450
+    second: carregar_195
+  - first:
+      213: 7195525289311416861
+    second: carregar_196
+  - first:
+      213: 2035863332456338444
+    second: carregar_197
+  - first:
+      213: -4414140515737523708
+    second: carregar_198
+  - first:
+      213: -2679522069005920237
+    second: carregar_199
+  - first:
+      213: -4008013184000343766
+    second: carregar_200
+  - first:
+      213: -8301319413312442142
+    second: carregar_201
+  - first:
+      213: 5581998611665517672
+    second: carregar_202
+  - first:
+      213: 5066015222285957759
+    second: carregar_203
+  - first:
+      213: -2804498364701662620
+    second: carregar_204
+  - first:
+      213: 4638298748307590634
+    second: carregar_205
+  - first:
+      213: 2736880583952517063
+    second: carregar_206
+  - first:
+      213: -2860099814382488176
+    second: carregar_207
+  - first:
+      213: -4898602743928691306
+    second: carregar_208
+  - first:
+      213: -1909895288845219659
+    second: carregar_209
+  - first:
+      213: 4942061777881903855
+    second: carregar_210
+  - first:
+      213: 8100354186031170642
+    second: carregar_211
+  - first:
+      213: 3789742841862831717
+    second: carregar_212
+  - first:
+      213: 923258637393382831
+    second: carregar_213
+  - first:
+      213: 6080292203176138871
+    second: carregar_214
+  - first:
+      213: 6270538950443520991
+    second: carregar_215
+  - first:
+      213: 1671196567322504306
+    second: carregar_216
+  - first:
+      213: -7201766243092651664
+    second: carregar_217
+  - first:
+      213: -1810983734978217429
+    second: carregar_218
+  - first:
+      213: -8356668837449898939
+    second: carregar_219
+  - first:
+      213: -2376681150034101624
+    second: carregar_220
+  - first:
+      213: -6126101240622077762
+    second: carregar_221
+  - first:
+      213: 206523765297008725
+    second: carregar_222
+  - first:
+      213: -641056697451100092
+    second: carregar_223
+  - first:
+      213: -5469756655232097500
+    second: carregar_224
+  - first:
+      213: 4152019281182578647
+    second: carregar_225
+  - first:
+      213: 6934969311486336102
+    second: carregar_226
+  - first:
+      213: -7066253301529412162
+    second: carregar_227
+  - first:
+      213: -1183677380144927124
+    second: carregar_228
+  - first:
+      213: 5609769949431182158
+    second: carregar_229
+  - first:
+      213: -6239257173780288986
+    second: carregar_230
+  - first:
+      213: 3362975915406991072
+    second: carregar_231
+  - first:
+      213: -8295331446591306547
+    second: carregar_232
+  - first:
+      213: -5879659745859589129
+    second: carregar_233
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carregar_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4024
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e597d8cd6afe9aa0800000000000000
+      internalID: -6152204691513567768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 4024
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ceb39abe43623b0800000000000000
+      internalID: -5537680505044210628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4024
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbb4bcf950c4c460800000000000000
+      internalID: 7261139991952407473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_3
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 4024
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b8a4f83e1d30b0800000000000000
+      internalID: -5747404319483184816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_4
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 4024
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c15a8b4b9c69550800000000000000
+      internalID: 6167338517759597706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_5
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 4024
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0487a23aadd64040800000000000000
+      internalID: 4631632989861151754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_6
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 4024
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b3bce45c5206bd0800000000000000
+      internalID: -2639067852278383831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_7
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 4024
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7717694891ba54fa0800000000000000
+      internalID: -5817055217592143497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_8
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 4024
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a282bb9d49458b0800000000000000
+      internalID: -5164339209818330534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acc99d3b5f8247c0800000000000000
+      internalID: -4088547889660703575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62f3a5d765c8cda0800000000000000
+      internalID: -5924268260049292691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_11
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba47de2486de98060800000000000000
+      internalID: 6956352131505681579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_12
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e98951ed8f3140800000000000000
+      internalID: 4701632535007453907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_13
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a4f735e496622b0800000000000000
+      internalID: -5609680500714157520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_14
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca9679c59412a40800000000000000
+      internalID: 5341631295064222836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_15
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3950
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd90ae684e95332e0800000000000000
+      internalID: -2147273759274694177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_16
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 3948
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d4b96b7b8059dd0800000000000000
+      internalID: -2480066434661921457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_17
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3948
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8db1ef8c8a37b00800000000000000
+      internalID: 825188737949096148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3872
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc1f022787981850800000000000000
+      internalID: 6347990281426509015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3872
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4369905b9f1ff1dc0800000000000000
+      internalID: -3665945516869839308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_20
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3872
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0bed4059d04af0800000000000000
+      internalID: -414092226790224007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_21
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 3872
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477be11925d1766c0800000000000000
+      internalID: -4150316291139389580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_22
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3872
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d247184150595d460800000000000000
+      internalID: 7265877422883566637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_23
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 3872
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59483a907ef38bd80800000000000000
+      internalID: -8234761657115245419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_24
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3872
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce8c7cc3a04c5570800000000000000
+      internalID: 8456705272549510854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_25
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3870
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ccfac69ec418700800000000000000
+      internalID: 540797995695721525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_26
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3870
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cb8a7642cf6a6c0800000000000000
+      internalID: -4132338374777717728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3796
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d29cc2b5279c50800000000000000
+      internalID: 6671842822839260002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_28
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3796
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a425d92a2f08d0800000000000000
+      internalID: -2878035277708483031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_29
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3796
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c418b658a4cec2710800000000000000
+      internalID: 1669969366657761612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_30
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 3796
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f278c9e60cca10800000000000000
+      internalID: 1930925941395222573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_31
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3796
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9c839fcf6f4300800000000000000
+      internalID: 238532242598304807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_32
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 3796
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf22934052d38cb0800000000000000
+      internalID: -4862811930457133122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_33
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3796
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f317431b0045e0800000000000000
+      internalID: -1927528463089797181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_34
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3796
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76efe801ffc76630800000000000000
+      internalID: 3920330634793313919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_35
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3796
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc5377017391a2a0800000000000000
+      internalID: -6727934254649221926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3718
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7897a2e76aa820800000000000000
+      internalID: 2930268730729987610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3718
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4153e4e4b2a6540800000000000000
+      internalID: 5001857951467902126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_38
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3718
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a9fb9d07a090060800000000000000
+      internalID: 6920073782237305437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_39
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3718
+        width: 424
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029cb43147c3a98c0800000000000000
+      internalID: -3991811650472916704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_40
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 3718
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b795603396d9c6a0800000000000000
+      internalID: -6428371065434171464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_41
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3718
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a8830e26511560800000000000000
+      internalID: 7282696828062574560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_42
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 3718
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7869906e512c31f0800000000000000
+      internalID: -1063938722734970754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_43
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 3718
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637a63418a4436f0800000000000000
+      internalID: -705857322548038816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_44
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 3718
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c52e297ec9c4040800000000000000
+      internalID: 4633250635073084506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3644
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0938e03851c9d5ae0800000000000000
+      internalID: -1558918279793310832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_46
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3644
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d8d18b6f9b808f0800000000000000
+      internalID: -574004483187700456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_47
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3644
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1fd1e9c1850ba40800000000000000
+      internalID: 5381898434642833854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_48
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 3644
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a16963bb5f9beb0800000000000000
+      internalID: -4703458151388276179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_49
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 3644
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57fc2d057e7e870800000000000000
+      internalID: 8712186338491725272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_50
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3644
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d16ae5a566db20800000000000000
+      internalID: 3158823951923270443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_51
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3644
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1489c74d5c905be70800000000000000
+      internalID: 9130214564841691201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_52
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 3644
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3583cb127359d0360800000000000000
+      internalID: 7137525048473827411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_53
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 3644
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c001335cbe2b9d0800000000000000
+      internalID: -2759884389426918267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3566
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186362654b0a76e90800000000000000
+      internalID: -7032475596715837823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_55
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3566
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d2e7dd9f5dc1d0800000000000000
+      internalID: -3328899418020456281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_56
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3566
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8573b9044b2a6eb20800000000000000
+      internalID: 3163394683336079192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_57
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3566
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4260ce3a9ea977b10800000000000000
+      internalID: 1979220889520834084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_58
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3566
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39816cd7ba8796720800000000000000
+      internalID: 2839933717978683539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_59
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3566
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bcfd17f20ed1890800000000000000
+      internalID: -7485580511241319645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_60
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3568
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c859fe427b5a80800000000000000
+      internalID: -8477056190078467961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_61
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 3568
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d022240d70b180800000000000000
+      internalID: -9101637390209853314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_62
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 3568
+        width: 432
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8a21e7df478b000800000000000000
+      internalID: 51920027805460680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3492
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca57d0b01829790800000000000000
+      internalID: -7524810142912238399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_64
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3492
+        width: 432
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f77c93f9fd7c420800000000000000
+      internalID: 2650332780692995931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_65
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3492
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d2e34f8e589870800000000000000
+      internalID: 8689799450423646141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_66
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 3492
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebbe9d2aaa2e8d80800000000000000
+      internalID: -8246606957270615066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_67
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 3492
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c80610bb0052c700800000000000000
+      internalID: 559097314876459209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_68
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 3492
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5bece7e8bfa4720800000000000000
+      internalID: 2831351905187182055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_69
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 3492
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0385f65c1fb22060800000000000000
+      internalID: 6927309305288164106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_70
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 3492
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310500db58f7c4990800000000000000
+      internalID: -7400399875298275309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_71
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 3492
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d413be80d837a63c0800000000000000
+      internalID: -4365549839205060275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3416
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5159b2688c0e020800000000000000
+      internalID: 2369113882579244489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_73
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3416
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42623e040813c7d80800000000000000
+      internalID: -8251665990335388124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_74
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3416
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0d509599b77670800000000000000
+      internalID: 8536495670727347013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_75
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3416
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87623cc4bdd3769f0800000000000000
+      internalID: -475343223569308040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_76
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3416
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b5eab846dab70e0800000000000000
+      internalID: -2271030939726488748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_77
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3416
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b605f462eb4df9950800000000000000
+      internalID: 6458114303824187499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_78
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3416
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d944753b72cf3880800000000000000
+      internalID: -8628964526585001511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_79
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 3416
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa37ed7819d9c1750800000000000000
+      internalID: 6277065229022950319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_80
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 3416
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da4bded3ad5c0c0800000000000000
+      internalID: -4555995488499487464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3342
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6303f1f84d84df0800000000000000
+      internalID: -195672872621951326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_82
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3342
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc8d95f6c427f0b0800000000000000
+      internalID: -5695042766843835202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_83
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3342
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd594ee2bbd76d00800000000000000
+      internalID: 965982206642707958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_84
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3342
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27febe893b6f680800000000000000
+      internalID: -8721586158981647685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_85
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3342
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf79cbeffa52140800000000000000
+      internalID: 4694351695224240821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_86
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3342
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8969e65dce78a5740800000000000000
+      internalID: 5141571375859668632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_87
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3342
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0152bba69999d0800000000000000
+      internalID: -2767014831867229315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_88
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 3342
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9818d923d5eb66160800000000000000
+      internalID: 7018506376793915785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_89
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 3342
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7840c73ad25787c80800000000000000
+      internalID: -8324775072317569913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3268
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae6b5622ff90a20800000000000000
+      internalID: 3029232747583826583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_91
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3268
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf65c26ebcb067060800000000000000
+      internalID: 6950756045260871420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_92
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3268
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae17232aef99f00800000000000000
+      internalID: 1124209554590132872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_93
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3268
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581526ae96cb51c90800000000000000
+      internalID: -7199641266191969915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_94
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 3268
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c88a03829d51b400800000000000000
+      internalID: 338154330874611912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_95
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3268
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f49fd13bff28ca0800000000000000
+      internalID: -6015965007446454438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_96
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 3268
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0604efc7b885c72f0800000000000000
+      internalID: -973806063298133920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_97
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 3264
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8149e32ff6edfd320800000000000000
+      internalID: 2585029283520877592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_98
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 3264
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9479b10e27da0a030800000000000000
+      internalID: 3503991218992027465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3188
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27487c70802d27600800000000000000
+      internalID: 464664643504669810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_100
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3188
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f2b2c500f929d0800000000000000
+      internalID: -2798441785902042384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_101
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3188
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8edae77fdff5f0800000000000000
+      internalID: -720611709221434709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_102
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 3190
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec922221adf5a5d0800000000000000
+      internalID: -3051754303969387292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_103
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 3190
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132d0960109693ad0800000000000000
+      internalID: -2722029046642716111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_104
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 3190
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44352da806dfa410800000000000000
+      internalID: 1490645334435902538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_105
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 3190
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561042ac4570919e0800000000000000
+      internalID: -1650279727704571547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_106
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 3188
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea3dc6ef2384480800000000000000
+      internalID: -8914819394051002690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_107
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 3188
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8341e6c43a9b9a40800000000000000
+      internalID: 5376060131662447501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3110
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1d09f602db73990800000000000000
+      internalID: -7406243115179126314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_109
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3110
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d74ed207f08180800000000000000
+      internalID: -9115014054106639713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_110
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3110
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063feb976035ea470800000000000000
+      internalID: 8407748841624761184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_111
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3110
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27794baae178961d0800000000000000
+      internalID: -3357003481445263502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_112
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 3110
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca13b853686c53330800000000000000
+      internalID: 3690073749426221484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_113
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 3110
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac2e7c7c4acb6170800000000000000
+      internalID: 8172848378648865953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_114
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 3110
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1d4347d47bd3e10800000000000000
+      internalID: 2179099338007171540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_115
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 3110
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ab5551c0f39230800000000000000
+      internalID: 3644521236624287453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_116
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 3110
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdda87462549f7c0800000000000000
+      internalID: -4037119560249582143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3034
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca2c19b6dce25b00800000000000000
+      internalID: 815974889480268489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_118
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3034
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a490dd7351636310800000000000000
+      internalID: 1397067320635987107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_119
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3034
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf98499c4737d6e0800000000000000
+      internalID: -1812919522864619584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_120
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3036
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9458ff22939c4d520800000000000000
+      internalID: 2726024921703482697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_121
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3036
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4c34cbb4237ac0800000000000000
+      internalID: -3858700066856611966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_122
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3036
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e25db82c04c700800000000000000
+      internalID: 559585622815334477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_123
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 3036
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18986ed4ff11da50800000000000000
+      internalID: 6544046870109919259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_124
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 3036
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfa3c13bf37f8030800000000000000
+      internalID: 3499142958199058389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_125
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 3036
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e4e1f592c6af3d0800000000000000
+      internalID: -3172104062583812592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2958
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b008cb5f77e8d0800000000000000
+      internalID: -2817143009722715489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_127
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2958
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c633c5d54b49aa0800000000000000
+      internalID: -6155096477636793231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_128
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2958
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7357dcdd4f9fe5390800000000000000
+      internalID: -7827544272234777289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_129
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2958
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659242dd4c574f690800000000000000
+      internalID: -7569295585318786730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_130
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2958
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623450637aaff690800000000000000
+      internalID: -7566141436445052306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_131
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2958
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dda516b4c821560800000000000000
+      internalID: 7283037802795293962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_132
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2958
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c2d9c61c2dd4cb0800000000000000
+      internalID: -4878011093179618260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_133
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2958
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970139d7b66946980800000000000000
+      internalID: -8546540804429901703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_134
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2958
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730a54fbc900a7630800000000000000
+      internalID: 3925450698430718007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2884
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a134331bfffe9b00800000000000000
+      internalID: 837388034561552800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_136
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2884
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c83fe67573bf58e0800000000000000
+      internalID: -1702444817034823487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_137
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2884
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3dfbb8388322bc0800000000000000
+      internalID: -3809420197165542478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_138
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2884
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad07beb2835d18370800000000000000
+      internalID: 8323168023589122266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_139
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2884
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb5b7bbad614d990800000000000000
+      internalID: -7362234362139812936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_140
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2884
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36683221da6deca0800000000000000
+      internalID: -5986010883250690500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_141
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2884
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be39979884ec9e00800000000000000
+      internalID: 1052967688207941296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_142
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 2884
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c716efc57e7cc9ac0800000000000000
+      internalID: -3846980185169698436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_143
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2884
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f19c5832239da0800000000000000
+      internalID: -5939365858104970718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2810
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87c5c928dc380100800000000000000
+      internalID: 74376292963043214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_145
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2810
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41803ec0d7f7629e0800000000000000
+      internalID: -1646488438693492716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_146
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2810
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e078855722d511960800000000000000
+      internalID: 7570934851165521678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_147
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2810
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd36258f4986faf50800000000000000
+      internalID: 6894844543558116316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_148
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2810
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe3822b8478512e0800000000000000
+      internalID: -2155668100330537285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_149
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2810
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c384b8da6152cc360800000000000000
+      internalID: 7191163484334934076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_150
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2810
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8fae4f09d8fec10800000000000000
+      internalID: 2085040806219675829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_151
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2808
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62dc0e388e137dd0800000000000000
+      internalID: -2489612598500339092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_152
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2808
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba01431367b8fe850800000000000000
+      internalID: 6408494134519402667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_153
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2732
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441ed293f15b33de0800000000000000
+      internalID: -1354539917200465596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_154
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2732
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a039caa2297b04c00800000000000000
+      internalID: 882907365373678346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_155
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2732
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c6a833b642d64e0800000000000000
+      internalID: -1986891817755710409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_156
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2732
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d84d8451a465c80800000000000000
+      internalID: -8334392605125866105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_157
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2732
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e4a54ac409876a0800000000000000
+      internalID: -6451247807358939520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_158
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2732
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e00f8424f5626000800000000000000
+      internalID: 27696646977421545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_159
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2732
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4968a08662c0343a0800000000000000
+      internalID: -6682484062993873260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_160
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2734
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b51be6bb7d827bc0800000000000000
+      internalID: -3786808774175812171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_161
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 2734
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9039e40666206c0800000000000000
+      internalID: -4178664940425246281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_162
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2656
+        width: 424
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3048c2c24a1679c50800000000000000
+      internalID: 6671908730716324867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_163
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2656
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f539ac85df6840800000000000000
+      internalID: 5219625293256717240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_164
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2656
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1d11540ba059aa0800000000000000
+      internalID: -6155001563542597212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_165
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2656
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c96ad1ecadde490800000000000000
+      internalID: -7715270007820215253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_166
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2656
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fdb1ab70045ba00800000000000000
+      internalID: 771593313095245661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_167
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2656
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b452306ffb2f5560800000000000000
+      internalID: 7304605496448799924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_168
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2656
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b39462305f3ebd50800000000000000
+      internalID: 6754906104777708468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_169
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 2654
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc2b6aa2559064c0800000000000000
+      internalID: -4296269862232445746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_170
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 2654
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de8d644dfe84a60800000000000000
+      internalID: 7658634861344255354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_171
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2576
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcc713d46a1f0fa0800000000000000
+      internalID: -5832413972080898820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_172
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2576
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112ad68a1bfcfe60800000000000000
+      internalID: 7997543129653322002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_173
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2576
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ba8d52ecfba9030800000000000000
+      internalID: 3502322552353106762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_174
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2576
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b33423e896f8aec0800000000000000
+      internalID: -3555320769302744139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_175
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2576
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8e0a61aebf2ef50800000000000000
+      internalID: 6909361761160325375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_176
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2576
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6feffbdee8f9a10800000000000000
+      internalID: 1918409118062671561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_177
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2576
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f71bf69f28865aa0800000000000000
+      internalID: -6172596501286807567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_178
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 2580
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef505e77f3a9b10800000000000000
+      internalID: 1988971969613528692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_179
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 2580
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22070b9c88b765cb0800000000000000
+      internalID: -4875573719152431070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2502
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297dd0883ceb1db0800000000000000
+      internalID: -4819999248745662173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_181
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2502
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec3c2c6db0f100a0800000000000000
+      internalID: -6916982856310047518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_182
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2502
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd8072f5f17bc270800000000000000
+      internalID: 8271830441744436661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_183
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2502
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5e5be6e39178c0800000000000000
+      internalID: -4003255973755069837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_184
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2502
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c6079cd5212f940800000000000000
+      internalID: 5328341503153564750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_185
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2502
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a93870767bd080800000000000000
+      internalID: -9161598791529684272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_186
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2502
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933998e565da7df00800000000000000
+      internalID: 1141571617026577209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_187
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 2502
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1670928fd45a570800000000000000
+      internalID: 8477267601830404566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_188
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 2502
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47e62225451e850800000000000000
+      internalID: 6404492856839271654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_189
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2426
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe8efc6a03e1d40800000000000000
+      internalID: 5556932483232624402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_190
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2426
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6766bccc4a9dac010800000000000000
+      internalID: 1210018751736145526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_191
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2426
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a875903c7b51200800000000000000
+      internalID: 150228210890017289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_192
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2424
+        width: 428
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d922099d2f1d1d0800000000000000
+      internalID: -3327611633410073295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_193
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2424
+        width: 428
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b34cec1b77b09b0800000000000000
+      internalID: -5112861346387182741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_194
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2424
+        width: 428
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf5ae0dbcd22210800000000000000
+      internalID: 1306849546443553486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_195
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2424
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62bba04c84e452e0800000000000000
+      internalID: -2137832632062594450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_196
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 2426
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d123fb98024abd360800000000000000
+      internalID: 7195525289311416861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_197
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 2426
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c049d461ae6d04c10800000000000000
+      internalID: 2035863332456338444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_198
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2350
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a2eca8692ddb2c0800000000000000
+      internalID: -4414140515737523708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_199
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2350
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318151dffdc60dad0800000000000000
+      internalID: -2679522069005920237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_200
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2350
+        width: 426
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c3989e3da068c0800000000000000
+      internalID: -4008013184000343766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_201
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2350
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03572d9f9cbcc80800000000000000
+      internalID: -8301319413312442142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_202
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2350
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cfb01a92e377d40800000000000000
+      internalID: 5581998611665517672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_203
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 2350
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a7317f00a1e4640800000000000000
+      internalID: 5066015222285957759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_204
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 2350
+        width: 432
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622bce989b6419d0800000000000000
+      internalID: -2804498364701662620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_205
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 2350
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed4307032c8e5040800000000000000
+      internalID: 4638298748307590634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_206
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 2350
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74727f36a5bf520800000000000000
+      internalID: 2736880583952517063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_207
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2276
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095329d4f52ee48d0800000000000000
+      internalID: -2860099814382488176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_208
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2276
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695606022caa40cb0800000000000000
+      internalID: -4898602743928691306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_209
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2276
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b840369a50be75e0800000000000000
+      internalID: -1909895288845219659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_210
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2276
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2bfa8b00bb59440800000000000000
+      internalID: 4942061777881903855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_211
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2276
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2548c35f63d3a6070800000000000000
+      internalID: 8100354186031170642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_212
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2276
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e3057290fd79430800000000000000
+      internalID: 3789742841862831717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_213
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2276
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc4adc6d210dc00800000000000000
+      internalID: 923258637393382831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_214
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 2276
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77814e44b89816450800000000000000
+      internalID: 6080292203176138871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_215
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 2276
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3df63e3fd650750800000000000000
+      internalID: 6270538950443520991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_216
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2200
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c2c117c68413710800000000000000
+      internalID: 1671196567322504306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_217
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2200
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071201d22cf2e0c90800000000000000
+      internalID: -7201766243092651664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_218
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2200
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2afc9653e71ed6e0800000000000000
+      internalID: -1810983734978217429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_219
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2200
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544e836c7f5270c80800000000000000
+      internalID: -8356668837449898939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_220
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 2200
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab9d31615540fd0800000000000000
+      internalID: -2376681150034101624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_221
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 2200
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb824ae0167bbfaa0800000000000000
+      internalID: -6126101240622077762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_222
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2200
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55054343548bdd200800000000000000
+      internalID: 206523765297008725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_223
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2200
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ca8384528a17f0800000000000000
+      internalID: -641056697451100092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_224
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2200
+        width: 428
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423ef055d458714b0800000000000000
+      internalID: -5469756655232097500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_225
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2126
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d573b98fee9930800000000000000
+      internalID: 4152019281182578647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_226
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2126
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cd06388d5fd3060800000000000000
+      internalID: 6934969311486336102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_227
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2126
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd78659f00afed90800000000000000
+      internalID: -7066253301529412162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_228
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2124
+        width: 428
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eebc3b1bbb29fe0800000000000000
+      internalID: -1183677380144927124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_229
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2124
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b1831c08e9dd40800000000000000
+      internalID: 5609769949431182158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_230
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2124
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa48e48a4b969a0800000000000000
+      internalID: -6239257173780288986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_231
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2124
+        width: 430
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee170af6c0bbae20800000000000000
+      internalID: 3362975915406991072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_232
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 2126
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc44cc7ffff01ec80800000000000000
+      internalID: -8295331446591306547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carregar_233
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2126
+        width: 430
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb20e7ec90476ea0800000000000000
+      internalID: -5879659745859589129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

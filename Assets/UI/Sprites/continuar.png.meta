@@ -1,0 +1,5724 @@
+fileFormatVersion: 2
+guid: d80d437832d8c6043937edbab93dba64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2602481105238597436
+    second: continuar_0
+  - first:
+      213: 6580579750268675439
+    second: continuar_1
+  - first:
+      213: 2668872831659008122
+    second: continuar_2
+  - first:
+      213: -3916278558524637296
+    second: continuar_3
+  - first:
+      213: -80269698296864400
+    second: continuar_4
+  - first:
+      213: -3415182104173721250
+    second: continuar_5
+  - first:
+      213: -7021077131901184918
+    second: continuar_6
+  - first:
+      213: 8268150189429948450
+    second: continuar_7
+  - first:
+      213: 1562650192893714431
+    second: continuar_8
+  - first:
+      213: -3468619216578222545
+    second: continuar_9
+  - first:
+      213: 2300505723904444293
+    second: continuar_10
+  - first:
+      213: -529873178410467180
+    second: continuar_11
+  - first:
+      213: -859701226201642127
+    second: continuar_12
+  - first:
+      213: -7792928910056009425
+    second: continuar_13
+  - first:
+      213: -4390405822362448177
+    second: continuar_14
+  - first:
+      213: 2304334739165081089
+    second: continuar_15
+  - first:
+      213: 4442345565211974461
+    second: continuar_16
+  - first:
+      213: 6157427471219810222
+    second: continuar_17
+  - first:
+      213: -8597551498488172777
+    second: continuar_18
+  - first:
+      213: -6742005643591901422
+    second: continuar_19
+  - first:
+      213: -7697077686959960114
+    second: continuar_20
+  - first:
+      213: 6645198397138458946
+    second: continuar_21
+  - first:
+      213: 3885845982049014224
+    second: continuar_22
+  - first:
+      213: -1714098840035406232
+    second: continuar_23
+  - first:
+      213: 6378440939373376566
+    second: continuar_24
+  - first:
+      213: 7738174676840335277
+    second: continuar_25
+  - first:
+      213: 3578782193091151041
+    second: continuar_26
+  - first:
+      213: -8193111056127667576
+    second: continuar_27
+  - first:
+      213: 4218060931967482136
+    second: continuar_28
+  - first:
+      213: -3962739962401296054
+    second: continuar_29
+  - first:
+      213: -6435166847235105252
+    second: continuar_30
+  - first:
+      213: -3705776029440926092
+    second: continuar_31
+  - first:
+      213: 4361177429647786401
+    second: continuar_32
+  - first:
+      213: 4990183693358667186
+    second: continuar_33
+  - first:
+      213: -2051266304194256006
+    second: continuar_34
+  - first:
+      213: -9194210980991961288
+    second: continuar_35
+  - first:
+      213: -9045325262343407909
+    second: continuar_36
+  - first:
+      213: 6659194886591240207
+    second: continuar_37
+  - first:
+      213: -7918025020557308166
+    second: continuar_38
+  - first:
+      213: -5961798058780768682
+    second: continuar_39
+  - first:
+      213: -5897965975470716935
+    second: continuar_40
+  - first:
+      213: 4484464262128318275
+    second: continuar_41
+  - first:
+      213: 6563274124193521226
+    second: continuar_42
+  - first:
+      213: 7620381476855931047
+    second: continuar_43
+  - first:
+      213: 900286711255738265
+    second: continuar_44
+  - first:
+      213: 5506299078544155691
+    second: continuar_45
+  - first:
+      213: -2501281858200048202
+    second: continuar_46
+  - first:
+      213: 791308339190744267
+    second: continuar_47
+  - first:
+      213: 527224537533010718
+    second: continuar_48
+  - first:
+      213: -1514340255525671476
+    second: continuar_49
+  - first:
+      213: 3978116018940812297
+    second: continuar_50
+  - first:
+      213: -6270115838728501457
+    second: continuar_51
+  - first:
+      213: 7735307384563326655
+    second: continuar_52
+  - first:
+      213: -8994770605902671037
+    second: continuar_53
+  - first:
+      213: 3074996593069872148
+    second: continuar_54
+  - first:
+      213: -3683968460410328100
+    second: continuar_55
+  - first:
+      213: -7331205734300804785
+    second: continuar_56
+  - first:
+      213: 1184264883807053167
+    second: continuar_57
+  - first:
+      213: -2592255740034320462
+    second: continuar_58
+  - first:
+      213: 3908500750808395291
+    second: continuar_59
+  - first:
+      213: 4510661885462104046
+    second: continuar_60
+  - first:
+      213: -6232976128712555945
+    second: continuar_61
+  - first:
+      213: -4189606696231108040
+    second: continuar_62
+  - first:
+      213: -4268976358323964622
+    second: continuar_63
+  - first:
+      213: 485766361614859003
+    second: continuar_64
+  - first:
+      213: -6326045736915081316
+    second: continuar_65
+  - first:
+      213: 1433362686678323745
+    second: continuar_66
+  - first:
+      213: -7034699661723919815
+    second: continuar_67
+  - first:
+      213: -2523336354235441053
+    second: continuar_68
+  - first:
+      213: 4931360376546746601
+    second: continuar_69
+  - first:
+      213: -2533768296579511283
+    second: continuar_70
+  - first:
+      213: 5152643267637332200
+    second: continuar_71
+  - first:
+      213: 3784390141198680446
+    second: continuar_72
+  - first:
+      213: -8295822550175956881
+    second: continuar_73
+  - first:
+      213: -1759001618935106317
+    second: continuar_74
+  - first:
+      213: 8703198614624530639
+    second: continuar_75
+  - first:
+      213: -3055041156564778656
+    second: continuar_76
+  - first:
+      213: -2839003150679033170
+    second: continuar_77
+  - first:
+      213: -6598949757449989656
+    second: continuar_78
+  - first:
+      213: -8804326125641628926
+    second: continuar_79
+  - first:
+      213: -8291590472049308723
+    second: continuar_80
+  - first:
+      213: -8934816360774831844
+    second: continuar_81
+  - first:
+      213: 5225979707788384311
+    second: continuar_82
+  - first:
+      213: 6268461368997528251
+    second: continuar_83
+  - first:
+      213: -8254428425245615071
+    second: continuar_84
+  - first:
+      213: 1676319069192767662
+    second: continuar_85
+  - first:
+      213: -5781442274239174069
+    second: continuar_86
+  - first:
+      213: -1002503911434645979
+    second: continuar_87
+  - first:
+      213: -5660269468433414405
+    second: continuar_88
+  - first:
+      213: 3989358770342763959
+    second: continuar_89
+  - first:
+      213: -3614928496652052701
+    second: continuar_90
+  - first:
+      213: -8631077639699609430
+    second: continuar_91
+  - first:
+      213: 6895701319014163560
+    second: continuar_92
+  - first:
+      213: -3025915618321309609
+    second: continuar_93
+  - first:
+      213: 3585807035121362905
+    second: continuar_94
+  - first:
+      213: -5150335943860226318
+    second: continuar_95
+  - first:
+      213: 3720215962959789410
+    second: continuar_96
+  - first:
+      213: -8983911517405508776
+    second: continuar_97
+  - first:
+      213: -8251288882679356053
+    second: continuar_98
+  - first:
+      213: 4745725872802940954
+    second: continuar_99
+  - first:
+      213: -3181247985505720134
+    second: continuar_100
+  - first:
+      213: 4269387517701563993
+    second: continuar_101
+  - first:
+      213: 6294943131964815013
+    second: continuar_102
+  - first:
+      213: 4981814198361705789
+    second: continuar_103
+  - first:
+      213: -302487479364943305
+    second: continuar_104
+  - first:
+      213: 2744666451015031148
+    second: continuar_105
+  - first:
+      213: 6806192073661826392
+    second: continuar_106
+  - first:
+      213: 7035841105201136128
+    second: continuar_107
+  - first:
+      213: -1337702884631168954
+    second: continuar_108
+  - first:
+      213: 1210755661457971359
+    second: continuar_109
+  - first:
+      213: 493902847349089893
+    second: continuar_110
+  - first:
+      213: 879751314051444530
+    second: continuar_111
+  - first:
+      213: -3840265017314673818
+    second: continuar_112
+  - first:
+      213: 5935957019201406841
+    second: continuar_113
+  - first:
+      213: -8143556888757558900
+    second: continuar_114
+  - first:
+      213: -1677828087722538060
+    second: continuar_115
+  - first:
+      213: 5534638084607069703
+    second: continuar_116
+  - first:
+      213: -2185730755464820129
+    second: continuar_117
+  - first:
+      213: -9087843056397603790
+    second: continuar_118
+  - first:
+      213: 667644665533918299
+    second: continuar_119
+  - first:
+      213: -7916661486448812859
+    second: continuar_120
+  - first:
+      213: 1541638675384537636
+    second: continuar_121
+  - first:
+      213: 2668870558280436804
+    second: continuar_122
+  - first:
+      213: -6496445990114997883
+    second: continuar_123
+  - first:
+      213: 1632317636272976951
+    second: continuar_124
+  - first:
+      213: -8786855424563650840
+    second: continuar_125
+  - first:
+      213: 4824624854099666725
+    second: continuar_126
+  - first:
+      213: 2942282440046828079
+    second: continuar_127
+  - first:
+      213: -703573525520845679
+    second: continuar_128
+  - first:
+      213: -6794776743940984027
+    second: continuar_129
+  - first:
+      213: -1389073779785490148
+    second: continuar_130
+  - first:
+      213: -3620142786676493902
+    second: continuar_131
+  - first:
+      213: -1907556616222057528
+    second: continuar_132
+  - first:
+      213: 201480958261387203
+    second: continuar_133
+  - first:
+      213: -6402427555108648949
+    second: continuar_134
+  - first:
+      213: -3786970331068496265
+    second: continuar_135
+  - first:
+      213: 4607479161001239614
+    second: continuar_136
+  - first:
+      213: -3383703576700501419
+    second: continuar_137
+  - first:
+      213: 5937164188616258461
+    second: continuar_138
+  - first:
+      213: -5803857034544392054
+    second: continuar_139
+  - first:
+      213: 3755155493136998108
+    second: continuar_140
+  - first:
+      213: 8525720046521044446
+    second: continuar_141
+  - first:
+      213: -4235860959065722072
+    second: continuar_142
+  - first:
+      213: 4927342114267446762
+    second: continuar_143
+  - first:
+      213: 5064414268390031345
+    second: continuar_144
+  - first:
+      213: 7113764759370579141
+    second: continuar_145
+  - first:
+      213: 8147534227027577497
+    second: continuar_146
+  - first:
+      213: 9188731573607621998
+    second: continuar_147
+  - first:
+      213: 8765201565352464703
+    second: continuar_148
+  - first:
+      213: 9040330753059306198
+    second: continuar_149
+  - first:
+      213: 583138595886440576
+    second: continuar_150
+  - first:
+      213: -8266861679532735208
+    second: continuar_151
+  - first:
+      213: -838522435216478157
+    second: continuar_152
+  - first:
+      213: 8015453165549152346
+    second: continuar_153
+  - first:
+      213: 119133405905332919
+    second: continuar_154
+  - first:
+      213: -1027702662638399910
+    second: continuar_155
+  - first:
+      213: -3871659268019459504
+    second: continuar_156
+  - first:
+      213: 9003586268347284433
+    second: continuar_157
+  - first:
+      213: 6420243394344841624
+    second: continuar_158
+  - first:
+      213: -8410852936960745299
+    second: continuar_159
+  - first:
+      213: 2718580400650131148
+    second: continuar_160
+  - first:
+      213: -9034599400317621892
+    second: continuar_161
+  - first:
+      213: -5045336116952337051
+    second: continuar_162
+  - first:
+      213: 1788584198237423473
+    second: continuar_163
+  - first:
+      213: -4747212850519209721
+    second: continuar_164
+  - first:
+      213: -7443143695974749252
+    second: continuar_165
+  - first:
+      213: 3225875098961999672
+    second: continuar_166
+  - first:
+      213: -2906978956702937923
+    second: continuar_167
+  - first:
+      213: -4449786468350938507
+    second: continuar_168
+  - first:
+      213: 4636090245521370768
+    second: continuar_169
+  - first:
+      213: 3890856218425342233
+    second: continuar_170
+  - first:
+      213: 7311404663411786015
+    second: continuar_171
+  - first:
+      213: -6771044631333632582
+    second: continuar_172
+  - first:
+      213: 6646320466241575376
+    second: continuar_173
+  - first:
+      213: -8882856527670434208
+    second: continuar_174
+  - first:
+      213: 6056898941541589933
+    second: continuar_175
+  - first:
+      213: -4189384222678346717
+    second: continuar_176
+  - first:
+      213: -3408502953064152231
+    second: continuar_177
+  - first:
+      213: 406570656914023283
+    second: continuar_178
+  - first:
+      213: -1033426721851643715
+    second: continuar_179
+  - first:
+      213: -5430916672057866727
+    second: continuar_180
+  - first:
+      213: 1620426942617487422
+    second: continuar_181
+  - first:
+      213: 1768907573253216608
+    second: continuar_182
+  - first:
+      213: -7548694815314374855
+    second: continuar_183
+  - first:
+      213: 3111006898537472184
+    second: continuar_184
+  - first:
+      213: 5091892964998651239
+    second: continuar_185
+  - first:
+      213: -8229064626811023837
+    second: continuar_186
+  - first:
+      213: -1333278812247282004
+    second: continuar_187
+  - first:
+      213: 3259458410855557653
+    second: continuar_188
+  - first:
+      213: 5169738943559114717
+    second: continuar_189
+  - first:
+      213: 7846304190665711856
+    second: continuar_190
+  - first:
+      213: 2981466102051167457
+    second: continuar_191
+  - first:
+      213: -8561300536392598385
+    second: continuar_192
+  - first:
+      213: 4855590565839022620
+    second: continuar_193
+  - first:
+      213: 8502605726896061425
+    second: continuar_194
+  - first:
+      213: 9114357314896830515
+    second: continuar_195
+  - first:
+      213: 5567927499249895286
+    second: continuar_196
+  - first:
+      213: 7845257100912624238
+    second: continuar_197
+  - first:
+      213: 5719571377953479400
+    second: continuar_198
+  - first:
+      213: 7367863521757267675
+    second: continuar_199
+  - first:
+      213: 6135335803520954026
+    second: continuar_200
+  - first:
+      213: -3333308211583824262
+    second: continuar_201
+  - first:
+      213: 5833981796561823855
+    second: continuar_202
+  - first:
+      213: 4067285215126391436
+    second: continuar_203
+  - first:
+      213: 8441999992643480903
+    second: continuar_204
+  - first:
+      213: 1974069522081983973
+    second: continuar_205
+  - first:
+      213: 5437427831771290110
+    second: continuar_206
+  - first:
+      213: 1672619497640179349
+    second: continuar_207
+  - first:
+      213: 7951411874714668573
+    second: continuar_208
+  - first:
+      213: -487535315816030358
+    second: continuar_209
+  - first:
+      213: -4424360807658963046
+    second: continuar_210
+  - first:
+      213: -748262937745745413
+    second: continuar_211
+  - first:
+      213: -555236366249409652
+    second: continuar_212
+  - first:
+      213: -5111275367339456822
+    second: continuar_213
+  - first:
+      213: -3298178151494803866
+    second: continuar_214
+  - first:
+      213: 3065128143026597886
+    second: continuar_215
+  - first:
+      213: 865996268644736038
+    second: continuar_216
+  - first:
+      213: 2639927600854319078
+    second: continuar_217
+  - first:
+      213: 7992560868777363007
+    second: continuar_218
+  - first:
+      213: 3584992081623174457
+    second: continuar_219
+  - first:
+      213: 5833339480410562595
+    second: continuar_220
+  - first:
+      213: -6682049884909633296
+    second: continuar_221
+  - first:
+      213: 5580435494667412232
+    second: continuar_222
+  - first:
+      213: 6347924681110476893
+    second: continuar_223
+  - first:
+      213: 4936273896657532257
+    second: continuar_224
+  - first:
+      213: 26595196955935814
+    second: continuar_225
+  - first:
+      213: 564313778215290125
+    second: continuar_226
+  - first:
+      213: 2763388773156528386
+    second: continuar_227
+  - first:
+      213: -1021516043389607911
+    second: continuar_228
+  - first:
+      213: -525165827312388372
+    second: continuar_229
+  - first:
+      213: -7908893013888889137
+    second: continuar_230
+  - first:
+      213: -7453909766767884144
+    second: continuar_231
+  - first:
+      213: -1363716560051822788
+    second: continuar_232
+  - first:
+      213: 989710871905268070
+    second: continuar_233
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: continuar_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4024
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f9964d6cedd1420800000000000000
+      internalID: 2602481105238597436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 4024
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a4eeda6ae25b50800000000000000
+      internalID: 6580579750268675439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e9b933bdb90520800000000000000
+      internalID: 2668872831659008122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ff8ad766596a9c0800000000000000
+      internalID: -3916278558524637296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_4
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071a9ca7223d2eef0800000000000000
+      internalID: -80269698296864400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_5
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59447d78f5da90d0800000000000000
+      internalID: -3415182104173721250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_6
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64596c3c8f109e90800000000000000
+      internalID: -7021077131901184918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_7
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200d8e6ace5eb270800000000000000
+      internalID: 8268150189429948450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_8
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff10a73216afa510800000000000000
+      internalID: 1562650192893714431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_9
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e2c6333dfcdfc0800000000000000
+      internalID: -3468619216578222545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_10
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c31d64c90def10800000000000000
+      internalID: 2300505723904444293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_11
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49046d0d62385a8f0800000000000000
+      internalID: -529873178410467180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_12
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 4024
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b88472a4ab114f0800000000000000
+      internalID: -859701226201642127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f215d3ce174f9d390800000000000000
+      internalID: -7792928910056009425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce874a7a252213c0800000000000000
+      internalID: -4390405822362448177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ee6838c34aaff10800000000000000
+      internalID: 2304334739165081089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bddf741c166ad30800000000000000
+      internalID: 4442345565211974461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_17
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafd94069a3937550800000000000000
+      internalID: 6157427471219810222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_18
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f2c72c67c5fa880800000000000000
+      internalID: -8597551498488172777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_19
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f960c76959f62a0800000000000000
+      internalID: -6742005643591901422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_20
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf8a24ef9c7e2590800000000000000
+      internalID: -7697077686959960114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249de630cbc783c50800000000000000
+      internalID: 6645198397138458946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_22
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d119e3255c4de530800000000000000
+      internalID: 3885845982049014224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_23
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ec7c9cf2c4638e0800000000000000
+      internalID: -1714098840035406232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_24
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b82c6d36c48850800000000000000
+      internalID: 6378440939373376566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_25
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3948
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7cdf6bed4836b60800000000000000
+      internalID: 7738174676840335277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3874
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c401b381736aa130800000000000000
+      internalID: 3578782193091151041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3874
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8825f2647e83c4e80800000000000000
+      internalID: -8193111056127667576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3874
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819ffd2c110998a30800000000000000
+      internalID: 4218060931967482136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_29
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3874
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4173dbeff48109c0800000000000000
+      internalID: -3962739962401296054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_30
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3874
+        width: 308
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e5e20f8d1b1b6a0800000000000000
+      internalID: -6435166847235105252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_31
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 3874
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1404d550729cc0800000000000000
+      internalID: -3705776029440926092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_32
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3874
+        width: 308
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a18b9804c3068c30800000000000000
+      internalID: 4361177429647786401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_33
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3874
+        width: 308
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5179641a1b04540800000000000000
+      internalID: 4990183693358667186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_34
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 3874
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73e5c61a207883e0800000000000000
+      internalID: -2051266304194256006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_35
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3874
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8377af763d9976080800000000000000
+      internalID: -9194210980991961288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_36
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 3874
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6772c199c887280800000000000000
+      internalID: -9045325262343407909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_37
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 3874
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f085e59a7763a6c50800000000000000
+      internalID: 6659194886591240207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_38
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 3874
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec60ff1368d1290800000000000000
+      internalID: -7918025020557308166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65642c3a040734da0800000000000000
+      internalID: -5961798058780768682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_40
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f74abea137362ea0800000000000000
+      internalID: -5897965975470716935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_41
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347b7189c740c3e30800000000000000
+      internalID: 4484464262128318275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_42
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e5110da0f651b50800000000000000
+      internalID: 6563274124193521226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_43
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e6f4249801c960800000000000000
+      internalID: 7620381476855931047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_44
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99727647ef57e7c00800000000000000
+      internalID: 900286711255738265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_45
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b246fab96dd4a6c40800000000000000
+      internalID: 5506299078544155691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_46
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd6bdef669a94dd0800000000000000
+      internalID: -2501281858200048202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_47
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4c441fdba4bfa00800000000000000
+      internalID: 791308339190744267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_48
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13568c6ce3115700800000000000000
+      internalID: 527224537533010718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_49
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd61589f8bfbfae0800000000000000
+      internalID: -1514340255525671476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_50
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1248317b153730800000000000000
+      internalID: 3978116018940812297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_51
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3798
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27890c7dd21cf8a0800000000000000
+      internalID: -6270115838728501457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe5a553515595b60800000000000000
+      internalID: 7735307384563326655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_53
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343db0f4ac72c2380800000000000000
+      internalID: -8994770605902671037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_54
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414577ffb159caa20800000000000000
+      internalID: 3074996593069872148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_55
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3722
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbef79243aefdcc0800000000000000
+      internalID: -3683968460410328100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_56
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3724
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4991bf1a33524a90800000000000000
+      internalID: -7331205734300804785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_57
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3724
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e94723aa5f6010800000000000000
+      internalID: 1184264883807053167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_58
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3724
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b779488325760cd0800000000000000
+      internalID: -2592255740034320462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_59
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3724
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e284889b8cd3630800000000000000
+      internalID: 3908500750808395291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_60
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3724
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7ccd81617199e30800000000000000
+      internalID: 4510661885462104046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_61
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3724
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75249921c350089a0800000000000000
+      internalID: -6232976128712555945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_62
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3724
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320c8248e68bd5c0800000000000000
+      internalID: -4189606696231108040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_63
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3724
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353f8fbe9c81c4c0800000000000000
+      internalID: -4268976358323964622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_64
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3724
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa33e3aee9cdb600800000000000000
+      internalID: 485766361614859003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c976d4a4bee5538a0800000000000000
+      internalID: -6326045736915081316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_66
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122d2cde4c354e310800000000000000
+      internalID: 1433362686678323745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_67
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9269dde9bf5e90800000000000000
+      internalID: -7034699661723919815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_68
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360a7fc74fe4bfcd0800000000000000
+      internalID: -2523336354235441053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_69
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0618f8226bf6440800000000000000
+      internalID: 4931360376546746601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_70
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c4b33a82f36dcd0800000000000000
+      internalID: -2533768296579511283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_71
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c4d580cdd18740800000000000000
+      internalID: 5152643267637332200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_72
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3646
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7143a968cad48430800000000000000
+      internalID: 3784390141198680446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_73
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3646
+        width: 308
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60461108515fdc80800000000000000
+      internalID: -8295822550175956881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_74
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 3646
+        width: 310
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43900e855c697e0800000000000000
+      internalID: -1759001618935106317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_75
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 3646
+        width: 310
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0fd5a4709f7c870800000000000000
+      internalID: 8703198614624530639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_76
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3646
+        width: 310
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06102c021405a95d0800000000000000
+      internalID: -3055041156564778656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_77
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 3646
+        width: 310
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaabf871da5d998d0800000000000000
+      internalID: -2839003150679033170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11b888822db64a0800000000000000
+      internalID: -6598949757449989656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_79
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203807a3900c0d580800000000000000
+      internalID: -8804326125641628926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_80
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbcc7a756a5eec80800000000000000
+      internalID: -8291590472049308723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_81
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11faaacbd7210480800000000000000
+      internalID: -8934816360774831844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_82
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73850261bd8668840800000000000000
+      internalID: 5225979707788384311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_83
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24b53476c0ef650800000000000000
+      internalID: 6268461368997528251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_84
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c1951c411627d80800000000000000
+      internalID: -8254428425245615071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_85
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c279df4b734710800000000000000
+      internalID: 1676319069192767662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_86
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a2c8a02e034cfa0800000000000000
+      internalID: -5781442274239174069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_87
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e8ff801046612f0800000000000000
+      internalID: -1002503911434645979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_88
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6890968eea271b0800000000000000
+      internalID: -5660269468433414405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_89
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd9ed34aac0d5730800000000000000
+      internalID: 3989358770342763959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_90
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3572
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271e9c5fa135ddc0800000000000000
+      internalID: -3614928496652052701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_91
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa843e8bd90483880800000000000000
+      internalID: -8631077639699609430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_92
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864280d80d372bf50800000000000000
+      internalID: 6895701319014163560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_93
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e6a1f6c9c106d0800000000000000
+      internalID: -3025915618321309609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_94
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d76181008853c130800000000000000
+      internalID: 3585807035121362905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_95
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f8482fb45688b0800000000000000
+      internalID: -5150335943860226318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_96
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db4ff25bcd0a330800000000000000
+      internalID: 3720215962959789410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_97
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b018fd21cb25380800000000000000
+      internalID: -8983911517405508776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_98
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6564c87a788d7d80800000000000000
+      internalID: -8251288882679356053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_99
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18ccc199843cd140800000000000000
+      internalID: 4745725872802940954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_100
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab82189efcfe9d3d0800000000000000
+      internalID: -3181247985505720134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_101
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956a611c359ef3b30800000000000000
+      internalID: 4269387517701563993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_102
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a63c0e2d612c5750800000000000000
+      internalID: 6294943131964815013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_103
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3496
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dc85e5e95f22540800000000000000
+      internalID: 4981814198361705789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732037b7d395dcbf0800000000000000
+      internalID: -302487479364943305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_105
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69dea76893071620800000000000000
+      internalID: 2744666451015031148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_106
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85541b751a3747e50800000000000000
+      internalID: 6806192073661826392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_107
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0020b9b253454a160800000000000000
+      internalID: 7035841105201136128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_108
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483b8a50568f6de0800000000000000
+      internalID: -1337702884631168954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_109
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98def6fbd77dc010800000000000000
+      internalID: 1210755661457971359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_110
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566ebc9d502bad600800000000000000
+      internalID: 493902847349089893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_111
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f28b4b821853c00800000000000000
+      internalID: 879751314051444530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_112
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b79973053a4bac0800000000000000
+      internalID: -3840265017314673818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_113
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9778c7b7571c06250800000000000000
+      internalID: 5935957019201406841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_114
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ab65f7264cfe80800000000000000
+      internalID: -8143556888757558900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_115
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb00256e3827b8e0800000000000000
+      internalID: -1677828087722538060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_116
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3420
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e4a51a30cfecc40800000000000000
+      internalID: 5534638084607069703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3346
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8fd95579baa1e0800000000000000
+      internalID: -2185730755464820129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_118
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3346
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cabe0c3ee71e180800000000000000
+      internalID: -9087843056397603790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_119
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3346
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c65553943f34900800000000000000
+      internalID: 667644665533918299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_120
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3346
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccd335825e522290800000000000000
+      internalID: -7916661486448812859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_121
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3346
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229c421530056510800000000000000
+      internalID: 1541638675384537636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_122
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3344
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ccdc9e1abb90520800000000000000
+      internalID: 2668870558280436804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_123
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3344
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5894fa8aaccf7d5a0800000000000000
+      internalID: -6496445990114997883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_124
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3344
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f7a6ed3827a610800000000000000
+      internalID: 1632317636272976951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_125
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3344
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5b2ecb81de0680800000000000000
+      internalID: -8786855424563650840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_126
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3344
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527a12b2eb284f240800000000000000
+      internalID: 4824624854099666725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_127
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3344
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a5cd35a4615d820800000000000000
+      internalID: 2942282440046828079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_128
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3344
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f5f13b976c36f0800000000000000
+      internalID: -703573525520845679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_129
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3344
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523ff493d8a14b1a0800000000000000
+      internalID: -6794776743940984027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_130
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3268
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a315c1c409bce0800000000000000
+      internalID: -1389073779785490148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_131
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3268
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b174fbd05ba2cdc0800000000000000
+      internalID: -3620142786676493902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_132
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3268
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb532d3d5ff685e0800000000000000
+      internalID: -1907556616222057528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_133
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3268
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfdc223dddcbc200800000000000000
+      internalID: 201480958261387203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_134
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3268
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0883956f020627a0800000000000000
+      internalID: -6402427555108648949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_135
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3270
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77608b15c8af17bc0800000000000000
+      internalID: -3786970331068496265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_136
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3270
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e346e7da2ed01ff30800000000000000
+      internalID: 4607479161001239614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_137
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3270
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5524c8d468baa01d0800000000000000
+      internalID: -3383703576700501419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_138
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3270
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9374a38f5b056250800000000000000
+      internalID: 5937164188616258461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_139
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8854d8f6ce847fa0800000000000000
+      internalID: -5803857034544392054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_140
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde99cc760efc1430800000000000000
+      internalID: 3755155493136998108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_141
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd405b0631715670800000000000000
+      internalID: 8525720046521044446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_142
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3270
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82331f876e23735c0800000000000000
+      internalID: -4235860959065722072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_143
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3194
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedbbb7fb8f616440800000000000000
+      internalID: 4927342114267446762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_144
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbec6d1f9684640800000000000000
+      internalID: 5064414268390031345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_145
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccb9f9bb5b29b260800000000000000
+      internalID: 7113764759370579141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_146
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac055463bd11170800000000000000
+      internalID: 8147534227027577497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_147
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e656c45aeaee48f70800000000000000
+      internalID: 9188731573607621998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_148
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f311887326044a970800000000000000
+      internalID: 8765201565352464703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_149
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dab3241ce4b57d70800000000000000
+      internalID: 9040330753059306198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_150
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a1ae9679b71800800000000000000
+      internalID: 583138595886440576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_151
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81589282a15364d80800000000000000
+      internalID: -8266861679532735208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_152
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330f9b0b948fc54f0800000000000000
+      internalID: -838522435216478157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_153
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a586656bf2c9c3f60800000000000000
+      internalID: 8015453165549152346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_154
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baaed3933f37a100800000000000000
+      internalID: 119133405905332919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_155
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3194
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e07b29fdddcb1f0800000000000000
+      internalID: -1027702662638399910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ae95e986a154ac0800000000000000
+      internalID: -3871659268019459504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_157
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbbc6d020a23fc70800000000000000
+      internalID: 9003586268347284433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_158
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f87be959491950800000000000000
+      internalID: 6420243394344841624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_159
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0676201d5a64b80800000000000000
+      internalID: -8410852936960745299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_160
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6171288765ab520800000000000000
+      internalID: 2718580400650131148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_161
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c796c1876b7ae9280800000000000000
+      internalID: -9034599400317621892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_162
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5657b90788d5bf9b0800000000000000
+      internalID: -5045336116952337051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_163
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17781da1ad352d810800000000000000
+      internalID: 1788584198237423473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_164
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70902a370138e1eb0800000000000000
+      internalID: -4747212850519209721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_165
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbac357e34a4b890800000000000000
+      internalID: -7443143695974749252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_166
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8377863af4c94cc20800000000000000
+      internalID: 3225875098961999672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_167
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8f2c6a0658a7d0800000000000000
+      internalID: -2906978956702937923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_168
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3118
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5723a9378ce2f32c0800000000000000
+      internalID: -4449786468350938507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_169
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e64f6e383b65040800000000000000
+      internalID: 4636090245521370768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_170
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919bc53bd191ff530800000000000000
+      internalID: 3890856218425342233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_171
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114bcbcdc3577560800000000000000
+      internalID: 7311404663411786015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_172
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab50b0748ca6802a0800000000000000
+      internalID: -6771044631333632582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_173
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9dcb510497c3c50800000000000000
+      internalID: 6646320466241575376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_174
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066a17d2d01c9b480800000000000000
+      internalID: -8882856527670434208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_175
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a60b1f7d6e0450800000000000000
+      internalID: 6056898941541589933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_176
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32491abee315cd5c0800000000000000
+      internalID: -4189384222678346717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_177
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953cdba8f9092b0d0800000000000000
+      internalID: -3408502953064152231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_178
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373257dbbdd64a500800000000000000
+      internalID: 406570656914023283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_179
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8e2ae2fd788a1f0800000000000000
+      internalID: -1033426721851643715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_180
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9168e3d9f0281a4b0800000000000000
+      internalID: -5430916672057866727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_181
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3044
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38003b08b9ec7610800000000000000
+      internalID: 1620426942617487422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_182
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0699148d01c6c8810800000000000000
+      internalID: 1768907573253216608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_183
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8a576f06ad3790800000000000000
+      internalID: -7548694815314374855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_184
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0ad199a448c2b20800000000000000
+      internalID: 3111006898537472184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_185
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d1e057ca90aa640800000000000000
+      internalID: 5091892964998651239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_186
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e4235425d7ccd80800000000000000
+      internalID: -8229064626811023837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_187
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae2279fbfd3f7de0800000000000000
+      internalID: -1333278812247282004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_188
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a6433c72ceb3d20800000000000000
+      internalID: 3259458410855557653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_189
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1850cd2a9eb740800000000000000
+      internalID: 5169738943559114717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_190
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0e944071ca3ec60800000000000000
+      internalID: 7846304190665711856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_191
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecd0a29f9b406920800000000000000
+      internalID: 2981466102051167457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_192
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c35f89586203980800000000000000
+      internalID: -8561300536392598385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_193
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aa293c4e5826340800000000000000
+      internalID: 4855590565839022620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_194
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 2968
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb77d02cd25ff570800000000000000
+      internalID: 8502605726896061425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_195
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2894
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a86e10b3bc7e70800000000000000
+      internalID: 9114357314896830515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_196
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2894
+        width: 308
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6774be77f80454d40800000000000000
+      internalID: 5567927499249895286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_197
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2894
+        width: 310
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62028f64c3ffdc60800000000000000
+      internalID: 7845257100912624238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_198
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2894
+        width: 310
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea986a5ddfff5f40800000000000000
+      internalID: 5719571377953479400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_199
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2894
+        width: 310
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd686ef16d8ef3660800000000000000
+      internalID: 7367863521757267675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_200
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2894
+        width: 310
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae2a9a2867152550800000000000000
+      internalID: 6135335803520954026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_201
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2892
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e47a997d5bdb1d0800000000000000
+      internalID: -3333308211583824262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_202
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2892
+        width: 306
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68a922c88776f050800000000000000
+      internalID: 5833981796561823855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_203
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 2894
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8ecf8a56e17830800000000000000
+      internalID: 4067285215126391436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_204
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 2894
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d6d530442082570800000000000000
+      internalID: 8441999992643480903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_205
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 2894
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed2f9175cd456b10800000000000000
+      internalID: 1974069522081983973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_206
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2894
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9dc84edcf957b40800000000000000
+      internalID: 5437427831771290110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_207
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 2894
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5963c393296563710800000000000000
+      internalID: 1672619497640179349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_208
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2818
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ec03fb8f6195e60800000000000000
+      internalID: 7951411874714668573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_209
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2818
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fd35d963deb39f0800000000000000
+      internalID: -487535315816030358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_210
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2818
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb35569438992c0800000000000000
+      internalID: -4424360807658963046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_211
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2818
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9131592d2ad95f0800000000000000
+      internalID: -748262937745745413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_212
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2818
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83435777776b48f0800000000000000
+      internalID: -555236366249409652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_213
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2818
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac60784522a1119b0800000000000000
+      internalID: -5111275367339456822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_214
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2818
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e923a12748a32d0800000000000000
+      internalID: -3298178151494803866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_215
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 2818
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff272c6ec5898a20800000000000000
+      internalID: 3065128143026597886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_216
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2818
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c1261a403a40c00800000000000000
+      internalID: 865996268644736038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_217
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 2818
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efbba18a28e2a420800000000000000
+      internalID: 2639927600854319078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_218
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 2818
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36892583c74bee60800000000000000
+      internalID: 7992560868777363007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_219
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 2818
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dccbbdd4370c130800000000000000
+      internalID: 3584992081623174457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_220
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2818
+        width: 306
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3202220e95f24f050800000000000000
+      internalID: 5833339480410562595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_221
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0858e58079443a0800000000000000
+      internalID: -6682049884909633296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_222
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803e1a71480b17d40800000000000000
+      internalID: 5580435494667412232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_223
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58568e5ddb581850800000000000000
+      internalID: 6347924681110476893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_224
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1653e4c94fa218440800000000000000
+      internalID: 4936273896657532257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_225
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444a43d03c7e5000800000000000000
+      internalID: 26595196955935814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_226
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0581643468d4d700800000000000000
+      internalID: 564313778215290125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_227
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2012c48b277895620800000000000000
+      internalID: 2763388773156528386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_228
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910666d1298d2d1f0800000000000000
+      internalID: -1021516043389607911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_229
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6fed6667c36b8f0800000000000000
+      internalID: -525165827312388372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_230
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce859cf4b7fd3290800000000000000
+      internalID: -7908893013888889137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_231
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984cf34f846e8890800000000000000
+      internalID: -7453909766767884144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_232
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1bcf830b131de0800000000000000
+      internalID: -1363716560051822788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continuar_233
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 2742
+        width: 304
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66171465bc82cbd00800000000000000
+      internalID: 989710871905268070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5700 @@
+fileFormatVersion: 2
+guid: cd5fd1fa94d4ecf43883c7b4e3a66328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8126463586239732328
+    second: reintentar_pressed_0
+  - first:
+      213: -1881937649319509081
+    second: reintentar_pressed_1
+  - first:
+      213: -5849361338746856554
+    second: reintentar_pressed_2
+  - first:
+      213: 6625855043317605858
+    second: reintentar_pressed_3
+  - first:
+      213: 9036442210346811088
+    second: reintentar_pressed_4
+  - first:
+      213: 5097324536748325294
+    second: reintentar_pressed_5
+  - first:
+      213: -6962876501603476629
+    second: reintentar_pressed_6
+  - first:
+      213: -4655395566032278885
+    second: reintentar_pressed_7
+  - first:
+      213: 3359054701735537596
+    second: reintentar_pressed_8
+  - first:
+      213: 2979541537428622104
+    second: reintentar_pressed_9
+  - first:
+      213: -4308490999995237760
+    second: reintentar_pressed_10
+  - first:
+      213: 4726112092119951805
+    second: reintentar_pressed_11
+  - first:
+      213: 3754327743382455866
+    second: reintentar_pressed_12
+  - first:
+      213: -1862431803646084616
+    second: reintentar_pressed_13
+  - first:
+      213: -5370502579173051547
+    second: reintentar_pressed_14
+  - first:
+      213: 6556231937847705574
+    second: reintentar_pressed_15
+  - first:
+      213: 7051664978523532557
+    second: reintentar_pressed_16
+  - first:
+      213: 1034380358315657563
+    second: reintentar_pressed_17
+  - first:
+      213: 7222800002433937755
+    second: reintentar_pressed_18
+  - first:
+      213: -5307690984712132917
+    second: reintentar_pressed_19
+  - first:
+      213: -4954435930364432293
+    second: reintentar_pressed_20
+  - first:
+      213: -5057195076849057803
+    second: reintentar_pressed_21
+  - first:
+      213: 7840624139725691723
+    second: reintentar_pressed_22
+  - first:
+      213: -8898540779140755300
+    second: reintentar_pressed_23
+  - first:
+      213: 3678272082087277468
+    second: reintentar_pressed_24
+  - first:
+      213: -6237890898287743384
+    second: reintentar_pressed_25
+  - first:
+      213: -7235046515410686662
+    second: reintentar_pressed_26
+  - first:
+      213: 3965374009472806105
+    second: reintentar_pressed_27
+  - first:
+      213: 4649962559585338197
+    second: reintentar_pressed_28
+  - first:
+      213: 105630101842540883
+    second: reintentar_pressed_29
+  - first:
+      213: 4303942818224528803
+    second: reintentar_pressed_30
+  - first:
+      213: 1972709502104541033
+    second: reintentar_pressed_31
+  - first:
+      213: -2828919822588202048
+    second: reintentar_pressed_32
+  - first:
+      213: 3986825727725772000
+    second: reintentar_pressed_33
+  - first:
+      213: 8850668959590608860
+    second: reintentar_pressed_34
+  - first:
+      213: -303430446616551520
+    second: reintentar_pressed_35
+  - first:
+      213: 7108242863671591990
+    second: reintentar_pressed_36
+  - first:
+      213: 5561434921489528931
+    second: reintentar_pressed_37
+  - first:
+      213: 8261779883042282827
+    second: reintentar_pressed_38
+  - first:
+      213: -6754191341651820070
+    second: reintentar_pressed_39
+  - first:
+      213: 3278683723904797351
+    second: reintentar_pressed_40
+  - first:
+      213: -4412076842497247481
+    second: reintentar_pressed_41
+  - first:
+      213: -4578493204932471456
+    second: reintentar_pressed_42
+  - first:
+      213: 7293353671876933436
+    second: reintentar_pressed_43
+  - first:
+      213: -2762432171530798728
+    second: reintentar_pressed_44
+  - first:
+      213: 6407545382812946497
+    second: reintentar_pressed_45
+  - first:
+      213: -2074900564917775610
+    second: reintentar_pressed_46
+  - first:
+      213: -463795672910524252
+    second: reintentar_pressed_47
+  - first:
+      213: -4523909476887780756
+    second: reintentar_pressed_48
+  - first:
+      213: -668613283267633573
+    second: reintentar_pressed_49
+  - first:
+      213: -8029151703462124710
+    second: reintentar_pressed_50
+  - first:
+      213: -3458586533331355343
+    second: reintentar_pressed_51
+  - first:
+      213: -8343499095819186132
+    second: reintentar_pressed_52
+  - first:
+      213: -1524739148728232945
+    second: reintentar_pressed_53
+  - first:
+      213: -5696515935684546518
+    second: reintentar_pressed_54
+  - first:
+      213: 5263630125174757199
+    second: reintentar_pressed_55
+  - first:
+      213: -2608939188774885933
+    second: reintentar_pressed_56
+  - first:
+      213: 6548309928953471997
+    second: reintentar_pressed_57
+  - first:
+      213: -95111843261361630
+    second: reintentar_pressed_58
+  - first:
+      213: -4410383477374223101
+    second: reintentar_pressed_59
+  - first:
+      213: -5680945155503048907
+    second: reintentar_pressed_60
+  - first:
+      213: -4221171750719972630
+    second: reintentar_pressed_61
+  - first:
+      213: -7942826722713257981
+    second: reintentar_pressed_62
+  - first:
+      213: 276794277737770819
+    second: reintentar_pressed_63
+  - first:
+      213: -7635326045806418188
+    second: reintentar_pressed_64
+  - first:
+      213: -1455724863523267821
+    second: reintentar_pressed_65
+  - first:
+      213: -4454469772175328560
+    second: reintentar_pressed_66
+  - first:
+      213: -3541506610719432730
+    second: reintentar_pressed_67
+  - first:
+      213: -3847811744693805917
+    second: reintentar_pressed_68
+  - first:
+      213: -2971398708629711556
+    second: reintentar_pressed_69
+  - first:
+      213: -6459222055327828017
+    second: reintentar_pressed_70
+  - first:
+      213: -4882050150407340553
+    second: reintentar_pressed_71
+  - first:
+      213: -1878379539999389293
+    second: reintentar_pressed_72
+  - first:
+      213: 6077113244139490876
+    second: reintentar_pressed_73
+  - first:
+      213: 3887552077958763309
+    second: reintentar_pressed_74
+  - first:
+      213: -5170449308420943432
+    second: reintentar_pressed_75
+  - first:
+      213: -565055337096290611
+    second: reintentar_pressed_76
+  - first:
+      213: 5533007066230614350
+    second: reintentar_pressed_77
+  - first:
+      213: -8503617362060697074
+    second: reintentar_pressed_78
+  - first:
+      213: -1371584703326220383
+    second: reintentar_pressed_79
+  - first:
+      213: 3180495437346155657
+    second: reintentar_pressed_80
+  - first:
+      213: -3633124380322624217
+    second: reintentar_pressed_81
+  - first:
+      213: 333137491108739913
+    second: reintentar_pressed_82
+  - first:
+      213: -7896569373887044745
+    second: reintentar_pressed_83
+  - first:
+      213: 4312606744599354390
+    second: reintentar_pressed_84
+  - first:
+      213: 1212655304867480285
+    second: reintentar_pressed_85
+  - first:
+      213: -4534052543292616794
+    second: reintentar_pressed_86
+  - first:
+      213: 7240860464687084946
+    second: reintentar_pressed_87
+  - first:
+      213: -2899811964262899163
+    second: reintentar_pressed_88
+  - first:
+      213: -5595562078365695895
+    second: reintentar_pressed_89
+  - first:
+      213: 9001663226784411153
+    second: reintentar_pressed_90
+  - first:
+      213: 3630262966237074537
+    second: reintentar_pressed_91
+  - first:
+      213: -1321531933286637384
+    second: reintentar_pressed_92
+  - first:
+      213: 5775789983399249784
+    second: reintentar_pressed_93
+  - first:
+      213: -7824623015851388945
+    second: reintentar_pressed_94
+  - first:
+      213: -4617953030571571437
+    second: reintentar_pressed_95
+  - first:
+      213: 3607752268017320890
+    second: reintentar_pressed_96
+  - first:
+      213: -5951281332132453527
+    second: reintentar_pressed_97
+  - first:
+      213: -8033656147803845663
+    second: reintentar_pressed_98
+  - first:
+      213: -96081260233982191
+    second: reintentar_pressed_99
+  - first:
+      213: 5194943144039980581
+    second: reintentar_pressed_100
+  - first:
+      213: 4113446277436839417
+    second: reintentar_pressed_101
+  - first:
+      213: 5986006370316497094
+    second: reintentar_pressed_102
+  - first:
+      213: 3979805642223889265
+    second: reintentar_pressed_103
+  - first:
+      213: 6341906606932212100
+    second: reintentar_pressed_104
+  - first:
+      213: -6840435136502855183
+    second: reintentar_pressed_105
+  - first:
+      213: -7537653910107733014
+    second: reintentar_pressed_106
+  - first:
+      213: -8317053652265865336
+    second: reintentar_pressed_107
+  - first:
+      213: -1888067420732960433
+    second: reintentar_pressed_108
+  - first:
+      213: 4020097973783246359
+    second: reintentar_pressed_109
+  - first:
+      213: -6577216736677229303
+    second: reintentar_pressed_110
+  - first:
+      213: -8837617098721917081
+    second: reintentar_pressed_111
+  - first:
+      213: -1223650070010587075
+    second: reintentar_pressed_112
+  - first:
+      213: 6757592342812279193
+    second: reintentar_pressed_113
+  - first:
+      213: 4578472430928507004
+    second: reintentar_pressed_114
+  - first:
+      213: -6621895274673295219
+    second: reintentar_pressed_115
+  - first:
+      213: -5528650995729425910
+    second: reintentar_pressed_116
+  - first:
+      213: -8881120871576016179
+    second: reintentar_pressed_117
+  - first:
+      213: -4043079063119175066
+    second: reintentar_pressed_118
+  - first:
+      213: 2340437641824133943
+    second: reintentar_pressed_119
+  - first:
+      213: 5097419616992617686
+    second: reintentar_pressed_120
+  - first:
+      213: -7733795875857831455
+    second: reintentar_pressed_121
+  - first:
+      213: 3196411756145242123
+    second: reintentar_pressed_122
+  - first:
+      213: 363205533745161885
+    second: reintentar_pressed_123
+  - first:
+      213: -8441610384742758031
+    second: reintentar_pressed_124
+  - first:
+      213: 6630852706383831649
+    second: reintentar_pressed_125
+  - first:
+      213: -474583712167951373
+    second: reintentar_pressed_126
+  - first:
+      213: -4796611980116528122
+    second: reintentar_pressed_127
+  - first:
+      213: -8072795930776191518
+    second: reintentar_pressed_128
+  - first:
+      213: -8027415669547558657
+    second: reintentar_pressed_129
+  - first:
+      213: -6285111216229848991
+    second: reintentar_pressed_130
+  - first:
+      213: -7531278510998063791
+    second: reintentar_pressed_131
+  - first:
+      213: -2606476097498812064
+    second: reintentar_pressed_132
+  - first:
+      213: 2243175647690301095
+    second: reintentar_pressed_133
+  - first:
+      213: 7915119931941411372
+    second: reintentar_pressed_134
+  - first:
+      213: 2638560831430853036
+    second: reintentar_pressed_135
+  - first:
+      213: 3492676327501500903
+    second: reintentar_pressed_136
+  - first:
+      213: -4969379433679386810
+    second: reintentar_pressed_137
+  - first:
+      213: 382575865387747718
+    second: reintentar_pressed_138
+  - first:
+      213: -4902834923412236787
+    second: reintentar_pressed_139
+  - first:
+      213: 4495929377484642066
+    second: reintentar_pressed_140
+  - first:
+      213: 374555415334987386
+    second: reintentar_pressed_141
+  - first:
+      213: 7067683376187952553
+    second: reintentar_pressed_142
+  - first:
+      213: 273648822424740702
+    second: reintentar_pressed_143
+  - first:
+      213: 7078007972190678059
+    second: reintentar_pressed_144
+  - first:
+      213: -9121849482272332964
+    second: reintentar_pressed_145
+  - first:
+      213: -4105591893709305333
+    second: reintentar_pressed_146
+  - first:
+      213: -6035678644692347095
+    second: reintentar_pressed_147
+  - first:
+      213: 8174945778993876198
+    second: reintentar_pressed_148
+  - first:
+      213: 8501217066909445882
+    second: reintentar_pressed_149
+  - first:
+      213: -8371205730079668916
+    second: reintentar_pressed_150
+  - first:
+      213: 1814691869859654136
+    second: reintentar_pressed_151
+  - first:
+      213: -8178879105174775489
+    second: reintentar_pressed_152
+  - first:
+      213: -6138359176162524155
+    second: reintentar_pressed_153
+  - first:
+      213: 357433709185895681
+    second: reintentar_pressed_154
+  - first:
+      213: -55874142155668727
+    second: reintentar_pressed_155
+  - first:
+      213: -7776718939450359906
+    second: reintentar_pressed_156
+  - first:
+      213: -1654068801993885936
+    second: reintentar_pressed_157
+  - first:
+      213: 7624967462175456905
+    second: reintentar_pressed_158
+  - first:
+      213: 3405329116607323308
+    second: reintentar_pressed_159
+  - first:
+      213: 9000218448133614949
+    second: reintentar_pressed_160
+  - first:
+      213: -2171039551483923659
+    second: reintentar_pressed_161
+  - first:
+      213: -6337808295275492953
+    second: reintentar_pressed_162
+  - first:
+      213: 7018177497349640746
+    second: reintentar_pressed_163
+  - first:
+      213: 3951883244133383908
+    second: reintentar_pressed_164
+  - first:
+      213: 8531862004505213612
+    second: reintentar_pressed_165
+  - first:
+      213: 1977402593760092231
+    second: reintentar_pressed_166
+  - first:
+      213: -4905211889148688599
+    second: reintentar_pressed_167
+  - first:
+      213: 6418908802294932529
+    second: reintentar_pressed_168
+  - first:
+      213: -6145057722538553247
+    second: reintentar_pressed_169
+  - first:
+      213: -1896669471340352995
+    second: reintentar_pressed_170
+  - first:
+      213: -5424752818671119717
+    second: reintentar_pressed_171
+  - first:
+      213: -5427825936429511521
+    second: reintentar_pressed_172
+  - first:
+      213: 5155553127221708072
+    second: reintentar_pressed_173
+  - first:
+      213: -2194678508197034818
+    second: reintentar_pressed_174
+  - first:
+      213: 3914169720496682112
+    second: reintentar_pressed_175
+  - first:
+      213: 1472814741870793325
+    second: reintentar_pressed_176
+  - first:
+      213: -4185086694705819683
+    second: reintentar_pressed_177
+  - first:
+      213: -8052234692917186920
+    second: reintentar_pressed_178
+  - first:
+      213: 6726792039641951520
+    second: reintentar_pressed_179
+  - first:
+      213: 4886947053084852379
+    second: reintentar_pressed_180
+  - first:
+      213: -2200579185006044528
+    second: reintentar_pressed_181
+  - first:
+      213: -4702398841484086284
+    second: reintentar_pressed_182
+  - first:
+      213: -8377516888376654662
+    second: reintentar_pressed_183
+  - first:
+      213: 4893909426012425561
+    second: reintentar_pressed_184
+  - first:
+      213: -1162746147528178845
+    second: reintentar_pressed_185
+  - first:
+      213: 1815484736673673375
+    second: reintentar_pressed_186
+  - first:
+      213: -3688698325456982253
+    second: reintentar_pressed_187
+  - first:
+      213: -351781432796556757
+    second: reintentar_pressed_188
+  - first:
+      213: -4844778051840684502
+    second: reintentar_pressed_189
+  - first:
+      213: -8552918810306672039
+    second: reintentar_pressed_190
+  - first:
+      213: 6317557542096531592
+    second: reintentar_pressed_191
+  - first:
+      213: 3263769976766970999
+    second: reintentar_pressed_192
+  - first:
+      213: -3197965499915998759
+    second: reintentar_pressed_193
+  - first:
+      213: 3683589770047651176
+    second: reintentar_pressed_194
+  - first:
+      213: -8820134323691374429
+    second: reintentar_pressed_195
+  - first:
+      213: 5902350780778327394
+    second: reintentar_pressed_196
+  - first:
+      213: -3199843283451813303
+    second: reintentar_pressed_197
+  - first:
+      213: -2110950752529422968
+    second: reintentar_pressed_198
+  - first:
+      213: -4045941474634907996
+    second: reintentar_pressed_199
+  - first:
+      213: -1933202781504820045
+    second: reintentar_pressed_200
+  - first:
+      213: 6724371367779119889
+    second: reintentar_pressed_201
+  - first:
+      213: 1508073678654005618
+    second: reintentar_pressed_202
+  - first:
+      213: -2375462911105588217
+    second: reintentar_pressed_203
+  - first:
+      213: -1113065718720379510
+    second: reintentar_pressed_204
+  - first:
+      213: -6727057731551943686
+    second: reintentar_pressed_205
+  - first:
+      213: 413003503256105730
+    second: reintentar_pressed_206
+  - first:
+      213: -3982040070142124236
+    second: reintentar_pressed_207
+  - first:
+      213: -3623400419742151972
+    second: reintentar_pressed_208
+  - first:
+      213: -1748251192310815642
+    second: reintentar_pressed_209
+  - first:
+      213: 6068548018038740805
+    second: reintentar_pressed_210
+  - first:
+      213: -2363410866872666148
+    second: reintentar_pressed_211
+  - first:
+      213: 3182496878772481272
+    second: reintentar_pressed_212
+  - first:
+      213: -2534015496320798499
+    second: reintentar_pressed_213
+  - first:
+      213: 4286763153661632123
+    second: reintentar_pressed_214
+  - first:
+      213: 874170888643470037
+    second: reintentar_pressed_215
+  - first:
+      213: 984404773408153062
+    second: reintentar_pressed_216
+  - first:
+      213: -6612244037564933584
+    second: reintentar_pressed_217
+  - first:
+      213: 2605842125774002682
+    second: reintentar_pressed_218
+  - first:
+      213: 8653146889216711140
+    second: reintentar_pressed_219
+  - first:
+      213: -2020581096538506584
+    second: reintentar_pressed_220
+  - first:
+      213: 474249376657956352
+    second: reintentar_pressed_221
+  - first:
+      213: 3738757037372390817
+    second: reintentar_pressed_222
+  - first:
+      213: -429233759030089387
+    second: reintentar_pressed_223
+  - first:
+      213: 5489042791898684064
+    second: reintentar_pressed_224
+  - first:
+      213: -291808148866886236
+    second: reintentar_pressed_225
+  - first:
+      213: 15069916649372626
+    second: reintentar_pressed_226
+  - first:
+      213: 4212403511556698073
+    second: reintentar_pressed_227
+  - first:
+      213: -5392153667977406896
+    second: reintentar_pressed_228
+  - first:
+      213: 6014763697677566792
+    second: reintentar_pressed_229
+  - first:
+      213: 6038409863452439971
+    second: reintentar_pressed_230
+  - first:
+      213: 7920162569172048908
+    second: reintentar_pressed_231
+  - first:
+      213: -1414635686819663849
+    second: reintentar_pressed_232
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reintentar_pressed_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4022
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a57f9639ff6c070800000000000000
+      internalID: 8126463586239732328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 4022
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a380eacda302e5e0800000000000000
+      internalID: -1881937649319509081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 4022
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b17198ad4e2dea0800000000000000
+      internalID: -5849361338746856554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_3
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 4022
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e52d2e7e04c3fb50800000000000000
+      internalID: 6625855043317605858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_4
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 4022
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de311d2054e76d70800000000000000
+      internalID: 9036442210346811088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_5
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 4022
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea934cdc8a55db640800000000000000
+      internalID: 5097324536748325294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_6
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 4022
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b920376b4ee5f90800000000000000
+      internalID: -6962876501603476629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_7
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 4022
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa7b5e566b46fb0800000000000000
+      internalID: -4655395566032278885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_8
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 4022
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb6d064472cd9e20800000000000000
+      internalID: 3359054701735537596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3944
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b44f3fd35795920800000000000000
+      internalID: 2979541537428622104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3944
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af05b434a2534c0800000000000000
+      internalID: -4308490999995237760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_11
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3944
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9ec7368e5869140800000000000000
+      internalID: 4726112092119951805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_12
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3944
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3684baf03d0a1430800000000000000
+      internalID: 3754327743382455866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_13
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3944
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9f84564205726e0800000000000000
+      internalID: -1862431803646084616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_14
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3944
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563321fbb542875b0800000000000000
+      internalID: -5370502579173051547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_15
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3944
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efbb78063a6cfa50800000000000000
+      internalID: 6556231937847705574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_16
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 3944
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d25f7cfeb8cd160800000000000000
+      internalID: 7051664978523532557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_17
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3944
+        width: 432
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59cb0c947bda5e00800000000000000
+      internalID: 1034380358315657563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3868
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f3cc855a8c3460800000000000000
+      internalID: 7222800002433937755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3868
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6a0b6bb2b4756b0800000000000000
+      internalID: -5307690984712132917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_20
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3868
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50323465ce4e3bb0800000000000000
+      internalID: -4954435930364432293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_21
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3868
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffbe8c2fdb31d9b0800000000000000
+      internalID: -5057195076849057803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_22
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 3868
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd3b91d1e7fcc60800000000000000
+      internalID: 7840624139725691723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_23
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 3868
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90dcffce48028480800000000000000
+      internalID: -8898540779140755300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_24
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 3868
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937c0868f8db0330800000000000000
+      internalID: 3678272082087277468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_25
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3868
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eaaeb174f8e69a0800000000000000
+      internalID: -6237890898287743384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_26
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 3868
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da483f683f79b90800000000000000
+      internalID: -7235046515410686662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3790
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc6134f6a6d70730800000000000000
+      internalID: 3965374009472806105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_28
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3790
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55343f6bf4cf78040800000000000000
+      internalID: 4649962559585338197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_29
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 3790
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b9e99406477100800000000000000
+      internalID: 105630101842540883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_30
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 3790
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3addddd903daabb30800000000000000
+      internalID: 4303942818224528803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_31
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 3790
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9679afd17d8706b10800000000000000
+      internalID: 1972709502104541033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_32
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3790
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3b19cd868adb8d0800000000000000
+      internalID: -2828919822588202048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_33
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 3790
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec9b7250ec045730800000000000000
+      internalID: 3986825727725772000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_34
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3790
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf69f0a684e3da70800000000000000
+      internalID: 8850668959590608860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_35
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 3790
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afd16fcd9ff9cbf0800000000000000
+      internalID: -303430446616551520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3712
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634c952393d85a260800000000000000
+      internalID: 7108242863671591990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3712
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368f5d8689f2e2d40800000000000000
+      internalID: 5561434921489528931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_38
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 3712
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d1435e70db7a270800000000000000
+      internalID: 8261779883042282827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_39
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3712
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad103df82ca4442a0800000000000000
+      internalID: -6754191341651820070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_40
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 3708
+        width: 434
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa4336c979308d20800000000000000
+      internalID: 3278683723904797351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_41
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 3708
+        width: 434
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7077939ec7725c2c0800000000000000
+      internalID: -4412076842497247481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_42
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 3708
+        width: 436
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d57120bce570c0800000000000000
+      internalID: -4578493204932471456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_43
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3708
+        width: 436
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37f381d582373560800000000000000
+      internalID: 7293353671876933436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_44
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 3712
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879bbc3739ed9a9d0800000000000000
+      internalID: -2762432171530798728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3634
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14092c8b39c2ce850800000000000000
+      internalID: 6407545382812946497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3634
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60391d3fde87433e0800000000000000
+      internalID: -2074900564917775610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_47
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3634
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a01ec3fa444099f0800000000000000
+      internalID: -463795672910524252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_48
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3632
+        width: 434
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62a41aac48d731c0800000000000000
+      internalID: -4523909476887780756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_49
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3632
+        width: 436
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e99b6e2cb98b6f0800000000000000
+      internalID: -668613283267633573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_50
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3632
+        width: 434
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53ea63e019b29090800000000000000
+      internalID: -8029151703462124710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_51
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3632
+        width: 436
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b5df4fd1a000d0800000000000000
+      internalID: -3458586533331355343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_52
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 3632
+        width: 434
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2097e137cfe53c80800000000000000
+      internalID: -8343499095819186132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_53
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3634
+        width: 436
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041ce892d907dae0800000000000000
+      internalID: -1524739148728232945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3556
+        width: 436
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20bb2c10f8e1f0b0800000000000000
+      internalID: -5696515935684546518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3556
+        width: 440
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47161006bb2c0940800000000000000
+      internalID: 5263630125174757199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_56
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 3556
+        width: 436
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d52a7c61af2bcbd0800000000000000
+      internalID: -2608939188774885933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_57
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 3558
+        width: 442
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df36f6a9f2540ea50800000000000000
+      internalID: 6548309928953471997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_58
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 3558
+        width: 442
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222597058481eaef0800000000000000
+      internalID: -95111843261361630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_59
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 3558
+        width: 442
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d7bd3389b2bc2c0800000000000000
+      internalID: -4410383477374223101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_60
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 3558
+        width: 442
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b3c1ea7a3921b0800000000000000
+      internalID: -5680945155503048907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_61
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 3558
+        width: 442
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea1c6e48a26b65c0800000000000000
+      internalID: -4221171750719972630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_62
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 3556
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083238bd2965c190800000000000000
+      internalID: -7942826722713257981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3478
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fab68ddee57d300800000000000000
+      internalID: 276794277737770819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_64
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3478
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ab6f3a6fd90690800000000000000
+      internalID: -7635326045806418188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_65
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3478
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bddfa03f93ccbe0800000000000000
+      internalID: -1455724863523267821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_66
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3478
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da36cec75b8e22c0800000000000000
+      internalID: -4454469772175328560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_67
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3478
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efde52508a0adec0800000000000000
+      internalID: -3541506610719432730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_68
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3478
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac13f2da93d99ac0800000000000000
+      internalID: -3847811744693805917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_69
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3478
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35521e1e9873c6d0800000000000000
+      internalID: -2971398708629711556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_70
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 3474
+        width: 434
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f0da53cb3c56a0800000000000000
+      internalID: -6459222055327828017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_71
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3474
+        width: 436
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf35121497f3cb0800000000000000
+      internalID: -4882050150407340553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3396
+        width: 436
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39989fca2c7aee5e0800000000000000
+      internalID: -1878379539999389293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_73
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3396
+        width: 436
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e81c03c4e365450800000000000000
+      internalID: 6077113244139490876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_74
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 3396
+        width: 434
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23509c840c53f530800000000000000
+      internalID: 3887552077958763309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_75
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3400
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d76a8fbfde38b0800000000000000
+      internalID: -5170449308420943432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_76
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 3400
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcedfe92a258828f0800000000000000
+      internalID: -565055337096290611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_77
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 3400
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49e6629c9039cc40800000000000000
+      internalID: 5533007066230614350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_78
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 3400
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02278430151df980800000000000000
+      internalID: -8503617362060697074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_79
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3400
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af81e2baf627fce0800000000000000
+      internalID: -1371584703326220383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_80
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 3400
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ca4c0dfb3632c20800000000000000
+      internalID: 3180495437346155657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3322
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d0f0e00ac849dc0800000000000000
+      internalID: -3633124380322624217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_82
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3322
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bb6ea78ca8f9400800000000000000
+      internalID: 333137491108739913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_83
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3322
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773eb350effb96290800000000000000
+      internalID: -7896569373887044745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_84
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3324
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c5ccb2cf479db30800000000000000
+      internalID: 4312606744599354390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_85
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 3324
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd28e99239734d010800000000000000
+      internalID: 1212655304867480285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_86
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 3324
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af461cfb3fc311c0800000000000000
+      internalID: -4534052543292616794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_87
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 3324
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295f7d99a34bc7460800000000000000
+      internalID: 7240860464687084946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_88
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 3324
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522aea2e16cc1c7d0800000000000000
+      internalID: -2899811964262899163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_89
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 3324
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960cd50bfe19852b0800000000000000
+      internalID: -5595562078365695895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3246
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e6e2c03055cec70800000000000000
+      internalID: 9001663226784411153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_91
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3246
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96411df0fe8416230800000000000000
+      internalID: 3630262966237074537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_92
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 3246
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06d1d55b9f8ade0800000000000000
+      internalID: -1321531933286637384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_93
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3246
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87785c1736ab72050800000000000000
+      internalID: 5775789983399249784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_94
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 3246
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef05ded2da596390800000000000000
+      internalID: -7824623015851388945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_95
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 3246
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317c7578f2cb9efb0800000000000000
+      internalID: -4617953030571571437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_96
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 3246
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab348c4b29f411230800000000000000
+      internalID: 3607752268017320890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_97
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3246
+        width: 444
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963e4dfd82dc86da0800000000000000
+      internalID: -5951281332132453527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_98
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 3246
+        width: 444
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc4863c48b28090800000000000000
+      internalID: -8033656147803845663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3168
+        width: 442
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f7e265a96aaaef0800000000000000
+      internalID: -96081260233982191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3168
+        width: 444
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e9ad8f345281840800000000000000
+      internalID: 5194943144039980581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_101
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 3166
+        width: 438
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f596496895e51930800000000000000
+      internalID: 4113446277436839417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_102
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 3166
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b0fd1411921350800000000000000
+      internalID: 5986006370316497094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_103
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 3166
+        width: 438
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba9db452c1b3730800000000000000
+      internalID: 3979805642223889265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_104
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 3166
+        width: 440
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b5e8457af20850800000000000000
+      internalID: 6341906606932212100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_105
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 3168
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f985ab4c74e111a0800000000000000
+      internalID: -6840435136502855183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_106
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 3168
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c13874bfd46790800000000000000
+      internalID: -7537653910107733014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_107
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 3168
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe3d6d4c3e39c80800000000000000
+      internalID: -8317053652265865336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3088
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41593b2fac3cc5e0800000000000000
+      internalID: -1888067420732960433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_109
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3088
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7163e99cec14ac730800000000000000
+      internalID: 4020097973783246359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_110
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3088
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d899fb93809b4a0800000000000000
+      internalID: -6577216736677229303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_111
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3088
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76703c9821a7a5580800000000000000
+      internalID: -8837617098721917081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_112
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3088
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3813a79eb8b40fe0800000000000000
+      internalID: -1223650070010587075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_113
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3088
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c93abe6ac7cd50800000000000000
+      internalID: 6757592342812279193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_114
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3088
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70b96b0b600a8f30800000000000000
+      internalID: 4578472430928507004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_115
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 3088
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80b24df45d4a14a0800000000000000
+      internalID: -6621895274673295219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_116
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3088
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a107026394643b0800000000000000
+      internalID: -5528650995729425910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3012
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca676a1f9befb480800000000000000
+      internalID: -8881120871576016179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_118
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3012
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66266f3630914e7c0800000000000000
+      internalID: -4043079063119175066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_119
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3012
+        width: 442
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73361e392a7ea7020800000000000000
+      internalID: 2340437641824133943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_120
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 3012
+        width: 442
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4e3f5622cadb640800000000000000
+      internalID: 5097419616992617686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_121
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 3012
+        width: 442
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9ec1650a90ca490800000000000000
+      internalID: -7733795875857831455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_122
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 3012
+        width: 442
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b007be09e8feb5c20800000000000000
+      internalID: 3196411756145242123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_123
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 3012
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d962653328d5a0500800000000000000
+      internalID: 363205533745161885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_124
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3012
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c825a41069da80800000000000000
+      internalID: -8441610384742758031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_125
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 3012
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16222f99765850c50800000000000000
+      internalID: 6630852706383831649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2934
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f30b04d0a0f969f0800000000000000
+      internalID: -474583712167951373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_127
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2934
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60475cf41d20f6db0800000000000000
+      internalID: -4796611980116528122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_128
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2934
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edbdd95fdaa7ff80800000000000000
+      internalID: -8072795930776191518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_129
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2934
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff89638caf3e89090800000000000000
+      internalID: -8027415669547558657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_130
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2934
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168ebc616acc6c8a0800000000000000
+      internalID: -6285111216229848991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_131
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2934
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557d6fb8168b7790800000000000000
+      internalID: -7531278510998063791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_132
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2934
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061790d8ccfe3dbd0800000000000000
+      internalID: -2606476097498812064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_133
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2934
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1361ed5c512f10800000000000000
+      internalID: 2243175647690301095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_134
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2934
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a5bf954a728dd60800000000000000
+      internalID: 7915119931941411372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2856
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca102b3b81d0e9420800000000000000
+      internalID: 2638560831430853036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_136
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2856
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e194286d9a787030800000000000000
+      internalID: 3492676327501500903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_137
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2856
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6478865ebb7390bb0800000000000000
+      internalID: -4969379433679386810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_138
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 2856
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689031cf8be2f4500800000000000000
+      internalID: 382575865387747718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_139
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2856
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0652ad0d91a5fbb0800000000000000
+      internalID: -4902834923412236787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_140
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 2856
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2171738c2ffb46e30800000000000000
+      internalID: 4495929377484642066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_141
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2856
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76adbf6a20b23500800000000000000
+      internalID: 374555415334987386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_142
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2856
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcd9e9594751260800000000000000
+      internalID: 7067683376187952553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_143
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 2856
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53a4d577223cc300800000000000000
+      internalID: 273648822424740702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_144
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2778
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ceec3ffb22a3260800000000000000
+      internalID: 7078007972190678059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_145
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2778
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a39ab93ea86180800000000000000
+      internalID: -9121849482272332964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_146
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2776
+        width: 434
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0acbbecce10607c0800000000000000
+      internalID: -4105591893709305333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_147
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2776
+        width: 434
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92793b44046fc3ca0800000000000000
+      internalID: -6035678644692347095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_148
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2776
+        width: 436
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec420f8fdd337170800000000000000
+      internalID: 8174945778993876198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_149
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2778
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe20a781e36af570800000000000000
+      internalID: 8501217066909445882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_150
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2778
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4503e4bdb083db80800000000000000
+      internalID: -8371205730079668916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_151
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2778
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f926c714a41f2910800000000000000
+      internalID: 1814691869859654136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_152
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 2778
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39513399c8ce7e80800000000000000
+      internalID: -8178879105174775489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_153
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2700
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504c2190ada20daa0800000000000000
+      internalID: -6138359176162524155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_154
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2700
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d86c2901cd5f400800000000000000
+      internalID: 357433709185895681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_155
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2700
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038ea483ce793ff0800000000000000
+      internalID: -55874142155668727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_156
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2700
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f3200d35b831490800000000000000
+      internalID: -7776718939450359906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_157
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 2700
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017391f20319b09e0800000000000000
+      internalID: -1654068801993885936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_158
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2700
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e31ee028351d960800000000000000
+      internalID: 7624967462175456905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_159
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2700
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac9ca21ac8224f20800000000000000
+      internalID: 3405329116607323308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_160
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2700
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56debed4ef237ec70800000000000000
+      internalID: 9000218448133614949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_161
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2700
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5333a74d70beed1e0800000000000000
+      internalID: -2171039551483923659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_162
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2622
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a984914fe49b08a0800000000000000
+      internalID: -6337808295275492953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_163
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2622
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a225a2cff33956160800000000000000
+      internalID: 7018177497349640746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_164
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2622
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee73606fd8e7d630800000000000000
+      internalID: 3951883244133383908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_165
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2622
+        width: 434
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa7f231a43476670800000000000000
+      internalID: 8531862004505213612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_166
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2622
+        width: 436
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740a10bae25217b10800000000000000
+      internalID: 1977402593760092231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_167
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2622
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927054796cf2debb0800000000000000
+      internalID: -4905211889148688599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_168
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2622
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134ea6efb8b841950800000000000000
+      internalID: 6418908802294932529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_169
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2622
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16091db2f8e58baa0800000000000000
+      internalID: -6145057722538553247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_170
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2622
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a2e603a2dada5e0800000000000000
+      internalID: -1896669471340352995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_171
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2542
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b921fc09d0867b4b0800000000000000
+      internalID: -5424752818671119717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_172
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2542
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c8774911d7ca4b0800000000000000
+      internalID: -5427825936429511521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_173
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2542
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82544b001443c8740800000000000000
+      internalID: 5155553127221708072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_174
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2542
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb44bb2568fea81e0800000000000000
+      internalID: -2194678508197034818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_175
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 2542
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0847bc46f9ce15630800000000000000
+      internalID: 3914169720496682112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_176
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2542
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62da25543d707410800000000000000
+      internalID: 1472814741870793325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_177
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2542
+        width: 436
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf88df13d59be5c0800000000000000
+      internalID: -4185086694705819683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_178
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 2542
+        width: 436
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e28989537b04090800000000000000
+      internalID: -8052234692917186920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_179
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 2542
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da8c058bd5a5d50800000000000000
+      internalID: 6726792039641951520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2464
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c34fd37ce1d340800000000000000
+      internalID: 4886947053084852379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_181
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2464
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a9891f3e8f571e0800000000000000
+      internalID: -2200579185006044528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_182
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2464
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f1250b29bdbeb0800000000000000
+      internalID: -4702398841484086284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_183
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2464
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab44978a6c41dbb80800000000000000
+      internalID: -8377516888376654662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_184
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2464
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d0864a1b8aae340800000000000000
+      internalID: 4893909426012425561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_185
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2464
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36301a01a881ddfe0800000000000000
+      internalID: -1162746147528178845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_186
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2464
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90f398cfb5e13910800000000000000
+      internalID: 1815484736673673375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_187
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2464
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fee83aa6c1fccc0800000000000000
+      internalID: -3688698325456982253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_188
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2464
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22559396a83e1bf0800000000000000
+      internalID: -351781432796556757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_189
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2388
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4d64d704e3ccb0800000000000000
+      internalID: -4844778051840684502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_190
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2388
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0ae648aded4980800000000000000
+      internalID: -8552918810306672039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_191
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2388
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880f0c8dc197ca750800000000000000
+      internalID: 6317557542096531592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_192
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2388
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cb7cd608d3b4d20800000000000000
+      internalID: 3263769976766970999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_193
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2388
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d96d85425b8e93d0800000000000000
+      internalID: -3197965499915998759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_194
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 2388
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86df3fd116dbe1330800000000000000
+      internalID: 3683589770047651176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_195
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2388
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8352d4096989580800000000000000
+      internalID: -8820134323691374429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_196
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2388
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26daa0c53cc59e150800000000000000
+      internalID: 5902350780778327394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_197
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 2388
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9426fe8bc7fd793d0800000000000000
+      internalID: -3199843283451813303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_198
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2310
+        width: 432
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885e321997564b2e0800000000000000
+      internalID: -2110950752529422968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_199
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2310
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aebd564aade9d7c0800000000000000
+      internalID: -4045941474634907996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_200
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2310
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcab911052eb25e0800000000000000
+      internalID: -1933202781504820045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_201
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2310
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113384ab124c15d50800000000000000
+      internalID: 6724371367779119889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_202
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2310
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271e9474501cde410800000000000000
+      internalID: 1508073678654005618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_203
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2310
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704af6e6119a80fd0800000000000000
+      internalID: -2375462911105588217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_204
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2310
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c10840a89d80f0800000000000000
+      internalID: -1113065718720379510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_205
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2310
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af32d4772a0b4a2a0800000000000000
+      internalID: -6727057731551943686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_206
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2310
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203729e7f784bb500800000000000000
+      internalID: 413003503256105730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_207
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2232
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f9ec967a3fcb8c0800000000000000
+      internalID: -3982040070142124236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_208
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2232
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda844e048817bdc0800000000000000
+      internalID: -3623400419742151972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_209
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2232
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642920adc6fcb7e0800000000000000
+      internalID: -1748251192310815642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_210
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2232
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54799951540d73450800000000000000
+      internalID: 6068548018038740805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_211
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2232
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b1c5a65a733fd0800000000000000
+      internalID: -2363410866872666148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_212
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 2232
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce506bc008a2c20800000000000000
+      internalID: 3182496878772481272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_213
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2232
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0b676f45e55dcd0800000000000000
+      internalID: -2534015496320798499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_214
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2232
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e1c324064ad7b30800000000000000
+      internalID: 4286763153661632123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_215
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 2232
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e49aaacda12c00800000000000000
+      internalID: 874170888643470037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_216
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2154
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed11320dee49ad00800000000000000
+      internalID: 984404773408153062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_217
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2154
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a5fbcb4179c34a0800000000000000
+      internalID: -6612244037564933584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_218
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2154
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af912876b9fc92420800000000000000
+      internalID: 2605842125774002682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_219
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2154
+        width: 442
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d909df37261870800000000000000
+      internalID: 8653146889216711140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_220
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 2154
+        width: 442
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaf3fcb23475f3e0800000000000000
+      internalID: -2020581096538506584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_221
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 2154
+        width: 442
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ed5ae9b4fd49600800000000000000
+      internalID: 474249376657956352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_222
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 2154
+        width: 442
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb21a77bbb2e330800000000000000
+      internalID: 3738757037372390817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_223
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2154
+        width: 442
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e76b9b2e0b0af0800000000000000
+      internalID: -429233759030089387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_224
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 2154
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa1a08465ffc2c40800000000000000
+      internalID: 5489042791898684064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_225
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2076
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a59930e80a43fbf0800000000000000
+      internalID: -291808148866886236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_226
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2076
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db3ea4620a853000800000000000000
+      internalID: 15069916649372626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_227
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2076
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfe1fceca6757a30800000000000000
+      internalID: 4212403511556698073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_228
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2076
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05613edcec83b25b0800000000000000
+      internalID: -5392153667977406896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_229
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2076
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8438cf727bbb87350800000000000000
+      internalID: 6014763697677566792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_230
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2076
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53c4727cdbcc350800000000000000
+      internalID: 6038409863452439971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_231
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2076
+        width: 436
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c58d2d4e11aed60800000000000000
+      internalID: 7920162569172048908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reintentar_pressed_232
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2076
+        width: 434
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f58086543e5ce0800000000000000
+      internalID: -1414635686819663849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

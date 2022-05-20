@@ -1,0 +1,6426 @@
+fileFormatVersion: 2
+guid: 41f684d571a6b584e8240b5290c3b319
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -827089718856402448
+    second: novaPartida_0
+  - first:
+      213: -2984618582961135392
+    second: novaPartida_1
+  - first:
+      213: 4200746792444300228
+    second: novaPartida_2
+  - first:
+      213: 5677429596994591988
+    second: novaPartida_3
+  - first:
+      213: -6469092454345086639
+    second: novaPartida_4
+  - first:
+      213: -4802450307377324155
+    second: novaPartida_5
+  - first:
+      213: 6000271936550835939
+    second: novaPartida_6
+  - first:
+      213: 5719954413103538146
+    second: novaPartida_7
+  - first:
+      213: 2641396089548657875
+    second: novaPartida_8
+  - first:
+      213: -3032029557445566351
+    second: novaPartida_9
+  - first:
+      213: -7457252095401102421
+    second: novaPartida_10
+  - first:
+      213: 5320348195646325912
+    second: novaPartida_11
+  - first:
+      213: 1001464230962693090
+    second: novaPartida_12
+  - first:
+      213: 6468367752206344978
+    second: novaPartida_13
+  - first:
+      213: 4665476894148636910
+    second: novaPartida_14
+  - first:
+      213: -167920150849016678
+    second: novaPartida_15
+  - first:
+      213: -7680450464665818388
+    second: novaPartida_16
+  - first:
+      213: 5162517121174131510
+    second: novaPartida_17
+  - first:
+      213: 3334758355827522545
+    second: novaPartida_18
+  - first:
+      213: -8123006282078418861
+    second: novaPartida_19
+  - first:
+      213: 759606874404103276
+    second: novaPartida_20
+  - first:
+      213: -4777876016049039212
+    second: novaPartida_21
+  - first:
+      213: -6485606599818003583
+    second: novaPartida_22
+  - first:
+      213: -8102629441793815431
+    second: novaPartida_23
+  - first:
+      213: 1703607337484039330
+    second: novaPartida_24
+  - first:
+      213: -4632254364029761497
+    second: novaPartida_25
+  - first:
+      213: -2560842793865597296
+    second: novaPartida_26
+  - first:
+      213: -6305599909702150635
+    second: novaPartida_27
+  - first:
+      213: 7288005439265614028
+    second: novaPartida_28
+  - first:
+      213: -1060979139519395446
+    second: novaPartida_29
+  - first:
+      213: -3003868286062726536
+    second: novaPartida_30
+  - first:
+      213: -7862414827249626666
+    second: novaPartida_31
+  - first:
+      213: -6642206362527169357
+    second: novaPartida_32
+  - first:
+      213: 997132849197692839
+    second: novaPartida_33
+  - first:
+      213: -1756292428786576472
+    second: novaPartida_34
+  - first:
+      213: 945304819384699764
+    second: novaPartida_35
+  - first:
+      213: -367897305339435370
+    second: novaPartida_36
+  - first:
+      213: -7048927772256771196
+    second: novaPartida_37
+  - first:
+      213: -3362949752062196611
+    second: novaPartida_38
+  - first:
+      213: -1657164439212492296
+    second: novaPartida_39
+  - first:
+      213: -8712038148178108002
+    second: novaPartida_40
+  - first:
+      213: -2846975227472801340
+    second: novaPartida_41
+  - first:
+      213: 1153758305131359972
+    second: novaPartida_42
+  - first:
+      213: -3947122782410736
+    second: novaPartida_43
+  - first:
+      213: 7909073275963463254
+    second: novaPartida_44
+  - first:
+      213: 6871218922479633901
+    second: novaPartida_45
+  - first:
+      213: 3430433652668436809
+    second: novaPartida_46
+  - first:
+      213: 8722260216181867958
+    second: novaPartida_47
+  - first:
+      213: 9129157023365120881
+    second: novaPartida_48
+  - first:
+      213: -4294639309767393008
+    second: novaPartida_49
+  - first:
+      213: -2563209720146569948
+    second: novaPartida_50
+  - first:
+      213: 8929516509866843791
+    second: novaPartida_51
+  - first:
+      213: -5344047102470491490
+    second: novaPartida_52
+  - first:
+      213: -7138910595811381874
+    second: novaPartida_53
+  - first:
+      213: -5028681904784431890
+    second: novaPartida_54
+  - first:
+      213: -5622831607104390780
+    second: novaPartida_55
+  - first:
+      213: -8541354997246378754
+    second: novaPartida_56
+  - first:
+      213: -464774814369061019
+    second: novaPartida_57
+  - first:
+      213: -2507319698954744154
+    second: novaPartida_58
+  - first:
+      213: -127801150941411037
+    second: novaPartida_59
+  - first:
+      213: -6325240527029867325
+    second: novaPartida_60
+  - first:
+      213: -5079796390129980255
+    second: novaPartida_61
+  - first:
+      213: 4588904595196778204
+    second: novaPartida_62
+  - first:
+      213: 6719313978067263310
+    second: novaPartida_63
+  - first:
+      213: 8361018362264287470
+    second: novaPartida_64
+  - first:
+      213: 6847903658161229227
+    second: novaPartida_65
+  - first:
+      213: -7369599232027669083
+    second: novaPartida_66
+  - first:
+      213: -5552179130862627626
+    second: novaPartida_67
+  - first:
+      213: -6182903444238806752
+    second: novaPartida_68
+  - first:
+      213: -4017031137364276118
+    second: novaPartida_69
+  - first:
+      213: 7151175624446082376
+    second: novaPartida_70
+  - first:
+      213: 7860673240800895060
+    second: novaPartida_71
+  - first:
+      213: -6481644082189680775
+    second: novaPartida_72
+  - first:
+      213: 1356562215187096348
+    second: novaPartida_73
+  - first:
+      213: -6333993421892068818
+    second: novaPartida_74
+  - first:
+      213: -543852318389453215
+    second: novaPartida_75
+  - first:
+      213: -470881240746755303
+    second: novaPartida_76
+  - first:
+      213: -7277347545875579689
+    second: novaPartida_77
+  - first:
+      213: 7365048405555766681
+    second: novaPartida_78
+  - first:
+      213: 8588317826788616345
+    second: novaPartida_79
+  - first:
+      213: -6722305459189328131
+    second: novaPartida_80
+  - first:
+      213: 4299673722613026135
+    second: novaPartida_81
+  - first:
+      213: 5647387340189658623
+    second: novaPartida_82
+  - first:
+      213: -378270998386353789
+    second: novaPartida_83
+  - first:
+      213: -3616439765104564057
+    second: novaPartida_84
+  - first:
+      213: 3445427793241096371
+    second: novaPartida_85
+  - first:
+      213: 5962771386976853829
+    second: novaPartida_86
+  - first:
+      213: 453823677044363001
+    second: novaPartida_87
+  - first:
+      213: -4039982272656866619
+    second: novaPartida_88
+  - first:
+      213: -8102848686577938214
+    second: novaPartida_89
+  - first:
+      213: 2950270724837261457
+    second: novaPartida_90
+  - first:
+      213: 1334628828608847705
+    second: novaPartida_91
+  - first:
+      213: 1840889998628101294
+    second: novaPartida_92
+  - first:
+      213: 6644057847743364955
+    second: novaPartida_93
+  - first:
+      213: 7024472490226436444
+    second: novaPartida_94
+  - first:
+      213: -3115556520963139534
+    second: novaPartida_95
+  - first:
+      213: -1826073918071967682
+    second: novaPartida_96
+  - first:
+      213: 3610761053061533064
+    second: novaPartida_97
+  - first:
+      213: -3264569707352624604
+    second: novaPartida_98
+  - first:
+      213: 2436096314009650025
+    second: novaPartida_99
+  - first:
+      213: -2659413278637343412
+    second: novaPartida_100
+  - first:
+      213: -3635896922004904309
+    second: novaPartida_101
+  - first:
+      213: 1610867705849581986
+    second: novaPartida_102
+  - first:
+      213: 6526737196245573501
+    second: novaPartida_103
+  - first:
+      213: 5643791909938416819
+    second: novaPartida_104
+  - first:
+      213: 4736214185450468876
+    second: novaPartida_105
+  - first:
+      213: 4106421786758980121
+    second: novaPartida_106
+  - first:
+      213: -7965507993042705014
+    second: novaPartida_107
+  - first:
+      213: 3651928122861618869
+    second: novaPartida_108
+  - first:
+      213: 4737572252976970487
+    second: novaPartida_109
+  - first:
+      213: 4069947454494526488
+    second: novaPartida_110
+  - first:
+      213: 3109670621175378698
+    second: novaPartida_111
+  - first:
+      213: -5633874638391939930
+    second: novaPartida_112
+  - first:
+      213: -8943071825184323439
+    second: novaPartida_113
+  - first:
+      213: 3778635899051792254
+    second: novaPartida_114
+  - first:
+      213: 1330133550924693036
+    second: novaPartida_115
+  - first:
+      213: -1315594131067777035
+    second: novaPartida_116
+  - first:
+      213: 4216237963012173575
+    second: novaPartida_117
+  - first:
+      213: -5259298478019157318
+    second: novaPartida_118
+  - first:
+      213: -4467280003738152506
+    second: novaPartida_119
+  - first:
+      213: 447213245723368326
+    second: novaPartida_120
+  - first:
+      213: 957376515195669766
+    second: novaPartida_121
+  - first:
+      213: -5697494215852046641
+    second: novaPartida_122
+  - first:
+      213: -1397716977316155629
+    second: novaPartida_123
+  - first:
+      213: -1607444366571261544
+    second: novaPartida_124
+  - first:
+      213: 2347276490385801121
+    second: novaPartida_125
+  - first:
+      213: -5736749068062323909
+    second: novaPartida_126
+  - first:
+      213: -680469760059096668
+    second: novaPartida_127
+  - first:
+      213: 2504501839602149711
+    second: novaPartida_128
+  - first:
+      213: 8591090536676194607
+    second: novaPartida_129
+  - first:
+      213: 7315169860980779365
+    second: novaPartida_130
+  - first:
+      213: -5418291028893877456
+    second: novaPartida_131
+  - first:
+      213: -6449077503838466967
+    second: novaPartida_132
+  - first:
+      213: 1639538010005342331
+    second: novaPartida_133
+  - first:
+      213: 2255716415703544296
+    second: novaPartida_134
+  - first:
+      213: -393578859999195235
+    second: novaPartida_135
+  - first:
+      213: -8727723810049482874
+    second: novaPartida_136
+  - first:
+      213: 3544446965282767392
+    second: novaPartida_137
+  - first:
+      213: -2909953694049935608
+    second: novaPartida_138
+  - first:
+      213: -5082314392831839566
+    second: novaPartida_139
+  - first:
+      213: -4392625871048687274
+    second: novaPartida_140
+  - first:
+      213: 8488638405903219505
+    second: novaPartida_141
+  - first:
+      213: -9206794139086821340
+    second: novaPartida_142
+  - first:
+      213: -871231104060215136
+    second: novaPartida_143
+  - first:
+      213: 1900774306778280009
+    second: novaPartida_144
+  - first:
+      213: -286992877970372081
+    second: novaPartida_145
+  - first:
+      213: -8712802159567586933
+    second: novaPartida_146
+  - first:
+      213: -2448909201971540890
+    second: novaPartida_147
+  - first:
+      213: 7011091854001304671
+    second: novaPartida_148
+  - first:
+      213: 547210450068428070
+    second: novaPartida_149
+  - first:
+      213: 7594098568025683974
+    second: novaPartida_150
+  - first:
+      213: -9050219997860332896
+    second: novaPartida_151
+  - first:
+      213: 1894308492734657474
+    second: novaPartida_152
+  - first:
+      213: -6781478080874243784
+    second: novaPartida_153
+  - first:
+      213: -196411074767884920
+    second: novaPartida_154
+  - first:
+      213: 932785749503965028
+    second: novaPartida_155
+  - first:
+      213: 2011619754975736398
+    second: novaPartida_156
+  - first:
+      213: 8512090893027347628
+    second: novaPartida_157
+  - first:
+      213: 9036335506430760860
+    second: novaPartida_158
+  - first:
+      213: -7191414197849373502
+    second: novaPartida_159
+  - first:
+      213: 5950903622732408797
+    second: novaPartida_160
+  - first:
+      213: 8342165983120754158
+    second: novaPartida_161
+  - first:
+      213: -1264495700820545107
+    second: novaPartida_162
+  - first:
+      213: -8826235245940017222
+    second: novaPartida_163
+  - first:
+      213: 7098042089543618545
+    second: novaPartida_164
+  - first:
+      213: 1489353748843722550
+    second: novaPartida_165
+  - first:
+      213: 2551955580496432180
+    second: novaPartida_166
+  - first:
+      213: -8771922545880602696
+    second: novaPartida_167
+  - first:
+      213: -991664404727266409
+    second: novaPartida_168
+  - first:
+      213: 8911560364019118925
+    second: novaPartida_169
+  - first:
+      213: 951542016295835790
+    second: novaPartida_170
+  - first:
+      213: 7545404867997168882
+    second: novaPartida_171
+  - first:
+      213: -7778658774373119448
+    second: novaPartida_172
+  - first:
+      213: 3870937605210839823
+    second: novaPartida_173
+  - first:
+      213: -4275229726522216198
+    second: novaPartida_174
+  - first:
+      213: 1197901054093300831
+    second: novaPartida_175
+  - first:
+      213: -2282786648632812652
+    second: novaPartida_176
+  - first:
+      213: -8496181961720291147
+    second: novaPartida_177
+  - first:
+      213: 883236035822178013
+    second: novaPartida_178
+  - first:
+      213: 7944541389307799908
+    second: novaPartida_179
+  - first:
+      213: -9102860485240035962
+    second: novaPartida_180
+  - first:
+      213: 6232608699112438787
+    second: novaPartida_181
+  - first:
+      213: 5247955923198204809
+    second: novaPartida_182
+  - first:
+      213: -1090700163901415987
+    second: novaPartida_183
+  - first:
+      213: -4738893700868091586
+    second: novaPartida_184
+  - first:
+      213: -2872449744771441159
+    second: novaPartida_185
+  - first:
+      213: 697049499638231481
+    second: novaPartida_186
+  - first:
+      213: 399162731443607760
+    second: novaPartida_187
+  - first:
+      213: 8308991385867183579
+    second: novaPartida_188
+  - first:
+      213: -629841106230457916
+    second: novaPartida_189
+  - first:
+      213: 427521865295542006
+    second: novaPartida_190
+  - first:
+      213: 6378329840708358579
+    second: novaPartida_191
+  - first:
+      213: 7735387745270798762
+    second: novaPartida_192
+  - first:
+      213: -7540159698422792917
+    second: novaPartida_193
+  - first:
+      213: 7949897635686803564
+    second: novaPartida_194
+  - first:
+      213: -2247406623766448299
+    second: novaPartida_195
+  - first:
+      213: 9061014603486836809
+    second: novaPartida_196
+  - first:
+      213: 5192339473775071816
+    second: novaPartida_197
+  - first:
+      213: -2170899903701440205
+    second: novaPartida_198
+  - first:
+      213: 7825418707480075867
+    second: novaPartida_199
+  - first:
+      213: 3181556585886686070
+    second: novaPartida_200
+  - first:
+      213: 8782906355283807962
+    second: novaPartida_201
+  - first:
+      213: 4847103102398698282
+    second: novaPartida_202
+  - first:
+      213: 2582900449463034294
+    second: novaPartida_203
+  - first:
+      213: -6035721337268555842
+    second: novaPartida_204
+  - first:
+      213: 7684269881365309375
+    second: novaPartida_205
+  - first:
+      213: 3000086131584673114
+    second: novaPartida_206
+  - first:
+      213: -8650985508623344439
+    second: novaPartida_207
+  - first:
+      213: -271763647531816457
+    second: novaPartida_208
+  - first:
+      213: -5874793513709564934
+    second: novaPartida_209
+  - first:
+      213: -7933902117637512942
+    second: novaPartida_210
+  - first:
+      213: -4469869982853787814
+    second: novaPartida_211
+  - first:
+      213: -7137306126426669661
+    second: novaPartida_212
+  - first:
+      213: -1138909951389083018
+    second: novaPartida_213
+  - first:
+      213: -2685898794580705901
+    second: novaPartida_214
+  - first:
+      213: 181522489932813726
+    second: novaPartida_215
+  - first:
+      213: 3666652243657679908
+    second: novaPartida_216
+  - first:
+      213: 3969298871712020990
+    second: novaPartida_217
+  - first:
+      213: -3354261334796708268
+    second: novaPartida_218
+  - first:
+      213: -5313279490524102809
+    second: novaPartida_219
+  - first:
+      213: 3765030386127856991
+    second: novaPartida_220
+  - first:
+      213: -2509019381081438221
+    second: novaPartida_221
+  - first:
+      213: 1769335060742198040
+    second: novaPartida_222
+  - first:
+      213: -4605510766180500323
+    second: novaPartida_223
+  - first:
+      213: 8275019470085200221
+    second: novaPartida_224
+  - first:
+      213: -5439087458326778026
+    second: novaPartida_225
+  - first:
+      213: -4472601067735135937
+    second: novaPartida_226
+  - first:
+      213: -3100614526074919891
+    second: novaPartida_227
+  - first:
+      213: 8460513437947173980
+    second: novaPartida_228
+  - first:
+      213: -6855079035814603946
+    second: novaPartida_229
+  - first:
+      213: -5286344120261556831
+    second: novaPartida_230
+  - first:
+      213: -8768464296124217229
+    second: novaPartida_231
+  - first:
+      213: -8540258566373807160
+    second: novaPartida_232
+  - first:
+      213: 214931875273654313
+    second: novaPartida_233
+  - first:
+      213: -5402201416376127100
+    second: novaPartida000
+  - first:
+      213: 2836848991590017121
+    second: novaPartida001
+  - first:
+      213: -1801210303374918301
+    second: novaPartida002
+  - first:
+      213: 420498234195414694
+    second: novaPartida003
+  - first:
+      213: -7840889016970272278
+    second: novaPartida004
+  - first:
+      213: 2866916098939316178
+    second: novaPartida005
+  - first:
+      213: -972939777960151653
+    second: novaPartida006
+  - first:
+      213: -7972847677595839152
+    second: novaPartida007
+  - first:
+      213: -8279208064268427395
+    second: novaPartida008
+  - first:
+      213: 146069117323522330
+    second: novaPartida009
+  - first:
+      213: -745082485123159271
+    second: novaPartida010
+  - first:
+      213: 3864507304173124917
+    second: novaPartida011
+  - first:
+      213: 6990933996648643538
+    second: novaPartida012
+  - first:
+      213: 982215501693638635
+    second: novaPartida013
+  - first:
+      213: 6867863156799006441
+    second: novaPartida014
+  - first:
+      213: 1027667471450199049
+    second: novaPartida015
+  - first:
+      213: 7756256254490438122
+    second: novaPartida016
+  - first:
+      213: 9008793194864616273
+    second: novaPartida017
+  - first:
+      213: 5303066610676455809
+    second: novaPartida018
+  - first:
+      213: -8330449765878306758
+    second: novaPartida019
+  - first:
+      213: 6853012529590959742
+    second: novaPartida020
+  - first:
+      213: 5352395348282907736
+    second: novaPartida021
+  - first:
+      213: -9204496695287235458
+    second: novaPartida022
+  - first:
+      213: -3056939984274314156
+    second: novaPartida023
+  - first:
+      213: -1424082675636629093
+    second: novaPartida024
+  - first:
+      213: -2475208258780920887
+    second: novaPartida025
+  - first:
+      213: 6282430645819487329
+    second: novaPartida026
+  - first:
+      213: 4262463466317619610
+    second: novaPartida027
+  - first:
+      213: -6550495328151401902
+    second: novaPartida028
+  - first:
+      213: 5774423666529760662
+    second: novaPartida029
+  - first:
+      213: -6558583240925836738
+    second: novaPartida030
+  - first:
+      213: 2466939850580622088
+    second: novaPartida031
+  - first:
+      213: 2568057480220036743
+    second: novaPartida032
+  - first:
+      213: -8863982862722334500
+    second: novaPartida033
+  - first:
+      213: 371267564178197097
+    second: novaPartida034
+  - first:
+      213: 4657960997086748506
+    second: novaPartida035
+  - first:
+      213: -5720867229174672956
+    second: novaPartida036
+  - first:
+      213: 4569137363556897196
+    second: novaPartida037
+  - first:
+      213: -3015943539925416620
+    second: novaPartida038
+  - first:
+      213: 6369019652386544282
+    second: novaPartida039
+  - first:
+      213: 1034380950593154691
+    second: novaPartida040
+  - first:
+      213: -2052756161780356203
+    second: novaPartida041
+  - first:
+      213: -4755561527980327654
+    second: novaPartida042
+  - first:
+      213: -6443454851541352511
+    second: novaPartida043
+  - first:
+      213: 5672705607163866533
+    second: novaPartida044
+  - first:
+      213: -4592961791931561685
+    second: novaPartida045
+  - first:
+      213: -3073415660516720344
+    second: novaPartida046
+  - first:
+      213: 712413955869178669
+    second: novaPartida047
+  - first:
+      213: -7748970064704277659
+    second: novaPartida048
+  - first:
+      213: -103721877998477146
+    second: novaPartida049
+  - first:
+      213: 6009772504639792199
+    second: novaPartida050
+  - first:
+      213: -1820257205718841310
+    second: novaPartida051
+  - first:
+      213: -7628405604123103042
+    second: novaPartida052
+  - first:
+      213: -1005191313237932917
+    second: novaPartida053
+  - first:
+      213: 8043310438998994192
+    second: novaPartida054
+  - first:
+      213: 7795361904638254067
+    second: novaPartida055
+  - first:
+      213: 3684966040141860525
+    second: novaPartida056
+  - first:
+      213: -348472276690711902
+    second: novaPartida057
+  - first:
+      213: -7689833453952908095
+    second: novaPartida058
+  - first:
+      213: 6087097686125694921
+    second: novaPartida059
+  - first:
+      213: 1914613474624480771
+    second: novaPartida060
+  - first:
+      213: 1874495898427237155
+    second: novaPartida061
+  - first:
+      213: -6235565763185128113
+    second: novaPartida062
+  - first:
+      213: 49672225853003549
+    second: novaPartida063
+  - first:
+      213: -972959906728149235
+    second: novaPartida064
+  - first:
+      213: 723620801560207913
+    second: novaPartida065
+  - first:
+      213: -7914518735339320131
+    second: novaPartida066
+  - first:
+      213: -6766190202541381848
+    second: novaPartida067
+  - first:
+      213: 2446280940054382780
+    second: novaPartida068
+  - first:
+      213: -1594448078839885661
+    second: novaPartida069
+  - first:
+      213: -4193021591132969536
+    second: novaPartida070
+  - first:
+      213: -7808782546237158771
+    second: novaPartida071
+  - first:
+      213: -7170851233285430109
+    second: novaPartida072
+  - first:
+      213: 5524552339138169860
+    second: novaPartida073
+  - first:
+      213: -2108924332739655862
+    second: novaPartida074
+  - first:
+      213: 5331237876803086123
+    second: novaPartida075
+  - first:
+      213: 4920840997881475639
+    second: novaPartida076
+  - first:
+      213: -3478513874447715934
+    second: novaPartida077
+  - first:
+      213: -7246662822864298073
+    second: novaPartida078
+  - first:
+      213: -4834702616687494557
+    second: novaPartida079
+  - first:
+      213: -2189859143704863302
+    second: novaPartida080
+  - first:
+      213: 1238732795314907278
+    second: novaPartida081
+  - first:
+      213: 6462923974505185037
+    second: novaPartida082
+  - first:
+      213: 5216438899699138305
+    second: novaPartida083
+  - first:
+      213: 6092051483805228481
+    second: novaPartida084
+  - first:
+      213: -3983600313211371284
+    second: novaPartida085
+  - first:
+      213: -8289577335067121648
+    second: novaPartida086
+  - first:
+      213: -6410881134525215257
+    second: novaPartida087
+  - first:
+      213: -1077538773200004838
+    second: novaPartida088
+  - first:
+      213: -6426069344198249319
+    second: novaPartida089
+  - first:
+      213: -3031849295074574831
+    second: novaPartida090
+  - first:
+      213: 8882055833690281729
+    second: novaPartida091
+  - first:
+      213: -7568153215541041374
+    second: novaPartida092
+  - first:
+      213: -4546275704690916356
+    second: novaPartida093
+  - first:
+      213: 3335571838046988407
+    second: novaPartida094
+  - first:
+      213: -4916669331247578062
+    second: novaPartida095
+  - first:
+      213: -5975201133859614003
+    second: novaPartida096
+  - first:
+      213: 5620956677371356412
+    second: novaPartida097
+  - first:
+      213: -4027109554726952078
+    second: novaPartida098
+  - first:
+      213: 5598162233270912793
+    second: novaPartida099
+  - first:
+      213: 7691132829567270081
+    second: novaPartida100
+  - first:
+      213: 8864003137851024192
+    second: novaPartida101
+  - first:
+      213: 1864199239896302281
+    second: novaPartida102
+  - first:
+      213: -8924673342294419158
+    second: novaPartida103
+  - first:
+      213: 4948356137986151087
+    second: novaPartida104
+  - first:
+      213: -4805648690507982768
+    second: novaPartida105
+  - first:
+      213: 5853479067548118487
+    second: novaPartida106
+  - first:
+      213: 29636385827223375
+    second: novaPartida107
+  - first:
+      213: 3239642636910880135
+    second: novaPartida108
+  - first:
+      213: -6578556881343583877
+    second: novaPartida109
+  - first:
+      213: 4852821238953139586
+    second: novaPartida110
+  - first:
+      213: -2984287233302437801
+    second: novaPartida111
+  - first:
+      213: 3758764633029236668
+    second: novaPartida112
+  - first:
+      213: 284318926649403397
+    second: novaPartida113
+  - first:
+      213: -2001175036813820556
+    second: novaPartida114
+  - first:
+      213: -2729503255389021999
+    second: novaPartida115
+  - first:
+      213: 9048093680525610039
+    second: novaPartida116
+  - first:
+      213: 1641738557690807452
+    second: novaPartida117
+  - first:
+      213: 7151567725558957551
+    second: novaPartida118
+  - first:
+      213: 5822615185318288141
+    second: novaPartida119
+  - first:
+      213: -8639738324445321678
+    second: novaPartida120
+  - first:
+      213: 5011834802935868725
+    second: novaPartida121
+  - first:
+      213: -5452897588286290218
+    second: novaPartida122
+  - first:
+      213: -503101366994509550
+    second: novaPartida123
+  - first:
+      213: -106036796164194275
+    second: novaPartida124
+  - first:
+      213: -1252825915995528127
+    second: novaPartida125
+  - first:
+      213: 6572898458391505100
+    second: novaPartida126
+  - first:
+      213: 2211569977200496586
+    second: novaPartida127
+  - first:
+      213: 5448786315053595152
+    second: novaPartida128
+  - first:
+      213: -8718455431437794858
+    second: novaPartida129
+  - first:
+      213: -4111981205401532644
+    second: novaPartida130
+  - first:
+      213: 3391418831615618179
+    second: novaPartida131
+  - first:
+      213: 6282689161487199344
+    second: novaPartida132
+  - first:
+      213: 4554572687322697656
+    second: novaPartida133
+  - first:
+      213: -2921245285015587668
+    second: novaPartida134
+  - first:
+      213: 6680117832188159335
+    second: novaPartida135
+  - first:
+      213: 6985993537312123871
+    second: novaPartida136
+  - first:
+      213: 9046220777836788041
+    second: novaPartida137
+  - first:
+      213: -6088890956117699145
+    second: novaPartida138
+  - first:
+      213: 331523233362194841
+    second: novaPartida139
+  - first:
+      213: 8435389128381733540
+    second: novaPartida140
+  - first:
+      213: -4204990837925106308
+    second: novaPartida141
+  - first:
+      213: 1520039953988168435
+    second: novaPartida142
+  - first:
+      213: -6813031239637211685
+    second: novaPartida143
+  - first:
+      213: -2452873626445139758
+    second: novaPartida144
+  - first:
+      213: 1418114522663467354
+    second: novaPartida145
+  - first:
+      213: 9074382927246341009
+    second: novaPartida146
+  - first:
+      213: 201555690015439775
+    second: novaPartida147
+  - first:
+      213: 5842526820304854
+    second: novaPartida148
+  - first:
+      213: 2530477742480500608
+    second: novaPartida149
+  - first:
+      213: 9172624099079917547
+    second: novaPartida150
+  - first:
+      213: 9005696484558286983
+    second: novaPartida151
+  - first:
+      213: -9216671151825992026
+    second: novaPartida152
+  - first:
+      213: -8812950163402811245
+    second: novaPartida153
+  - first:
+      213: 2904003078983727425
+    second: novaPartida154
+  - first:
+      213: -1976567728961900032
+    second: novaPartida155
+  - first:
+      213: -5827375538185741501
+    second: novaPartida156
+  - first:
+      213: -3971217678580245231
+    second: novaPartida157
+  - first:
+      213: -1574318680980986324
+    second: novaPartida158
+  - first:
+      213: -4708065434218170746
+    second: novaPartida159
+  - first:
+      213: -3001855012509197165
+    second: novaPartida160
+  - first:
+      213: -3680334950821397408
+    second: novaPartida161
+  - first:
+      213: -4649096295714854438
+    second: novaPartida162
+  - first:
+      213: 1938409796805280660
+    second: novaPartida163
+  - first:
+      213: -6036621506955280702
+    second: novaPartida164
+  - first:
+      213: -6603577062709557627
+    second: novaPartida165
+  - first:
+      213: 3897712577240345977
+    second: novaPartida166
+  - first:
+      213: 2752752487668609740
+    second: novaPartida167
+  - first:
+      213: 8961070316251244277
+    second: novaPartida168
+  - first:
+      213: 3935678807369979417
+    second: novaPartida169
+  - first:
+      213: 891075649819345100
+    second: novaPartida170
+  - first:
+      213: -6874759315022374297
+    second: novaPartida171
+  - first:
+      213: 963063605730913654
+    second: novaPartida172
+  - first:
+      213: -8126722499592592019
+    second: novaPartida173
+  - first:
+      213: 1984523475371267403
+    second: novaPartida174
+  - first:
+      213: 2700488242509595820
+    second: novaPartida175
+  - first:
+      213: 762856388583655863
+    second: novaPartida176
+  - first:
+      213: 3158226770382551600
+    second: novaPartida177
+  - first:
+      213: 5744260340984238116
+    second: novaPartida178
+  - first:
+      213: 4645196132466358313
+    second: novaPartida179
+  - first:
+      213: 3322882415599942020
+    second: novaPartida180
+  - first:
+      213: -4929688758490416393
+    second: novaPartida181
+  - first:
+      213: 2132610320352324275
+    second: novaPartida182
+  - first:
+      213: -5130830252921655693
+    second: novaPartida183
+  - first:
+      213: -2226248576808694585
+    second: novaPartida184
+  - first:
+      213: -8701246898897680892
+    second: novaPartida185
+  - first:
+      213: -8014156768883662714
+    second: novaPartida186
+  - first:
+      213: -7693052138414854950
+    second: novaPartida187
+  - first:
+      213: 4912992712404899451
+    second: novaPartida188
+  - first:
+      213: -7251369453291904330
+    second: novaPartida189
+  - first:
+      213: -8057821979499572683
+    second: novaPartida190
+  - first:
+      213: -7406001107549566482
+    second: novaPartida191
+  - first:
+      213: 2498161684036251481
+    second: novaPartida192
+  - first:
+      213: 4171942920126325590
+    second: novaPartida193
+  - first:
+      213: 6647507222953907364
+    second: novaPartida194
+  - first:
+      213: -1890668507193476036
+    second: novaPartida195
+  - first:
+      213: 2269638829956154690
+    second: novaPartida196
+  - first:
+      213: 2718117247743783475
+    second: novaPartida197
+  - first:
+      213: -1899033640113321234
+    second: novaPartida198
+  - first:
+      213: -5682040269195346407
+    second: novaPartida199
+  - first:
+      213: 7614449167120100332
+    second: novaPartida200
+  - first:
+      213: 7596620617355571035
+    second: novaPartida201
+  - first:
+      213: 1542902731578829198
+    second: novaPartida202
+  - first:
+      213: 897686047887810046
+    second: novaPartida203
+  - first:
+      213: 7533599227248935006
+    second: novaPartida204
+  - first:
+      213: -3457174911085354260
+    second: novaPartida205
+  - first:
+      213: 7289542672439743439
+    second: novaPartida206
+  - first:
+      213: -1695502075501322131
+    second: novaPartida207
+  - first:
+      213: -8273204028795884686
+    second: novaPartida208
+  - first:
+      213: -4286760014229831715
+    second: novaPartida209
+  - first:
+      213: 4319848246398444141
+    second: novaPartida210
+  - first:
+      213: -5593119003823063589
+    second: novaPartida211
+  - first:
+      213: -1423818572643236244
+    second: novaPartida212
+  - first:
+      213: 5055571152981719119
+    second: novaPartida213
+  - first:
+      213: -3461096781476199395
+    second: novaPartida214
+  - first:
+      213: 1512697988031794077
+    second: novaPartida215
+  - first:
+      213: -4486430638431628706
+    second: novaPartida216
+  - first:
+      213: 6259077162365900996
+    second: novaPartida217
+  - first:
+      213: -519367356526303656
+    second: novaPartida218
+  - first:
+      213: 2120869989682135120
+    second: novaPartida219
+  - first:
+      213: 3318281188023510768
+    second: novaPartida220
+  - first:
+      213: -5329695341026580298
+    second: novaPartida221
+  - first:
+      213: 5149678603906426148
+    second: novaPartida222
+  - first:
+      213: 7056829856918449307
+    second: novaPartida223
+  - first:
+      213: 5363818713079057
+    second: novaPartida224
+  - first:
+      213: 5135294886198976510
+    second: novaPartida225
+  - first:
+      213: 2459044624177990563
+    second: novaPartida226
+  - first:
+      213: 6109809284706412455
+    second: novaPartida227
+  - first:
+      213: 3090294611058172993
+    second: novaPartida228
+  - first:
+      213: 8833668284225489554
+    second: novaPartida229
+  - first:
+      213: 5781717256048035239
+    second: novaPartida230
+  - first:
+      213: -530174137351405078
+    second: novaPartida231
+  - first:
+      213: 7010294357579034220
+    second: novaPartida232
+  - first:
+      213: -8505034665259705256
+    second: novaPartida233
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: novaPartida000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4026
+        width: 422
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f9c31f668705b0800000000000000
+      internalID: -5402201416376127100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida001
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 4026
+        width: 422
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168e529a0238e5720800000000000000
+      internalID: 2836848991590017121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida002
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4026
+        width: 422
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d7095b5c0d007e0800000000000000
+      internalID: -1801210303374918301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida003
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 4024
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae85e58ae8e5d500800000000000000
+      internalID: 420498234195414694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida004
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 4024
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1a93c5bf09f2390800000000000000
+      internalID: -7840889016970272278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida005
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 4024
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7602e900559c720800000000000000
+      internalID: 2866916098939316178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida006
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 4024
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9576d24d6c6f72f0800000000000000
+      internalID: -972939777960151653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida007
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 4024
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0551a987741ca5190800000000000000
+      internalID: -7972847677595839152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida008
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 4024
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f1bb371285a1d80800000000000000
+      internalID: -8279208064268427395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida009
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3948
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1139ba9611f60200800000000000000
+      internalID: 146069117323522330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida010
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3948
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6ed96d6fe8a5f0800000000000000
+      internalID: -745082485123159271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida011
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3948
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d34290bec71a530800000000000000
+      internalID: 3864507304173124917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida012
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3948
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbb17e2e69c40160800000000000000
+      internalID: 6990933996648643538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida013
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3948
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7d4577bc781ad00800000000000000
+      internalID: 982215501693638635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida014
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 3948
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e66ff2572d8f4f50800000000000000
+      internalID: 6867863156799006441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida015
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3949
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9045307de12034e00800000000000000
+      internalID: 1027667471450199049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida016
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3948
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9edc318f1c3ab60800000000000000
+      internalID: 7756256254490438122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida017
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3948
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153acda1ea9a50d70800000000000000
+      internalID: 9008793194864616273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida018
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3872
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189da9d4cf6489940800000000000000
+      internalID: 5303066610676455809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida019
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3872
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a386695131c446c80800000000000000
+      internalID: -8330449765878306758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida020
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3872
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ef19b369aca1f50800000000000000
+      internalID: 6853012529590959742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida021
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3873
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c1bd70637874a40800000000000000
+      internalID: 5352395348282907736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida022
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3873
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cb52de50f034080800000000000000
+      internalID: -9204496695287235458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida023
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 3873
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c24a9d7419395d0800000000000000
+      internalID: -3056939984274314156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida024
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3873
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9114e30a54ac3ce0800000000000000
+      internalID: -1424082675636629093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida025
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3872
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3004ee33b46add0800000000000000
+      internalID: -2475208258780920887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida026
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3872
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164391af26daf2750800000000000000
+      internalID: 6282430645819487329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida027
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3796
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9121f960ff472b30800000000000000
+      internalID: 4262463466317619610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida028
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3796
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a0eae7437f715a0800000000000000
+      internalID: -6550495328151401902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida029
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3796
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957d120bbfd22050800000000000000
+      internalID: 5774423666529760662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida030
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3797
+        width: 421
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49643704, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a09ce8a4b3bf4a0800000000000000
+      internalID: -6558583240925836738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida031
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 3797
+        width: 421
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49643704, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bfc1449b45c3220800000000000000
+      internalID: 2466939850580622088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida032
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3797
+        width: 421
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49643704, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ecc4f0ca293a320800000000000000
+      internalID: 2568057480220036743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida033
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 3797
+        width: 421
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49643704, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0094cbc8eccf480800000000000000
+      internalID: -8863982862722334500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida034
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 3797
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.48699763, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a477fe1e1072500800000000000000
+      internalID: 371267564178197097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida035
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 3797
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.48699763, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fdaf019d664a040800000000000000
+      internalID: 4657960997086748506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida036
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3721
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.48699763, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ded5c0956b90b0800000000000000
+      internalID: -5720867229174672956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida037
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3721
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.48699763, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca116cc4936d86f30800000000000000
+      internalID: 4569137363556897196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida038
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3721
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.48699763, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4558c1064573526d0800000000000000
+      internalID: -3015943539925416620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida039
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3720
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a5bfb11ad436850800000000000000
+      internalID: 6369019652386544282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida040
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3720
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e29828efbda5e00800000000000000
+      internalID: 1034380950593154691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida041
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3720
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b669695252383e0800000000000000
+      internalID: -2052756161780356203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida042
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3720
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1df7318cf9d00eb0800000000000000
+      internalID: -4755561527980327654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida043
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3721
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf3c9f83ff3496a0800000000000000
+      internalID: -6443454851541352511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida044
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 3721
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad6e56c1bf79be40800000000000000
+      internalID: 5672705607163866533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida045
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3645
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b294af4b5958240c0800000000000000
+      internalID: -4592961791931561685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida046
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3645
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82147cb8db80955d0800000000000000
+      internalID: -3073415660516720344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida047
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3645
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bfc94e7b003e900800000000000000
+      internalID: 712413955869178669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida048
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3645
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5637a2e28c0267490800000000000000
+      internalID: -7748970064704277659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida049
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3645
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0e67260818f8ef0800000000000000
+      internalID: -103721877998477146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida050
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 3645
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e6f77040076350800000000000000
+      internalID: 6009772504639792199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida051
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3645
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228884d27b52db6e0800000000000000
+      internalID: -1820257205718841310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida052
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3645
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0b4a32585722690800000000000000
+      internalID: -7628405604123103042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida053
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3645
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84052b83d7dc02f0800000000000000
+      internalID: -1005191313237932917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida054
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3570
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01de9be9a349f9f60800000000000000
+      internalID: 8043310438998994192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida055
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3570
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb5395c950be2c60800000000000000
+      internalID: 7795361904638254067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida056
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3570
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae8808f611a32330800000000000000
+      internalID: 3684966040141860525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida057
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3570
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa47c58f4af92bf0800000000000000
+      internalID: -348472276690711902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida058
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3570
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4c8335739384590800000000000000
+      internalID: -7689833453952908095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida059
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3570
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfcf9e3817b97450800000000000000
+      internalID: 6087097686125694921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida060
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3570
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3062b25afc2129a10800000000000000
+      internalID: 1914613474624480771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida061
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3570
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50591016, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323aeae861c830a10800000000000000
+      internalID: 1874495898427237155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida062
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3570
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50591016, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d43cfc9f1d679a0800000000000000
+      internalID: -6235565763185128113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida063
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3495
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50591016, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17db2150a870b000800000000000000
+      internalID: 49672225853003549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida064
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3495
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50591016, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f75caae1a5f72f0800000000000000
+      internalID: -972959906728149235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida065
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3495
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50591016, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922641df841da0a00800000000000000
+      internalID: 723620801560207913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida066
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3495
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc0de3a42bf92290800000000000000
+      internalID: -7914518735339320131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida067
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3495
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827eace0cd9a912a0800000000000000
+      internalID: -6766190202541381848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida068
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3495
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb800c4dd8fe2f120800000000000000
+      internalID: 2446280940054382780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida069
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3495
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0d1f78be16fd9e0800000000000000
+      internalID: -1594448078839885661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida070
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3495
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5e9f414156fc5c0800000000000000
+      internalID: -4193021591132969536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida071
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3495
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a834b95a1a1a390800000000000000
+      internalID: -7808782546237158771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida072
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3420
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a9decbc40c7c90800000000000000
+      internalID: -7170851233285430109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida073
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3420
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c426505172bac40800000000000000
+      internalID: 5524552339138169860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida074
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3420
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4700e03e789bb2e0800000000000000
+      internalID: -2108924332739655862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida075
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3420
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27a4f35a9c5cf940800000000000000
+      internalID: 5331237876803086123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida076
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3420
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73277ead0d65a4440800000000000000
+      internalID: 4920840997881475639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida077
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3420
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1b647af06d9bfc0800000000000000
+      internalID: -3478513874447715934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida078
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3420
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afd42c9e8eae6b90800000000000000
+      internalID: -7246662822864298073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida079
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3420
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab0b1e59fa7ecb0800000000000000
+      internalID: -4834702616687494557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida080
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3420
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd945f06be0c91e0800000000000000
+      internalID: -2189859143704863302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida081
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3345
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e882f5c0aecd03110800000000000000
+      internalID: 1238732795314907278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida082
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3345
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fbcbedc1be0b950800000000000000
+      internalID: 6462923974505185037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida083
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3345
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fb8199a83846840800000000000000
+      internalID: 5216438899699138305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida084
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3345
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd1a952c805b8450800000000000000
+      internalID: 6092051483805228481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida085
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3345
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0c6e30f9867b8c0800000000000000
+      internalID: -3983600313211371284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida086
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3345
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018e135755185fc80800000000000000
+      internalID: -8289577335067121648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida087
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3345
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed0f5f0399f707a0800000000000000
+      internalID: -6410881134525215257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida088
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3345
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1914bfd130db01f0800000000000000
+      internalID: -1077538773200004838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida089
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 3345
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994390d6af302d6a0800000000000000
+      internalID: -6426069344198249319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida090
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3270
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ebf8a2125bce5d0800000000000000
+      internalID: -3031849295074574831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida091
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3270
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1079b4ab8b6634b70800000000000000
+      internalID: 8882055833690281729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida092
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3270
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22722fd8fb488f690800000000000000
+      internalID: -7568153215541041374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida093
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3269
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c8e2755268e0c0800000000000000
+      internalID: -4546275704690916356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida094
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 3269
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77866910ae45a4e20800000000000000
+      internalID: 3335571838046988407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida095
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3269
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2344ee8fa4b74cbb0800000000000000
+      internalID: -4916669331247578062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida096
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3269
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc259ca0a32d31da0800000000000000
+      internalID: -5975201133859614003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida097
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3267
+        width: 422
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf464942156a10e40800000000000000
+      internalID: 5620956677371356412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida098
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3267
+        width: 422
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2732bee4235dc18c0800000000000000
+      internalID: -4027109554726952078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida099
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3189
+        width: 422
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917ce1d04eaa0bd40800000000000000
+      internalID: 5598162233270912793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida100
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3190
+        width: 422
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccb3b22f846cba60800000000000000
+      internalID: 7691132829567270081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida101
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3190
+        width: 422
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043ee8fe3e3430b70800000000000000
+      internalID: 8864003137851024192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida102
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3190
+        width: 422
+        height: 69
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2829ce457fed910800000000000000
+      internalID: 1864199239896302281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida103
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3190
+        width: 422
+        height: 69
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29942051e0352480800000000000000
+      internalID: -8924673342294419158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida104
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 3190
+        width: 422
+        height: 69
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2d9c2a0b71ca440800000000000000
+      internalID: 4948356137986151087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida105
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3190
+        width: 422
+        height: 69
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05853f63af7ee4db0800000000000000
+      internalID: -4805648690507982768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida106
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3191
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde369e23cbb3150800000000000000
+      internalID: 5853479067548118487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida107
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3191
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4778a9c22a496000800000000000000
+      internalID: 29636385827223375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3113
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785684c50d585fc20800000000000000
+      internalID: 3239642636910880135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida109
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3113
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7960d00f5544b4a0800000000000000
+      internalID: -6578556881343583877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida110
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3113
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dd54a943fa85340800000000000000
+      internalID: 4852821238953139586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida111
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3113
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750664f929ea596d0800000000000000
+      internalID: -2984287233302437801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida112
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3113
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7520ad480d92430800000000000000
+      internalID: 3758764633029236668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida113
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3113
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508abd1be8a12f300800000000000000
+      internalID: 284318926649403397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida114
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3113
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d355d18e56a34e0800000000000000
+      internalID: -2001175036813820556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida115
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3113
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8d341304bde1ad0800000000000000
+      internalID: -2729503255389021999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida116
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3113
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c8f2a7349419d70800000000000000
+      internalID: 9048093680525610039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3037
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9409391580a8c610800000000000000
+      internalID: 1641738557690807452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida118
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3037
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5071da4f87f3360800000000000000
+      internalID: 7151567725558957551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida119
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3037
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b11b859a51ec050800000000000000
+      internalID: 5822615185318288141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida120
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3038
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236ab1be4cb791880800000000000000
+      internalID: -8639738324445321678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida121
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3038
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53daeed033d9d8540800000000000000
+      internalID: 5011834802935868725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida122
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3038
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d68c9db88a6354b0800000000000000
+      internalID: -5452897588286290218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida123
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3038
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2116746e8ff9409f0800000000000000
+      internalID: -503101366994509550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida124
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3038
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10438f7818478ef0800000000000000
+      internalID: -106036796164194275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida125
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 3038
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144eea797711d9ee0800000000000000
+      internalID: -1252825915995528127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2962
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8632db250a73b50800000000000000
+      internalID: 6572898458391505100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida127
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2962
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf44f64d2311be10800000000000000
+      internalID: 2211569977200496586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida128
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2962
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a77cdd84afd9b40800000000000000
+      internalID: 5448786315053595152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida129
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2962
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1431b3af2d10780800000000000000
+      internalID: -8718455431437794858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida130
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2962
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1785f041ee4fe6c0800000000000000
+      internalID: -4111981205401532644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida131
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2962
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ce407757db01f20800000000000000
+      internalID: 3391418831615618179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida132
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2962
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c24a85188903750800000000000000
+      internalID: 6282689161487199344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida133
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2961
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc09b5ab7153f30800000000000000
+      internalID: 4554572687322697656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida134
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2961
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47cd404e6a577d0800000000000000
+      internalID: -2921245285015587668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2885
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765e35d86cb84bc50800000000000000
+      internalID: 6680117832188159335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida136
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2885
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe9aadb1c33f060800000000000000
+      internalID: 6985993537312123871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida137
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2885
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94938b65ed1aa8d70800000000000000
+      internalID: 9046220777836788041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida138
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2885
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5148c8fe9ef7ba0800000000000000
+      internalID: -6088890956117699145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida139
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2885
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991b75fcf9ec99400800000000000000
+      internalID: 331523233362194841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida140
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2885
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa926b38b5801570800000000000000
+      internalID: 8435389128381733540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida141
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2885
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7da3b5ac1fd4a5c0800000000000000
+      internalID: -4204990837925106308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida142
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2887
+        width: 422
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49526066, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faadddd844481510800000000000000
+      internalID: 1520039953988168435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida143
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2887
+        width: 422
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49526066, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5e8cd3f204371a0800000000000000
+      internalID: -6813031239637211685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida144
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2811
+        width: 422
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49526066, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d030d0ce64a5fdd0800000000000000
+      internalID: -2452873626445139758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida145
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2811
+        width: 422
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49526066, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59bd2615a72ea310800000000000000
+      internalID: 1418114522663467354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida146
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2811
+        width: 422
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49526066, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1933366b13faeed70800000000000000
+      internalID: 9074382927246341009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida147
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2811
+        width: 423
+        height: 66
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b34d905d11cc200800000000000000
+      internalID: 201555690015439775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida148
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2811
+        width: 423
+        height: 66
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d707b74fb1c41000800000000000000
+      internalID: 5842526820304854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida149
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2811
+        width: 423
+        height: 66
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087259889101e1320800000000000000
+      internalID: 2530477742480500608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida150
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 2811
+        width: 422
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50236964, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef88dbf405bb4f70800000000000000
+      internalID: 9172624099079917547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida151
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 2808
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780b41d0d39aafc70800000000000000
+      internalID: 9005696484558286983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida152
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2809
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a642df5b6ec71080800000000000000
+      internalID: -9216671151825992026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida153
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2732
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3989727f48c12b580800000000000000
+      internalID: -8812950163402811245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida154
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2732
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149377d0a671d4820800000000000000
+      internalID: 2904003078983727425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida155
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2732
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b9b07f12d194e0800000000000000
+      internalID: -1976567728961900032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida156
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2731
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b53a1a2d0012fa0800000000000000
+      internalID: -5827375538185741501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida157
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2731
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d197ecf8663e8c0800000000000000
+      internalID: -3971217678580245231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida158
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2731
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26edd03085e62ae0800000000000000
+      internalID: -1574318680980986324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida159
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 2731
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68671269e6799aeb0800000000000000
+      internalID: -4708065434218170746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida160
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 2733
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd92845c44756d0800000000000000
+      internalID: -3001855012509197165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida161
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2733
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cf5d98cd2dcecc0800000000000000
+      internalID: -3680334950821397408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida162
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2656
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9e45f0d871b7fb0800000000000000
+      internalID: -4649096295714854438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida163
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2656
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49347b7a07d96ea10800000000000000
+      internalID: 1938409796805280660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida164
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2656
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce727a09bc993ca0800000000000000
+      internalID: -6036621506955280702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida165
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2655
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586874216a16b54a0800000000000000
+      internalID: -6603577062709557627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida166
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2655
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dabf220f4771630800000000000000
+      internalID: 3897712577240345977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida167
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2655
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc27f068dcdb33620800000000000000
+      internalID: 2752752487668609740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida168
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2655
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50473934, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6e37f89fd1c5c70800000000000000
+      internalID: 8961070316251244277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida169
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2656
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916125fe5075e9630800000000000000
+      internalID: 3935678807369979417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida170
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2656
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc08b77159cbd5c00800000000000000
+      internalID: 891075649819345100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida171
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2580
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a98c7b3d2f790a0800000000000000
+      internalID: -6874759315022374297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida172
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2580
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67da2b33f3d7d5d00800000000000000
+      internalID: 963063605730913654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida173
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2580
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65eb9f91f4183f80800000000000000
+      internalID: -8126722499592592019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida174
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2580
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49408984, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b459ded16917a8b10800000000000000
+      internalID: 1984523475371267403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida175
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2580
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49408984, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca447eeafbf0a7520800000000000000
+      internalID: 2700488242509595820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida176
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2580
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49408984, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b98a28f7d5369a00800000000000000
+      internalID: 762856388583655863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida177
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 2580
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49408984, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03af7c0c38644db20800000000000000
+      internalID: 3158226770382551600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida178
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 2580
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420dab18856b7bf40800000000000000
+      internalID: 5744260340984238116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida179
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2580
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928fcab654d077040800000000000000
+      internalID: 4645196132466358313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2505
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489f93c93ff3d1e20800000000000000
+      internalID: 3322882415599942020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida181
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2505
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa31f8513a369bb0800000000000000
+      internalID: -4929688758490416393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida182
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2505
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baaeec89cd889d10800000000000000
+      internalID: 2132610320352324275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida183
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2505
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4964539, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee6cbb111abc8b0800000000000000
+      internalID: -5130830252921655693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida184
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2501
+        width: 425
+        height: 71
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc499de6b6ca11e0800000000000000
+      internalID: -2226248576808694585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida185
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 2501
+        width: 425
+        height: 71
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4060c30fb06fe3780800000000000000
+      internalID: -8701246898897680892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida186
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 2501
+        width: 425
+        height: 71
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680a56821eef7c090800000000000000
+      internalID: -8014156768883662714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida187
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2505
+        width: 427
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49414518, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc2933f6d9cc3590800000000000000
+      internalID: -7693052138414854950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida188
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2505
+        width: 427
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49414518, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b761afe77d47e2440800000000000000
+      internalID: 4912992712404899451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida189
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2426
+        width: 427
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49414518, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ea61d6e5fd5b90800000000000000
+      internalID: -7251369453291904330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida190
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2426
+        width: 427
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49414518, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d7901a9ddc2090800000000000000
+      internalID: -8057821979499572683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida191
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 2426
+        width: 427
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49414518, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9cb5a3b39983990800000000000000
+      internalID: -7406001107549566482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida192
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2424
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fe878d0d04ba220800000000000000
+      internalID: 2498161684036251481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida193
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2424
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653e5516bf7b5e930800000000000000
+      internalID: 4171942920126325590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida194
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 2424
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d20a6990b04c50800000000000000
+      internalID: 6647507222953907364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida195
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2423
+        width: 423
+        height: 70
+      alignment: 9
+      pivot: {x: 0.501182, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cf6b8820ff2c5e0800000000000000
+      internalID: -1890668507193476036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida196
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 2426
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24548f3ad706f7f10800000000000000
+      internalID: 2269638829956154690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida197
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 2426
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33271a15c31b8b520800000000000000
+      internalID: 2718117247743783475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida198
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2348
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea478047f645a5e0800000000000000
+      internalID: -1899033640113321234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida199
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2348
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e752bda765521b0800000000000000
+      internalID: -5682040269195346407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida200
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2348
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb6676ac25fba960800000000000000
+      internalID: 7614449167120100332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida201
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2348
+        width: 428
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49299064, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f23eee33e9c6960800000000000000
+      internalID: 7596620617355571035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida202
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2348
+        width: 428
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49299064, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e896cb61cdd796510800000000000000
+      internalID: 1542902731578829198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida203
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2348
+        width: 428
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49299064, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd5d2454b8357c00800000000000000
+      internalID: 897686047887810046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida204
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2348
+        width: 428
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49299064, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50845c1598bc8860800000000000000
+      internalID: 7533599227248935006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida205
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 2348
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce26d5a3cb5a500d0800000000000000
+      internalID: -3457174911085354260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida206
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2348
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc392dd5078a92560800000000000000
+      internalID: 7289542672439743439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida207
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d606ec178dd5878e0800000000000000
+      internalID: -1695502075501322131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida208
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b6a45e4ccaf2d80800000000000000
+      internalID: -8273204028795884686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida209
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf7b72ba7e5284c0800000000000000
+      internalID: -4286760014229831715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida210
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d626c22b71f23fb30800000000000000
+      internalID: 4319848246398444141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida211
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb3ae46ef3162b0800000000000000
+      internalID: -5593119003823063589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida212
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c660ff84d849d3ce0800000000000000
+      internalID: -1423818572643236244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida213
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48ff269d2ff82640800000000000000
+      internalID: 5055571152981719119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida214
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2272
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d140dde90d6b7ffc0800000000000000
+      internalID: -3461096781476199395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida215
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2272
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b45153ece2ef410800000000000000
+      internalID: 1512697988031794077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida216
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2196
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e529adeba1ffcb1c0800000000000000
+      internalID: -4486430638431628706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida217
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2196
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c854946485bcd650800000000000000
+      internalID: 6259077162365900996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida218
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2196
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856e0561426dac8f0800000000000000
+      internalID: -519367356526303656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida219
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2196
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0504acdc408de6d10800000000000000
+      internalID: 2120869989682135120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida220
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2196
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6a005d827ec0e20800000000000000
+      internalID: 3318281188023510768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida221
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2196
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b86e05435e1906b0800000000000000
+      internalID: -5329695341026580298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida222
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2196
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a545f765577740800000000000000
+      internalID: 5149678603906426148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida223
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2196
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9caefdbd55eee160800000000000000
+      internalID: 7056829856918449307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida224
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2196
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d580d5d5e031000800000000000000
+      internalID: 5363818713079057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida225
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2120
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff15c4bd7b344740800000000000000
+      internalID: 5135294886198976510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida226
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2120
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab86fe9e08402220800000000000000
+      internalID: 2459044624177990563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida227
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2120
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a72f4c5c276ac450800000000000000
+      internalID: 6109809284706412455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida228
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2120
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1442d6f539ee2ea20800000000000000
+      internalID: 3090294611058172993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida229
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2120
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a05e0708e779a70800000000000000
+      internalID: 8833668284225489554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida230
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2120
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54d762639cc3050800000000000000
+      internalID: 5781717256048035239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida231
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2120
+        width: 422
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1021a5e6174a8f0800000000000000
+      internalID: -530174137351405078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida232
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2120
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49526066, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e6c6a7391994160800000000000000
+      internalID: 7010294357579034220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novaPartida233
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2120
+        width: 422
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49526066, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cdfc6980c08f980800000000000000
+      internalID: -8505034665259705256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

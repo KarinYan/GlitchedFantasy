@@ -13,10 +13,18 @@ namespace Platformer.Mechanics
     {
         private PlayerManager collectHealth;
         private PlayerManager player;
+        [HideInInspector]
         public Text coreCounter;
         private bool triggerEntered = false;
-        
+
         private int core;
+        private int sceneCores;
+
+        //Función que encuentra los objetos en escena etiquetados con Cores
+        void Start()
+        {
+            sceneCores = GameObject.FindGameObjectsWithTag("Cores").Length;     
+        }
 
         //Función que se ejecuta en cada frame del juego y que invoca la función HealthCollect del PlayerManager y destruye el objeto si se cumplen las condiciones definidas
         void Update()
@@ -36,13 +44,13 @@ namespace Platformer.Mechanics
             if(player != null)               
             {              
                 collectHealth = other.GetComponent<PlayerManager>();
-                triggerEntered = true;                                      
+                triggerEntered = true;                                    
             }
 
             if(other.transform.tag == "Cores")
             {
                 core ++;
-                coreCounter.text = core.ToString();
+                coreCounter.text = (core.ToString() + "/" + sceneCores);
                 Destroy(other.gameObject);
             }
         }

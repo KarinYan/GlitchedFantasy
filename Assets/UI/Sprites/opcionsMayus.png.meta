@@ -1,0 +1,5664 @@
+fileFormatVersion: 2
+guid: 0aadbfa0510afde43be67af47710392a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2369567147273481557
+    second: opcionsMayus000
+  - first:
+      213: 2057894014701930702
+    second: opcionsMayus001
+  - first:
+      213: 572870734311823444
+    second: opcionsMayus002
+  - first:
+      213: 1392060351028274797
+    second: opcionsMayus003
+  - first:
+      213: -8630445525738608597
+    second: opcionsMayus004
+  - first:
+      213: -5937012810675669273
+    second: opcionsMayus005
+  - first:
+      213: -5866424064838841530
+    second: opcionsMayus006
+  - first:
+      213: -1396762926085370445
+    second: opcionsMayus007
+  - first:
+      213: -509792411391855315
+    second: opcionsMayus008
+  - first:
+      213: 1190220457740899012
+    second: opcionsMayus009
+  - first:
+      213: 3577394988755124090
+    second: opcionsMayus010
+  - first:
+      213: 2518229043835683574
+    second: opcionsMayus011
+  - first:
+      213: 2957487034467610917
+    second: opcionsMayus012
+  - first:
+      213: -3548521783767069373
+    second: opcionsMayus013
+  - first:
+      213: -912513777162149210
+    second: opcionsMayus014
+  - first:
+      213: 6460991071451773286
+    second: opcionsMayus015
+  - first:
+      213: 8980680989997054266
+    second: opcionsMayus016
+  - first:
+      213: 5680944526362778940
+    second: opcionsMayus017
+  - first:
+      213: 6515003467237347253
+    second: opcionsMayus018
+  - first:
+      213: -6283981037886959079
+    second: opcionsMayus019
+  - first:
+      213: 8813314678926065865
+    second: opcionsMayus020
+  - first:
+      213: 4478224863839766885
+    second: opcionsMayus021
+  - first:
+      213: -3216446213365326497
+    second: opcionsMayus022
+  - first:
+      213: 1161001839741073490
+    second: opcionsMayus023
+  - first:
+      213: 5203671085177501765
+    second: opcionsMayus024
+  - first:
+      213: 106768251342558605
+    second: opcionsMayus025
+  - first:
+      213: 907747106460133398
+    second: opcionsMayus026
+  - first:
+      213: -438301726640933134
+    second: opcionsMayus027
+  - first:
+      213: 5746055290150079971
+    second: opcionsMayus028
+  - first:
+      213: -4098436366236868694
+    second: opcionsMayus029
+  - first:
+      213: -5695609534247646748
+    second: opcionsMayus030
+  - first:
+      213: 2937857039076815155
+    second: opcionsMayus031
+  - first:
+      213: -7727497821366171211
+    second: opcionsMayus032
+  - first:
+      213: -5805807823083750279
+    second: opcionsMayus033
+  - first:
+      213: 2506553729620376302
+    second: opcionsMayus034
+  - first:
+      213: 5808119734754387649
+    second: opcionsMayus035
+  - first:
+      213: 1808677682379330011
+    second: opcionsMayus036
+  - first:
+      213: -5975198901878176292
+    second: opcionsMayus037
+  - first:
+      213: -7430007018606935148
+    second: opcionsMayus038
+  - first:
+      213: -27687390597034271
+    second: opcionsMayus039
+  - first:
+      213: 3225934309779704677
+    second: opcionsMayus040
+  - first:
+      213: -4370785085019545438
+    second: opcionsMayus041
+  - first:
+      213: 2187686955943721225
+    second: opcionsMayus042
+  - first:
+      213: -1652770315309768270
+    second: opcionsMayus043
+  - first:
+      213: -8938112643641621378
+    second: opcionsMayus044
+  - first:
+      213: -889240732896808846
+    second: opcionsMayus045
+  - first:
+      213: -6257071188344415543
+    second: opcionsMayus046
+  - first:
+      213: -8286109781040755284
+    second: opcionsMayus047
+  - first:
+      213: -4478454929228901443
+    second: opcionsMayus048
+  - first:
+      213: -6009113877897581795
+    second: opcionsMayus049
+  - first:
+      213: -6600652816667947130
+    second: opcionsMayus050
+  - first:
+      213: 1148874442034992286
+    second: opcionsMayus051
+  - first:
+      213: 7333101249724864901
+    second: opcionsMayus052
+  - first:
+      213: 7157084516602801079
+    second: opcionsMayus053
+  - first:
+      213: -5282789806818287359
+    second: opcionsMayus054
+  - first:
+      213: -7230098089104228554
+    second: opcionsMayus055
+  - first:
+      213: 1952958991997359125
+    second: opcionsMayus056
+  - first:
+      213: -6473904679187220065
+    second: opcionsMayus057
+  - first:
+      213: -4562079660387293944
+    second: opcionsMayus058
+  - first:
+      213: -3562262327951295854
+    second: opcionsMayus059
+  - first:
+      213: 7368738767553212540
+    second: opcionsMayus060
+  - first:
+      213: 3710406770636869853
+    second: opcionsMayus061
+  - first:
+      213: -8767861790020202215
+    second: opcionsMayus062
+  - first:
+      213: -7446173336260484223
+    second: opcionsMayus063
+  - first:
+      213: -979015939983032860
+    second: opcionsMayus064
+  - first:
+      213: -9018690022700878447
+    second: opcionsMayus065
+  - first:
+      213: -2505120383116635565
+    second: opcionsMayus066
+  - first:
+      213: -2052978272939168772
+    second: opcionsMayus067
+  - first:
+      213: 4470056288554022024
+    second: opcionsMayus068
+  - first:
+      213: 7325381436779562589
+    second: opcionsMayus069
+  - first:
+      213: -3743739255223614209
+    second: opcionsMayus070
+  - first:
+      213: 2559993215242340245
+    second: opcionsMayus071
+  - first:
+      213: 4221707975220961031
+    second: opcionsMayus072
+  - first:
+      213: 634953363188611872
+    second: opcionsMayus073
+  - first:
+      213: -7075419900884670163
+    second: opcionsMayus074
+  - first:
+      213: -2898073137523468719
+    second: opcionsMayus075
+  - first:
+      213: 2168413593301162486
+    second: opcionsMayus076
+  - first:
+      213: 575574577245984989
+    second: opcionsMayus077
+  - first:
+      213: -2646051312151118450
+    second: opcionsMayus078
+  - first:
+      213: 2527663386462165334
+    second: opcionsMayus079
+  - first:
+      213: -3700062944849385651
+    second: opcionsMayus080
+  - first:
+      213: -3559495479055364379
+    second: opcionsMayus081
+  - first:
+      213: -8038456845206681646
+    second: opcionsMayus082
+  - first:
+      213: 8192180487000485545
+    second: opcionsMayus083
+  - first:
+      213: 3764412920272869253
+    second: opcionsMayus084
+  - first:
+      213: 2806371531238130974
+    second: opcionsMayus085
+  - first:
+      213: -4471187147894878872
+    second: opcionsMayus086
+  - first:
+      213: 5688447306343371959
+    second: opcionsMayus087
+  - first:
+      213: -471331821065188378
+    second: opcionsMayus088
+  - first:
+      213: -4745281964142481126
+    second: opcionsMayus089
+  - first:
+      213: -1061518292244874214
+    second: opcionsMayus090
+  - first:
+      213: -8177811090135992029
+    second: opcionsMayus091
+  - first:
+      213: -4749425088961209307
+    second: opcionsMayus092
+  - first:
+      213: 961876883083340574
+    second: opcionsMayus093
+  - first:
+      213: -3402857073097279747
+    second: opcionsMayus094
+  - first:
+      213: 4736702336583572344
+    second: opcionsMayus095
+  - first:
+      213: -1189345087695567845
+    second: opcionsMayus096
+  - first:
+      213: 3876250291389790469
+    second: opcionsMayus097
+  - first:
+      213: 8597233216247417112
+    second: opcionsMayus098
+  - first:
+      213: 7550686907237793979
+    second: opcionsMayus099
+  - first:
+      213: -7409169035868079116
+    second: opcionsMayus100
+  - first:
+      213: 5652123067892159269
+    second: opcionsMayus101
+  - first:
+      213: -6657938530458072994
+    second: opcionsMayus102
+  - first:
+      213: -2095325074218158791
+    second: opcionsMayus103
+  - first:
+      213: -562053540288036498
+    second: opcionsMayus104
+  - first:
+      213: 8125110361731839004
+    second: opcionsMayus105
+  - first:
+      213: 1997480755806408901
+    second: opcionsMayus106
+  - first:
+      213: -4649254410835464177
+    second: opcionsMayus107
+  - first:
+      213: -4925582057723219125
+    second: opcionsMayus108
+  - first:
+      213: -9140613610619114844
+    second: opcionsMayus109
+  - first:
+      213: 1801272342225551851
+    second: opcionsMayus110
+  - first:
+      213: 8772237779585499882
+    second: opcionsMayus111
+  - first:
+      213: 5534708797085883312
+    second: opcionsMayus112
+  - first:
+      213: 6378446376502832965
+    second: opcionsMayus113
+  - first:
+      213: -3935603041089344900
+    second: opcionsMayus114
+  - first:
+      213: 3073147205934788343
+    second: opcionsMayus115
+  - first:
+      213: 5619373362493390110
+    second: opcionsMayus116
+  - first:
+      213: -8813732933691441557
+    second: opcionsMayus117
+  - first:
+      213: -4535543199895032835
+    second: opcionsMayus118
+  - first:
+      213: -4740330236720384212
+    second: opcionsMayus119
+  - first:
+      213: 5979144665449986096
+    second: opcionsMayus120
+  - first:
+      213: 8628867938649854175
+    second: opcionsMayus121
+  - first:
+      213: -4540917306468868743
+    second: opcionsMayus122
+  - first:
+      213: -959393976804203860
+    second: opcionsMayus123
+  - first:
+      213: -4380659911286211434
+    second: opcionsMayus124
+  - first:
+      213: -3796216256056385684
+    second: opcionsMayus125
+  - first:
+      213: 8211186942185403730
+    second: opcionsMayus126
+  - first:
+      213: -8648224287050392794
+    second: opcionsMayus127
+  - first:
+      213: 6806040108661713907
+    second: opcionsMayus128
+  - first:
+      213: 4768439724916826673
+    second: opcionsMayus129
+  - first:
+      213: 6322716943694191668
+    second: opcionsMayus130
+  - first:
+      213: -8488876667688153518
+    second: opcionsMayus131
+  - first:
+      213: -5200766581724382690
+    second: opcionsMayus132
+  - first:
+      213: 8909587051599551041
+    second: opcionsMayus133
+  - first:
+      213: 3850467875160594280
+    second: opcionsMayus134
+  - first:
+      213: 6651280427624766745
+    second: opcionsMayus135
+  - first:
+      213: 316858583635935260
+    second: opcionsMayus136
+  - first:
+      213: 4697257970133606797
+    second: opcionsMayus137
+  - first:
+      213: -2000100891021069508
+    second: opcionsMayus138
+  - first:
+      213: 4463951558766123050
+    second: opcionsMayus139
+  - first:
+      213: 7181279955459140145
+    second: opcionsMayus140
+  - first:
+      213: -1451958737754591800
+    second: opcionsMayus141
+  - first:
+      213: -5434479340452537996
+    second: opcionsMayus142
+  - first:
+      213: 5363759389399722456
+    second: opcionsMayus143
+  - first:
+      213: 6078104435818107299
+    second: opcionsMayus144
+  - first:
+      213: 6179105863938715317
+    second: opcionsMayus145
+  - first:
+      213: 5878232732459353118
+    second: opcionsMayus146
+  - first:
+      213: -4132221754994900770
+    second: opcionsMayus147
+  - first:
+      213: -3803000503353550166
+    second: opcionsMayus148
+  - first:
+      213: 2145168690994722224
+    second: opcionsMayus149
+  - first:
+      213: -2983542171481449511
+    second: opcionsMayus150
+  - first:
+      213: -6563237181961200486
+    second: opcionsMayus151
+  - first:
+      213: 425076048999579381
+    second: opcionsMayus152
+  - first:
+      213: 2119028977975346818
+    second: opcionsMayus153
+  - first:
+      213: -2934380303014964052
+    second: opcionsMayus154
+  - first:
+      213: -2885634922762272735
+    second: opcionsMayus155
+  - first:
+      213: 6191251272578769099
+    second: opcionsMayus156
+  - first:
+      213: -6461935847298636364
+    second: opcionsMayus157
+  - first:
+      213: -8545661971452618752
+    second: opcionsMayus158
+  - first:
+      213: 6838081195562046642
+    second: opcionsMayus159
+  - first:
+      213: 3618692357171171264
+    second: opcionsMayus160
+  - first:
+      213: -387224905605081351
+    second: opcionsMayus161
+  - first:
+      213: 4910358818294062841
+    second: opcionsMayus162
+  - first:
+      213: 4834792157083941934
+    second: opcionsMayus163
+  - first:
+      213: 947611173117504970
+    second: opcionsMayus164
+  - first:
+      213: -3614748681084082349
+    second: opcionsMayus165
+  - first:
+      213: 1125735077769549282
+    second: opcionsMayus166
+  - first:
+      213: -7605925226254820253
+    second: opcionsMayus167
+  - first:
+      213: 1527427554485831951
+    second: opcionsMayus168
+  - first:
+      213: -6666900862540780020
+    second: opcionsMayus169
+  - first:
+      213: 8925646559887904857
+    second: opcionsMayus170
+  - first:
+      213: -5886506544838703564
+    second: opcionsMayus171
+  - first:
+      213: 2662536841666364225
+    second: opcionsMayus172
+  - first:
+      213: 5570642860261954124
+    second: opcionsMayus173
+  - first:
+      213: 5517264302541124779
+    second: opcionsMayus174
+  - first:
+      213: 4679592705723895788
+    second: opcionsMayus175
+  - first:
+      213: 8129845410412267667
+    second: opcionsMayus176
+  - first:
+      213: 5867596522635759673
+    second: opcionsMayus177
+  - first:
+      213: -3779634642189765873
+    second: opcionsMayus178
+  - first:
+      213: 475914506850137170
+    second: opcionsMayus179
+  - first:
+      213: 4839563230035400514
+    second: opcionsMayus180
+  - first:
+      213: -9091464700329524683
+    second: opcionsMayus181
+  - first:
+      213: 3091294822519855755
+    second: opcionsMayus182
+  - first:
+      213: 3010111810731391460
+    second: opcionsMayus183
+  - first:
+      213: -976660621037354983
+    second: opcionsMayus184
+  - first:
+      213: -8721644954895378121
+    second: opcionsMayus185
+  - first:
+      213: -4938753853532031215
+    second: opcionsMayus186
+  - first:
+      213: 8370853421267734276
+    second: opcionsMayus187
+  - first:
+      213: 5592921946406747168
+    second: opcionsMayus188
+  - first:
+      213: 86787844799524725
+    second: opcionsMayus189
+  - first:
+      213: 668851990198532382
+    second: opcionsMayus190
+  - first:
+      213: -2412940523452985702
+    second: opcionsMayus191
+  - first:
+      213: 330742999458483868
+    second: opcionsMayus192
+  - first:
+      213: 4773261375424323169
+    second: opcionsMayus193
+  - first:
+      213: 7685802801570848151
+    second: opcionsMayus194
+  - first:
+      213: -984446772794981430
+    second: opcionsMayus195
+  - first:
+      213: -3862033444298703990
+    second: opcionsMayus196
+  - first:
+      213: -6826683753661036097
+    second: opcionsMayus197
+  - first:
+      213: -7345190414012175920
+    second: opcionsMayus198
+  - first:
+      213: 8193560778791086587
+    second: opcionsMayus199
+  - first:
+      213: 3788250796791614355
+    second: opcionsMayus200
+  - first:
+      213: -8862164331708433905
+    second: opcionsMayus201
+  - first:
+      213: 5225422172290619406
+    second: opcionsMayus202
+  - first:
+      213: -1872877694309769039
+    second: opcionsMayus203
+  - first:
+      213: 4302561735686123674
+    second: opcionsMayus204
+  - first:
+      213: -952812563873788418
+    second: opcionsMayus205
+  - first:
+      213: 2165270852289801905
+    second: opcionsMayus206
+  - first:
+      213: -8251833602436379272
+    second: opcionsMayus207
+  - first:
+      213: 3195036139586381883
+    second: opcionsMayus208
+  - first:
+      213: 3029097548959041380
+    second: opcionsMayus209
+  - first:
+      213: -1038700288900995639
+    second: opcionsMayus210
+  - first:
+      213: 4075659387591181336
+    second: opcionsMayus211
+  - first:
+      213: 295843830248591324
+    second: opcionsMayus212
+  - first:
+      213: -3745531068935223748
+    second: opcionsMayus213
+  - first:
+      213: -8657601227809160141
+    second: opcionsMayus214
+  - first:
+      213: 7600050759710363247
+    second: opcionsMayus215
+  - first:
+      213: 596551582753817995
+    second: opcionsMayus216
+  - first:
+      213: 4000010488603602458
+    second: opcionsMayus217
+  - first:
+      213: -5878004689515384883
+    second: opcionsMayus218
+  - first:
+      213: -3011889301730642228
+    second: opcionsMayus219
+  - first:
+      213: 4260422267233005536
+    second: opcionsMayus220
+  - first:
+      213: -2517439841874236157
+    second: opcionsMayus221
+  - first:
+      213: 8146465623413799560
+    second: opcionsMayus222
+  - first:
+      213: -709285040346848360
+    second: opcionsMayus223
+  - first:
+      213: -8311947220935230611
+    second: opcionsMayus224
+  - first:
+      213: -1116546688002839489
+    second: opcionsMayus225
+  - first:
+      213: 4533954386870345663
+    second: opcionsMayus226
+  - first:
+      213: 6243495659856023642
+    second: opcionsMayus227
+  - first:
+      213: 5308346193185002196
+    second: opcionsMayus228
+  - first:
+      213: -8415211637230746307
+    second: opcionsMayus229
+  - first:
+      213: -1256033043172776817
+    second: opcionsMayus230
+  - first:
+      213: -3833062574707914587
+    second: opcionsMayus231
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: opcionsMayus000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3996
+        width: 567
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2145beb3b9d1fd0800000000000000
+      internalID: -2369567147273481557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus001
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3996
+        width: 567
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec806b304bb1f8c10800000000000000
+      internalID: 2057894014701930702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus002
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 3996
+        width: 566
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4589fdcc5ee33f700800000000000000
+      internalID: 572870734311823444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus003
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3996
+        width: 566
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6622f88387915310800000000000000
+      internalID: 1392060351028274797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus004
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 3996
+        width: 566
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28adf8358f7a3880800000000000000
+      internalID: -8630445525738608597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus005
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 3996
+        width: 566
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6bbb8ed4e7b9da0800000000000000
+      internalID: -5937012810675669273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus006
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3996
+        width: 566
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b4a790566469ea0800000000000000
+      internalID: -5866424064838841530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus007
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3893
+        width: 568
+        height: 95
+      alignment: 9
+      pivot: {x: 0.50176054, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd0f33e483bd9ce0800000000000000
+      internalID: -1396762926085370445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus008
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3893
+        width: 568
+        height: 95
+      alignment: 9
+      pivot: {x: 0.50176054, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d257cc9b08adce8f0800000000000000
+      internalID: -509792411391855315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus009
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 3893
+        width: 568
+        height: 95
+      alignment: 9
+      pivot: {x: 0.50176054, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c29c044333848010800000000000000
+      internalID: 1190220457740899012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus010
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3893
+        width: 568
+        height: 95
+      alignment: 9
+      pivot: {x: 0.50176054, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ff206d9c575a130800000000000000
+      internalID: 3577394988755124090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus011
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 3893
+        width: 568
+        height: 95
+      alignment: 9
+      pivot: {x: 0.50176054, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2c5e429fb82f220800000000000000
+      internalID: 2518229043835683574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus012
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 3893
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521f345d9ca1b0920800000000000000
+      internalID: 2957487034467610917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus013
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 3893
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d04d01d3e11cec0800000000000000
+      internalID: -3548521783767069373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus014
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3790
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2a99bed891653f0800000000000000
+      internalID: -912513777162149210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus015
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3790
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6697adec52d0aa950800000000000000
+      internalID: 6460991071451773286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus016
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3790
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39b0e957c9c1ac70800000000000000
+      internalID: 8980680989997054266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus017
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3790
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d9d82a2f4c6de40800000000000000
+      internalID: 5680944526362778940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus018
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3790
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfce1fa221f96a50800000000000000
+      internalID: 6515003467237347253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus019
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3790
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912157d3a80dac8a0800000000000000
+      internalID: -6283981037886959079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus020
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3790
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0cf1b610f2f4a70800000000000000
+      internalID: 8813314678926065865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus021
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3687
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569cd7979c9d52e30800000000000000
+      internalID: 4478224863839766885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus022
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3687
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d953dd533ec53d0800000000000000
+      internalID: -3216446213365326497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus023
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3687
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2587751a505bc1010800000000000000
+      internalID: 1161001839741073490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus024
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3687
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f9ff1847273840800000000000000
+      internalID: 5203671085177501765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus025
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3687
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85109ea8215b7100800000000000000
+      internalID: 106768251342558605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus026
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3687
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618e1721f27f89c00800000000000000
+      internalID: 907747106460133398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus027
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3687
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6702fd6e6dae9f0800000000000000
+      internalID: -438301726640933134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus028
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3584
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed462da7d61ebf40800000000000000
+      internalID: 5746055290150079971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus029
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3584
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf98efd6dd6f17c0800000000000000
+      internalID: -4098436366236868694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus030
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3584
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e947d32e4125f0b0800000000000000
+      internalID: -5695609534247646748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus031
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3584
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331fd0f596d55c820800000000000000
+      internalID: 2937857039076815155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus032
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3584
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b94dda6ca962c490800000000000000
+      internalID: -7727497821366171211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus033
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3584
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cb8ee9b80ad6fa0800000000000000
+      internalID: -5805807823083750279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus034
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3584
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaf378365119c220800000000000000
+      internalID: 2506553729620376302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus035
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3481
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6a8f240269a9050800000000000000
+      internalID: 5808119734754387649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus036
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3481
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd19563f4c6b91910800000000000000
+      internalID: 1808677682379330011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus037
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3481
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd54f37b144d31da0800000000000000
+      internalID: -5975198901878176292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus038
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3481
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49346418bff43e890800000000000000
+      internalID: -7430007018606935148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus039
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 3481
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec4b60772ad9ff0800000000000000
+      internalID: -27687390597034271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus040
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 3481
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b0a2bb922d4cc20800000000000000
+      internalID: 3225934309779704677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus041
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3481
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0a5d16f1ad753c0800000000000000
+      internalID: -4370785085019545438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus042
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3378
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f7c012b93c5e10800000000000000
+      internalID: 2187686955943721225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus043
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3378
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1a6aca72e2019e0800000000000000
+      internalID: -1652770315309768270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus044
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3378
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74405128e175f380800000000000000
+      internalID: -8938112643641621378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus045
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3378
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270b0ebc348c8a3f0800000000000000
+      internalID: -889240732896808846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus046
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3378
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca5664d7ea6a29a0800000000000000
+      internalID: -6257071188344415543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus047
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3378
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad0d2b4e03d10d80800000000000000
+      internalID: -8286109781040755284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus048
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3378
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3d6b048f459d1c0800000000000000
+      internalID: -4478454929228901443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus049
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3275
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b6b0504c65b9ca0800000000000000
+      internalID: -6009113877897581795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus050
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3275
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f43d82c35c564a0800000000000000
+      internalID: -6600652816667947130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus051
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3275
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e945501d73f91ff00800000000000000
+      internalID: 1148874442034992286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus052
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3275
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589d2d3fbb864c560800000000000000
+      internalID: 7333101249724864901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus053
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3275
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbee8fa272135360800000000000000
+      internalID: 7157084516602801079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus054
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3275
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101aa8df8a2cfa6b0800000000000000
+      internalID: -5282789806818287359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus055
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 3275
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f36bb381889ab90800000000000000
+      internalID: -7230098089104228554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus056
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3172
+        width: 571
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4956217, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51458e22bdd4a1b10800000000000000
+      internalID: 1952958991997359125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus057
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3172
+        width: 571
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4956217, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f997e479ef11826a0800000000000000
+      internalID: -6473904679187220065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus058
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 3172
+        width: 571
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4956217, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805a49548bc30b0c0800000000000000
+      internalID: -4562079660387293944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus059
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 3172
+        width: 571
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4956217, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29af4b1594d409ec0800000000000000
+      internalID: -3562262327951295854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus060
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 3172
+        width: 571
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4956217, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70b8aa2ed4034660800000000000000
+      internalID: 7368738767553212540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus061
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 3172
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0d300ac430e7330800000000000000
+      internalID: 3710406770636869853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus062
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 3172
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9111026f72c425680800000000000000
+      internalID: -8767861790020202215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus063
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3069
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183653c5dc0e9a890800000000000000
+      internalID: -7446173336260484223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus064
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3069
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edbddb8036d962f0800000000000000
+      internalID: -979015939983032860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus065
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3069
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195fd89153d27d280800000000000000
+      internalID: -9018690022700878447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus066
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3069
+        width: 574
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49825785, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3521eb4c8460c3dd0800000000000000
+      internalID: -2505120383116635565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus067
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 3069
+        width: 574
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49825785, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbaddd432b5283e0800000000000000
+      internalID: -2052978272939168772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus068
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 3069
+        width: 574
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49825785, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8847345d284d80e30800000000000000
+      internalID: 4470056288554022024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus069
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 3069
+        width: 574
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49825785, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d568c7fea9bf8a560800000000000000
+      internalID: 7325381436779562589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus070
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2966
+        width: 574
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49825785, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff406b88bf09b0cc0800000000000000
+      internalID: -3743739255223614209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus071
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2966
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5970eed044ce68320800000000000000
+      internalID: 2559993215242340245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus072
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2966
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f9a703905869a30800000000000000
+      internalID: 4221707975220961031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus073
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2966
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bfbcd38becfc800800000000000000
+      internalID: 634953363188611872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus074
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 2966
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d292a0b561f0fcd90800000000000000
+      internalID: -7075419900884670163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus075
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 2966
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156dfc806d9f7c7d0800000000000000
+      internalID: -2898073137523468719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus076
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2966
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f918d2aca0c71e10800000000000000
+      internalID: 2168413593301162486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus077
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2863
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd81e7a470adcf700800000000000000
+      internalID: 575574577245984989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus078
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2863
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8db6c9d956574bd0800000000000000
+      internalID: -2646051312151118450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus079
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2863
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65996d53570141320800000000000000
+      internalID: 2527663386462165334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus080
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2863
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47aaadfa5cb6acc0800000000000000
+      internalID: -3700062944849385651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus081
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2863
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eecb4788b12a9ec0800000000000000
+      internalID: -3559495479055364379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus082
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2863
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7062fb61aa17090800000000000000
+      internalID: -8038456845206681646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus083
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2863
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeec87bfb870b170800000000000000
+      internalID: 8192180487000485545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus084
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2760
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58751c43b91ed3430800000000000000
+      internalID: 3764412920272869253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus085
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2760
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c733f90c32f620800000000000000
+      internalID: 2806371531238130974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus086
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2760
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d0f657af623f1c0800000000000000
+      internalID: -4471187147894878872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus087
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2760
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4df1abfac61fe40800000000000000
+      internalID: 5688447306343371959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus088
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2760
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb421ab43e7579f0800000000000000
+      internalID: -471331821065188378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus089
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2760
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a113838f13f552eb0800000000000000
+      internalID: -4745281964142481126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus090
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2760
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c3a24ccbab441f0800000000000000
+      internalID: -1061518292244874214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus091
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2657
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329b1343424928e80800000000000000
+      internalID: -8177811090135992029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus092
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2657
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c932d8b07a61eb0800000000000000
+      internalID: -4749425088961209307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus093
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2657
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba7ddcde5495d00800000000000000
+      internalID: 961876883083340574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus094
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2657
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df67c98658f96c0d0800000000000000
+      internalID: -3402857073097279747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus095
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2657
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b93d2dda52cb140800000000000000
+      internalID: 4736702336583572344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus096
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2657
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14cc84b1f89e7fe0800000000000000
+      internalID: -1189345087695567845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus097
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2657
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509face4a153bc530800000000000000
+      internalID: 3876250291389790469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus098
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2554
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819cd916f028f4770800000000000000
+      internalID: 8597233216247417112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus099
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2554
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb00a14acbd69c860800000000000000
+      internalID: 7550686907237793979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus100
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2554
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb724074085d2990800000000000000
+      internalID: -7409169035868079116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus101
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 2554
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523d088ebff507e40800000000000000
+      internalID: 5652123067892159269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus102
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 2554
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5809ab8e204a93a0800000000000000
+      internalID: -6657938530458072994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus103
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 2554
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f14e42f8ebe2e0800000000000000
+      internalID: -2095325074218158791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus104
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 2554
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e618162784f2338f0800000000000000
+      internalID: -562053540288036498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2451
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c143fd743d032c070800000000000000
+      internalID: 8125110361731839004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus106
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2451
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0158f0a2a78bb10800000000000000
+      internalID: 1997480755806408901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus107
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2451
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00fbb30fb78a7fb0800000000000000
+      internalID: -4649254410835464177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus108
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2451
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43be512731d4abb0800000000000000
+      internalID: -4925582057723219125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus109
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2451
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa62f5a954062180800000000000000
+      internalID: -9140613610619114844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus110
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2453
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be10716d6a76ff810800000000000000
+      internalID: 1801272342225551851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus111
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2453
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2847188cf3db970800000000000000
+      internalID: 8772237779585499882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2350
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb9889a35c3fcc40800000000000000
+      internalID: 5534708797085883312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus113
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2350
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f245a5f2bc48850800000000000000
+      internalID: 6378446376502832965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus114
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2350
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a2ce6c2ede169c0800000000000000
+      internalID: -3935603041089344900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus115
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2348
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe2a300a1306aa20800000000000000
+      internalID: 3073147205934788343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus116
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2348
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1df5bbec460cfd40800000000000000
+      internalID: 5619373362493390110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus117
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2348
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef82e08945fa580800000000000000
+      internalID: -8813732933691441557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus118
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2348
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb61d27d738e01c0800000000000000
+      internalID: -4535543199895032835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus119
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2245
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27fc3ad3c6f63eb0800000000000000
+      internalID: -4740330236720384212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus120
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2245
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03871d4f4603af250800000000000000
+      internalID: 5979144665449986096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2245
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd05bf82ca5efb770800000000000000
+      internalID: 8628867938649854175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus122
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2245
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ddf71c4cb6bf0c0800000000000000
+      internalID: -4540917306468868743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus123
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2245
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2afecd24c8fa2f0800000000000000
+      internalID: -959393976804203860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus124
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2245
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cbdf93505c433c0800000000000000
+      internalID: -4380659911286211434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus125
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2245
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f1237ad61215bc0800000000000000
+      internalID: -3796216256056385684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2142
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2557949e40ff3f170800000000000000
+      internalID: 8211186942185403730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus127
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2142
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b9478c4d55bf780800000000000000
+      internalID: -8648224287050392794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus128
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2142
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fba7db3b69e37e50800000000000000
+      internalID: 6806040108661713907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus129
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2142
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13267806aa6ec2240800000000000000
+      internalID: 4768439724916826673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus130
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2142
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c5c34af8dceb750800000000000000
+      internalID: 6322716943694191668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus131
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2142
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e885095a3713a80800000000000000
+      internalID: -8488876667688153518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus132
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2142
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a7898495a23d7b0800000000000000
+      internalID: -5200766581724382690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus133
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2039
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ad20ae73635ab70800000000000000
+      internalID: 8909587051599551041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus134
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2039
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867100eb12c9f6530800000000000000
+      internalID: 3850467875160594280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus135
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2039
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d15161f481e4c50800000000000000
+      internalID: 6651280427624766745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus136
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2039
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1047a9f335b56400800000000000000
+      internalID: 316858583635935260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus137
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2039
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81af289c33003140800000000000000
+      internalID: 4697257970133606797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus138
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2039
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c333fbb26d63e34e0800000000000000
+      internalID: -2000100891021069508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus139
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2039
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a285ecaaa4423fd30800000000000000
+      internalID: 4463951558766123050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1936
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a66c9421809a360800000000000000
+      internalID: 7181279955459140145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus141
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1936
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdec97883b99dbe0800000000000000
+      internalID: -1451958737754591800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus142
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1936
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479902d35d9d494b0800000000000000
+      internalID: -5434479340452537996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus143
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1936
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d926d90fb6ef6a40800000000000000
+      internalID: 5363759389399722456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus144
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1936
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a11aacf7c3c95450800000000000000
+      internalID: 6078104435818107299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus145
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1936
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bea9918b0890c550800000000000000
+      internalID: 6179105863938715317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus146
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1936
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e144055a68da39150800000000000000
+      internalID: 5878232732459353118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus147
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1833
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed04360153667a6c0800000000000000
+      internalID: -4132221754994900770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus148
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1833
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaadafcf037093bc0800000000000000
+      internalID: -3803000503353550166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus149
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1833
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5b7021f8b25cd10800000000000000
+      internalID: 2145168690994722224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus150
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1833
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db5378d3345896d0800000000000000
+      internalID: -2983542171481449511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus151
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1833
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c11987e82bae4a0800000000000000
+      internalID: -6563237181961200486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus152
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1833
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe75271a6c26e500800000000000000
+      internalID: 425076048999579381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus153
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1833
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286cafcd0ad486d10800000000000000
+      internalID: 2119028977975346818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus154
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1730
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d3e259acf647d0800000000000000
+      internalID: -2934380303014964052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus155
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1730
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1200b45935a24f7d0800000000000000
+      internalID: -2885634922762272735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus156
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1730
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc02e31da3ebbe550800000000000000
+      internalID: 6191251272578769099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus157
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1730
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e66c65979256a0800000000000000
+      internalID: -6461935847298636364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus158
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1730
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008900db6b5b76980800000000000000
+      internalID: -8545661971452618752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus159
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1730
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b411ce1e9eb5ee50800000000000000
+      internalID: 6838081195562046642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus160
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1730
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfcb94b68d283230800000000000000
+      internalID: 3618692357171171264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus161
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1627
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6993dfffc40aaf0800000000000000
+      internalID: -387224905605081351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus162
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1627
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fedf1c3459152440800000000000000
+      internalID: 4910358818294062841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus163
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1627
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c35ddd9d1a81340800000000000000
+      internalID: 4834792157083941934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus164
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1627
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd2cde5757962d00800000000000000
+      internalID: 947611173117504970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus165
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1627
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357ebafe935d5ddc0800000000000000
+      internalID: -3614748681084082349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus166
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1627
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e596adb61a6f9f00800000000000000
+      internalID: 1125735077769549282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus167
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1627
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c16ecfd43527690800000000000000
+      internalID: -7605925226254820253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus168
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1524
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f098545a443823510800000000000000
+      internalID: 1527427554485831951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus169
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1526
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ee28ffcf86a73a0800000000000000
+      internalID: -6666900862540780020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus170
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1526
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9505ec091444edb70800000000000000
+      internalID: 8925646559887904857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus171
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1526
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43680ea4c7dee4ea0800000000000000
+      internalID: -5886506544838703564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus172
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1526
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1430ae8962b33f420800000000000000
+      internalID: 2662536841666364225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus173
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1526
+        width: 566
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49823323, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42da78ba26ee4d40800000000000000
+      internalID: 5570642860261954124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus174
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1523
+        width: 567
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba438e4c6a2419c40800000000000000
+      internalID: 5517264302541124779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus175
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1419
+        width: 567
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef8e26b5c041f040800000000000000
+      internalID: 4679592705723895788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus176
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1419
+        width: 567
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3988676b35303d070800000000000000
+      internalID: 8129845410412267667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus177
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1419
+        width: 567
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930950113f3ed6150800000000000000
+      internalID: 5867596522635759673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus178
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1419
+        width: 567
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03b48b715a0c8bc0800000000000000
+      internalID: -3779634642189765873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus179
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1418
+        width: 567
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.5154639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254f144f8b9ca9600800000000000000
+      internalID: 475914506850137170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus180
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 1420
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2475d4add15992340800000000000000
+      internalID: 4839563230035400514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus181
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1420
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5320bd01601a4d180800000000000000
+      internalID: -9091464700329524683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus182
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1315
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8adc40434c76ea20800000000000000
+      internalID: 3091294822519855755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus183
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1315
+        width: 567
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e93adc5eb016c920800000000000000
+      internalID: 3010111810731391460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus184
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1315
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c4f8f6543272f0800000000000000
+      internalID: -976660621037354983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus185
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1315
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739126e6f1e76f680800000000000000
+      internalID: -8721644954895378121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus186
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 1315
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117b12f6985067bb0800000000000000
+      internalID: -4938753853532031215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus187
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 1315
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fc68106de3b2470800000000000000
+      internalID: 8370853421267734276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus188
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1315
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c7f00b0ec0e9d40800000000000000
+      internalID: 5592921946406747168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus189
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1212
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fe814c515543100800000000000000
+      internalID: 86787844799524725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus190
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1212
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19b813675d384900800000000000000
+      internalID: 668851990198532382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus191
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1212
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e8073d063838ed0800000000000000
+      internalID: -2412940523452985702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus192
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1212
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e8ba27109079400800000000000000
+      internalID: 330742999458483868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus193
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1212
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e524e5ee70e3240800000000000000
+      internalID: 4773261375424323169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus194
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1211
+        width: 573
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5008726, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d15594de479aa60800000000000000
+      internalID: 7685802801570848151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus195
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 1211
+        width: 573
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5008726, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3864f30ea8652f0800000000000000
+      internalID: -984446772794981430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus196
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1107
+        width: 573
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5008726, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bb5e95b0d476ac0800000000000000
+      internalID: -3862033444298703990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus197
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1107
+        width: 573
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5008726, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb98a1d9b4fb241a0800000000000000
+      internalID: -6826683753661036097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus198
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1107
+        width: 573
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5008726, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d923352c34a01a90800000000000000
+      internalID: -7345190414012175920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus199
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1108
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf96a61fd1065b170800000000000000
+      internalID: 8193560778791086587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus200
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1108
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bcad65702929430800000000000000
+      internalID: 3788250796791614355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus201
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 1108
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ab16b7e74430580800000000000000
+      internalID: -8862164331708433905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus202
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 1108
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0815dcb7cd648840800000000000000
+      internalID: 5225422172290619406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus203
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1004
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0e9e2f8a33206e0800000000000000
+      internalID: -1872877694309769039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus204
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1004
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9072c74a15c5bb30800000000000000
+      internalID: 4302561735686123674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus205
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1004
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd06c8750ee6c2f0800000000000000
+      internalID: -952812563873788418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus206
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1004
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bead393e569c0e10800000000000000
+      internalID: 2165270852289801905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus207
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1004
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc5250f099b7d80800000000000000
+      internalID: -8251833602436379272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus208
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1003
+        width: 565
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50088495, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38e490e07c075c20800000000000000
+      internalID: 3195036139586381883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus209
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1003
+        width: 565
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50088495, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467c5b30c24890a20800000000000000
+      internalID: 3029097548959041380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus210
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 899
+        width: 565
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50088495, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5e5fb279bc591f0800000000000000
+      internalID: -1038700288900995639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus211
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 899
+        width: 565
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50088495, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814cbd68e96af8830800000000000000
+      internalID: 4075659387591181336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus212
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 899
+        width: 565
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50088495, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf45fa656c0b1400800000000000000
+      internalID: 295843830248591324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus213
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 900
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c364de46653350cc0800000000000000
+      internalID: -3745531068935223748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus214
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 900
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3340371ad850ad780800000000000000
+      internalID: -8657601227809160141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus215
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 900
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e497f26edc87960800000000000000
+      internalID: 7600050759710363247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus216
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 900
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b850d3cf080674800800000000000000
+      internalID: 596551582753817995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus217
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 796
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eed0fa854e28730800000000000000
+      internalID: 4000010488603602458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus218
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 796
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfea5db0e12d6ea0800000000000000
+      internalID: -5878004689515384883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus219
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 796
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6bb8343ae9336d0800000000000000
+      internalID: -3011889301730642228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus220
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 796
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef6697ba7f002b30800000000000000
+      internalID: 4260422267233005536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus221
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 796
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30daba14dc1401dd0800000000000000
+      internalID: -2517439841874236157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus222
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 796
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab28a925f0e0170800000000000000
+      internalID: 8146465623413799560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus223
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 796
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893a0a5830d1826f0800000000000000
+      internalID: -709285040346848360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus224
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 693
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b3c588a0806ac80800000000000000
+      internalID: -8311947220935230611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus225
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 693
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ca376f3ba3180f0800000000000000
+      internalID: -1116546688002839489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus226
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 693
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf1b313e77dbee30800000000000000
+      internalID: 4533954386870345663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus227
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 693
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a505962293a55a650800000000000000
+      internalID: 6243495659856023642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus228
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 693
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d695ecb80ba940800000000000000
+      internalID: 5308346193185002196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus229
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 693
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c0250a99273b80800000000000000
+      internalID: -8415211637230746307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus230
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 693
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84a88b1a9ca19ee0800000000000000
+      internalID: -1256033043172776817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opcionsMayus231
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 590
+        width: 566
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51578945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8c0b095e93ecac0800000000000000
+      internalID: -3833062574707914587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

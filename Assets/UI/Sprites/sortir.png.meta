@@ -1,0 +1,6426 @@
+fileFormatVersion: 2
+guid: 0c2f5be30a6c56a42ad030c9591156e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6077860764206583439
+    second: sortir_0
+  - first:
+      213: -4485522008299850117
+    second: sortir_1
+  - first:
+      213: 3303083262458236476
+    second: sortir_2
+  - first:
+      213: 3976778004556594165
+    second: sortir_3
+  - first:
+      213: -3732580575757050492
+    second: sortir_4
+  - first:
+      213: 4919585341173309363
+    second: sortir_5
+  - first:
+      213: -1475598166438813003
+    second: sortir_6
+  - first:
+      213: -8127094267946047996
+    second: sortir_7
+  - first:
+      213: 1617220067096518716
+    second: sortir_8
+  - first:
+      213: -4062991841277491201
+    second: sortir_9
+  - first:
+      213: 2684602954479612486
+    second: sortir_10
+  - first:
+      213: 3076552040192912130
+    second: sortir_11
+  - first:
+      213: 667298963800214424
+    second: sortir_12
+  - first:
+      213: 4461483148222970821
+    second: sortir_13
+  - first:
+      213: -3638166471938321058
+    second: sortir_14
+  - first:
+      213: -1994452180903653544
+    second: sortir_15
+  - first:
+      213: 8027437764550732196
+    second: sortir_16
+  - first:
+      213: -351709601565145222
+    second: sortir_17
+  - first:
+      213: -7332025009641549142
+    second: sortir_18
+  - first:
+      213: -4257643773115702795
+    second: sortir_19
+  - first:
+      213: -1226831442779628520
+    second: sortir_20
+  - first:
+      213: -5191184881464487406
+    second: sortir_21
+  - first:
+      213: -5609385756959763516
+    second: sortir_22
+  - first:
+      213: 4905096330632831694
+    second: sortir_23
+  - first:
+      213: 4376634278860975736
+    second: sortir_24
+  - first:
+      213: 1351295198925524197
+    second: sortir_25
+  - first:
+      213: -7379190357887238406
+    second: sortir_26
+  - first:
+      213: 587199546085193178
+    second: sortir_27
+  - first:
+      213: 2798073417873243816
+    second: sortir_28
+  - first:
+      213: 4757157944595878029
+    second: sortir_29
+  - first:
+      213: -8882958341427609035
+    second: sortir_30
+  - first:
+      213: 4757268237935825800
+    second: sortir_31
+  - first:
+      213: 3706936382376504659
+    second: sortir_32
+  - first:
+      213: -6021025586117480830
+    second: sortir_33
+  - first:
+      213: -7378076076874571142
+    second: sortir_34
+  - first:
+      213: 7900788250570048402
+    second: sortir_35
+  - first:
+      213: -8291317982923737164
+    second: sortir_36
+  - first:
+      213: -6600706437004333683
+    second: sortir_37
+  - first:
+      213: 1268037726792739907
+    second: sortir_38
+  - first:
+      213: -4815068702007405084
+    second: sortir_39
+  - first:
+      213: -6331296430984944280
+    second: sortir_40
+  - first:
+      213: 8932287278488095347
+    second: sortir_41
+  - first:
+      213: -2213445811177652382
+    second: sortir_42
+  - first:
+      213: -112100680032391414
+    second: sortir_43
+  - first:
+      213: -2255909240699376607
+    second: sortir_44
+  - first:
+      213: 8913945389589146802
+    second: sortir_45
+  - first:
+      213: 938620130426284213
+    second: sortir_46
+  - first:
+      213: 8773251712267754267
+    second: sortir_47
+  - first:
+      213: 5266571724672460600
+    second: sortir_48
+  - first:
+      213: -6059455363260096231
+    second: sortir_49
+  - first:
+      213: 3928124776154330788
+    second: sortir_50
+  - first:
+      213: 3799506608280775697
+    second: sortir_51
+  - first:
+      213: 6708615892355594524
+    second: sortir_52
+  - first:
+      213: 4886849767271124842
+    second: sortir_53
+  - first:
+      213: -1533942063886700957
+    second: sortir_54
+  - first:
+      213: -1473759505060794268
+    second: sortir_55
+  - first:
+      213: -5226557577889733488
+    second: sortir_56
+  - first:
+      213: -5267140659375357698
+    second: sortir_57
+  - first:
+      213: 7028525060896485413
+    second: sortir_58
+  - first:
+      213: 2312856263523724410
+    second: sortir_59
+  - first:
+      213: 2965525176241512783
+    second: sortir_60
+  - first:
+      213: -1478286782704957888
+    second: sortir_61
+  - first:
+      213: 7271212739413090972
+    second: sortir_62
+  - first:
+      213: 87418043346866771
+    second: sortir_63
+  - first:
+      213: -6441944006319844416
+    second: sortir_64
+  - first:
+      213: 6265216722884406862
+    second: sortir_65
+  - first:
+      213: 2528986400983962349
+    second: sortir_66
+  - first:
+      213: -6431280411568698626
+    second: sortir_67
+  - first:
+      213: -918891662589121052
+    second: sortir_68
+  - first:
+      213: -6781782557380433632
+    second: sortir_69
+  - first:
+      213: -8963209287408686010
+    second: sortir_70
+  - first:
+      213: -7302912080882912756
+    second: sortir_71
+  - first:
+      213: -7255420994472489210
+    second: sortir_72
+  - first:
+      213: 2482794507326036541
+    second: sortir_73
+  - first:
+      213: -852533739957834921
+    second: sortir_74
+  - first:
+      213: 3280719057736398124
+    second: sortir_75
+  - first:
+      213: 1697308509271249929
+    second: sortir_76
+  - first:
+      213: -4261514635404454714
+    second: sortir_77
+  - first:
+      213: 5321756378695796160
+    second: sortir_78
+  - first:
+      213: 3102760739135904765
+    second: sortir_79
+  - first:
+      213: -6573355610769844141
+    second: sortir_80
+  - first:
+      213: 8401798222070333888
+    second: sortir_81
+  - first:
+      213: 2781349623918507934
+    second: sortir_82
+  - first:
+      213: 1493432107658213069
+    second: sortir_83
+  - first:
+      213: 6808993902997114347
+    second: sortir_84
+  - first:
+      213: -4294531464813717200
+    second: sortir_85
+  - first:
+      213: 1723703138055281226
+    second: sortir_86
+  - first:
+      213: -234901008106452653
+    second: sortir_87
+  - first:
+      213: -4414000761930991681
+    second: sortir_88
+  - first:
+      213: -3777274284676527572
+    second: sortir_89
+  - first:
+      213: -7233418557667579523
+    second: sortir_90
+  - first:
+      213: 5402978305913913042
+    second: sortir_91
+  - first:
+      213: 4211329391061019236
+    second: sortir_92
+  - first:
+      213: 7385546261691634914
+    second: sortir_93
+  - first:
+      213: -9066318177348721588
+    second: sortir_94
+  - first:
+      213: 9010652347915511923
+    second: sortir_95
+  - first:
+      213: 2243503834193939036
+    second: sortir_96
+  - first:
+      213: -3158128238955864870
+    second: sortir_97
+  - first:
+      213: -7767362300358799357
+    second: sortir_98
+  - first:
+      213: -3786244995412912032
+    second: sortir_99
+  - first:
+      213: -4067382230004175136
+    second: sortir_100
+  - first:
+      213: -4171351090843905504
+    second: sortir_101
+  - first:
+      213: -4554006487250011404
+    second: sortir_102
+  - first:
+      213: 5237300659605244638
+    second: sortir_103
+  - first:
+      213: -1200659110934327764
+    second: sortir_104
+  - first:
+      213: -241290803327363357
+    second: sortir_105
+  - first:
+      213: -1505282372553042251
+    second: sortir_106
+  - first:
+      213: -6575299815680521250
+    second: sortir_107
+  - first:
+      213: -8500677956159064634
+    second: sortir_108
+  - first:
+      213: -4712408347831915835
+    second: sortir_109
+  - first:
+      213: 1852331968046987193
+    second: sortir_110
+  - first:
+      213: -7375975281166671980
+    second: sortir_111
+  - first:
+      213: 4122360368566511422
+    second: sortir_112
+  - first:
+      213: 5204514047605064955
+    second: sortir_113
+  - first:
+      213: -637997705130018813
+    second: sortir_114
+  - first:
+      213: -7242659396749378260
+    second: sortir_115
+  - first:
+      213: -8154382929316750703
+    second: sortir_116
+  - first:
+      213: 1307251951021924027
+    second: sortir_117
+  - first:
+      213: -8968097923102314734
+    second: sortir_118
+  - first:
+      213: 676634740358475687
+    second: sortir_119
+  - first:
+      213: 7281357920848255668
+    second: sortir_120
+  - first:
+      213: -5764756711292234447
+    second: sortir_121
+  - first:
+      213: -8713920372288856157
+    second: sortir_122
+  - first:
+      213: -4527412487083847814
+    second: sortir_123
+  - first:
+      213: 3876262924824446416
+    second: sortir_124
+  - first:
+      213: 1816354690787322884
+    second: sortir_125
+  - first:
+      213: 5275225284608983879
+    second: sortir_126
+  - first:
+      213: 891314838691508862
+    second: sortir_127
+  - first:
+      213: 646843092699312688
+    second: sortir_128
+  - first:
+      213: -8646202584169905155
+    second: sortir_129
+  - first:
+      213: -6763015886709487057
+    second: sortir_130
+  - first:
+      213: 2049496561128560898
+    second: sortir_131
+  - first:
+      213: -773546564457429615
+    second: sortir_132
+  - first:
+      213: 4891411181611736930
+    second: sortir_133
+  - first:
+      213: 7846796097262339569
+    second: sortir_134
+  - first:
+      213: -7962321824321898404
+    second: sortir_135
+  - first:
+      213: 6325711630309080576
+    second: sortir_136
+  - first:
+      213: 5381436803496449205
+    second: sortir_137
+  - first:
+      213: 325952861227148023
+    second: sortir_138
+  - first:
+      213: 7162770046887727277
+    second: sortir_139
+  - first:
+      213: 4143675914256000871
+    second: sortir_140
+  - first:
+      213: 8366741889957067959
+    second: sortir_141
+  - first:
+      213: -3556370248717515638
+    second: sortir_142
+  - first:
+      213: 3286823379977712298
+    second: sortir_143
+  - first:
+      213: 2579278239888443946
+    second: sortir_144
+  - first:
+      213: 6593170488111184310
+    second: sortir_145
+  - first:
+      213: -2128362112184174925
+    second: sortir_146
+  - first:
+      213: -3058454099079065222
+    second: sortir_147
+  - first:
+      213: 9127324765005999986
+    second: sortir_148
+  - first:
+      213: 8140474683297670941
+    second: sortir_149
+  - first:
+      213: 2450533230606094055
+    second: sortir_150
+  - first:
+      213: 7569574968008770329
+    second: sortir_151
+  - first:
+      213: -1330711786253912333
+    second: sortir_152
+  - first:
+      213: 4374205444161818053
+    second: sortir_153
+  - first:
+      213: 1606120542294402822
+    second: sortir_154
+  - first:
+      213: 5488153626288499142
+    second: sortir_155
+  - first:
+      213: 3883264014806739898
+    second: sortir_156
+  - first:
+      213: 6470506531007383603
+    second: sortir_157
+  - first:
+      213: 8149427857051684837
+    second: sortir_158
+  - first:
+      213: -3636349115164434117
+    second: sortir_159
+  - first:
+      213: 4408702692138001815
+    second: sortir_160
+  - first:
+      213: 1411204310724906238
+    second: sortir_161
+  - first:
+      213: 6819308100638276060
+    second: sortir_162
+  - first:
+      213: -9052151088174960677
+    second: sortir_163
+  - first:
+      213: -6148545945459625924
+    second: sortir_164
+  - first:
+      213: 2437125363712416403
+    second: sortir_165
+  - first:
+      213: 4207899867658498272
+    second: sortir_166
+  - first:
+      213: 7615663292031790725
+    second: sortir_167
+  - first:
+      213: 5910325607594758723
+    second: sortir_168
+  - first:
+      213: -3598649402982138846
+    second: sortir_169
+  - first:
+      213: -2698551278090372643
+    second: sortir_170
+  - first:
+      213: 7193816272394138165
+    second: sortir_171
+  - first:
+      213: -1017792224760502212
+    second: sortir_172
+  - first:
+      213: 7608183783017526375
+    second: sortir_173
+  - first:
+      213: 6320559323968601528
+    second: sortir_174
+  - first:
+      213: 3662045532969695286
+    second: sortir_175
+  - first:
+      213: 6961514556846419586
+    second: sortir_176
+  - first:
+      213: 9204764931885140584
+    second: sortir_177
+  - first:
+      213: -1718943024999233951
+    second: sortir_178
+  - first:
+      213: 5165427353015812330
+    second: sortir_179
+  - first:
+      213: -7571199242300809063
+    second: sortir_180
+  - first:
+      213: 6700089170628710788
+    second: sortir_181
+  - first:
+      213: 8832116028433761550
+    second: sortir_182
+  - first:
+      213: -7435277794898198018
+    second: sortir_183
+  - first:
+      213: -5353301487754098412
+    second: sortir_184
+  - first:
+      213: 4151129913785294908
+    second: sortir_185
+  - first:
+      213: -122473081689754860
+    second: sortir_186
+  - first:
+      213: 613543948990922347
+    second: sortir_187
+  - first:
+      213: -501475470773726706
+    second: sortir_188
+  - first:
+      213: -3000793007724109829
+    second: sortir_189
+  - first:
+      213: 4149605215255698169
+    second: sortir_190
+  - first:
+      213: -8770415547711410965
+    second: sortir_191
+  - first:
+      213: -1428600184140379321
+    second: sortir_192
+  - first:
+      213: -7919106970505089533
+    second: sortir_193
+  - first:
+      213: 4190694201241337417
+    second: sortir_194
+  - first:
+      213: -5163517437156404523
+    second: sortir_195
+  - first:
+      213: 1936833504681203439
+    second: sortir_196
+  - first:
+      213: -2049039357982112182
+    second: sortir_197
+  - first:
+      213: 4131753703061277368
+    second: sortir_198
+  - first:
+      213: 821444232121477823
+    second: sortir_199
+  - first:
+      213: 7044107009097141466
+    second: sortir_200
+  - first:
+      213: 8934074043874461548
+    second: sortir_201
+  - first:
+      213: -3485317773471041377
+    second: sortir_202
+  - first:
+      213: -3697355019561362540
+    second: sortir_203
+  - first:
+      213: 402281156420872555
+    second: sortir_204
+  - first:
+      213: 9106627567798174058
+    second: sortir_205
+  - first:
+      213: 5549323600367944644
+    second: sortir_206
+  - first:
+      213: 3585656535976860535
+    second: sortir_207
+  - first:
+      213: 1273731743941336718
+    second: sortir_208
+  - first:
+      213: 2465563472217734169
+    second: sortir_209
+  - first:
+      213: -6053100344848824931
+    second: sortir_210
+  - first:
+      213: 8755642951965574969
+    second: sortir_211
+  - first:
+      213: 1546512239689424313
+    second: sortir_212
+  - first:
+      213: 3968831392403297277
+    second: sortir_213
+  - first:
+      213: -3414632171269472769
+    second: sortir_214
+  - first:
+      213: -346054902023674220
+    second: sortir_215
+  - first:
+      213: -3295889883372031792
+    second: sortir_216
+  - first:
+      213: 1331700565945241171
+    second: sortir_217
+  - first:
+      213: 9071206918074071787
+    second: sortir_218
+  - first:
+      213: -8016640733016097404
+    second: sortir_219
+  - first:
+      213: 5999005571885138542
+    second: sortir_220
+  - first:
+      213: 2484089693076411073
+    second: sortir_221
+  - first:
+      213: -6347915747398086729
+    second: sortir_222
+  - first:
+      213: -5768825258486412055
+    second: sortir_223
+  - first:
+      213: -5004576176613612701
+    second: sortir_224
+  - first:
+      213: -4173638473502685378
+    second: sortir_225
+  - first:
+      213: -5541953110539016259
+    second: sortir_226
+  - first:
+      213: -9001851690723532340
+    second: sortir_227
+  - first:
+      213: 4367684843474828541
+    second: sortir_228
+  - first:
+      213: 3541550713322852909
+    second: sortir_229
+  - first:
+      213: 6863015632771952492
+    second: sortir_230
+  - first:
+      213: 1471272459586541325
+    second: sortir_231
+  - first:
+      213: 2545086810877960031
+    second: sortir_232
+  - first:
+      213: 3728562940027870676
+    second: sortir_233
+  - first:
+      213: 2756169851360858570
+    second: sortir000
+  - first:
+      213: 9104098343327983595
+    second: sortir001
+  - first:
+      213: -4241197436434063002
+    second: sortir002
+  - first:
+      213: 1007113221861528534
+    second: sortir003
+  - first:
+      213: 940899365120475460
+    second: sortir004
+  - first:
+      213: 2671865834886971470
+    second: sortir005
+  - first:
+      213: -3889443344093200274
+    second: sortir006
+  - first:
+      213: 1475501419142552735
+    second: sortir007
+  - first:
+      213: -1893948977566271916
+    second: sortir008
+  - first:
+      213: -8011527115836189662
+    second: sortir009
+  - first:
+      213: -4887814906298356300
+    second: sortir010
+  - first:
+      213: -4025581591378717023
+    second: sortir011
+  - first:
+      213: 6860330040029441960
+    second: sortir012
+  - first:
+      213: 9194509360061573932
+    second: sortir013
+  - first:
+      213: 8308270262712276243
+    second: sortir014
+  - first:
+      213: 3238628061506348835
+    second: sortir015
+  - first:
+      213: -1734464019946424736
+    second: sortir016
+  - first:
+      213: -4138661429916455866
+    second: sortir017
+  - first:
+      213: 8996013147041685706
+    second: sortir018
+  - first:
+      213: -8667612682303898086
+    second: sortir019
+  - first:
+      213: 8939666902808697250
+    second: sortir020
+  - first:
+      213: 8792372869533530742
+    second: sortir021
+  - first:
+      213: 5494532179544699184
+    second: sortir022
+  - first:
+      213: -2631218570358068856
+    second: sortir023
+  - first:
+      213: 8681237718801965798
+    second: sortir024
+  - first:
+      213: 5735787112712213650
+    second: sortir025
+  - first:
+      213: -2564627459631247163
+    second: sortir026
+  - first:
+      213: -7983953085654031420
+    second: sortir027
+  - first:
+      213: -4175790361882077111
+    second: sortir028
+  - first:
+      213: 8301151028733484507
+    second: sortir029
+  - first:
+      213: -3160655452076468031
+    second: sortir030
+  - first:
+      213: -1795467623020792946
+    second: sortir031
+  - first:
+      213: 4833253729271173376
+    second: sortir032
+  - first:
+      213: -59151433964974927
+    second: sortir033
+  - first:
+      213: -5389127485197169987
+    second: sortir034
+  - first:
+      213: 5284108737677970939
+    second: sortir035
+  - first:
+      213: 3844996691364155501
+    second: sortir036
+  - first:
+      213: -389410250640808207
+    second: sortir037
+  - first:
+      213: -7485202046070705308
+    second: sortir038
+  - first:
+      213: -5495136167177855918
+    second: sortir039
+  - first:
+      213: -3109169301364051823
+    second: sortir040
+  - first:
+      213: 7451129368576384985
+    second: sortir041
+  - first:
+      213: -4438530060541928284
+    second: sortir042
+  - first:
+      213: -8786099599323334434
+    second: sortir043
+  - first:
+      213: 6910299598317819822
+    second: sortir044
+  - first:
+      213: -5402209004073515381
+    second: sortir045
+  - first:
+      213: -6392052506929053311
+    second: sortir046
+  - first:
+      213: -7617648082039180973
+    second: sortir047
+  - first:
+      213: -6922501016958803260
+    second: sortir048
+  - first:
+      213: -951521146492904073
+    second: sortir049
+  - first:
+      213: -8852030239357668503
+    second: sortir050
+  - first:
+      213: -4636857751528621221
+    second: sortir051
+  - first:
+      213: 6581507800588615080
+    second: sortir052
+  - first:
+      213: 9068685617095421449
+    second: sortir053
+  - first:
+      213: -3747751687319764306
+    second: sortir054
+  - first:
+      213: -3390379268844208063
+    second: sortir055
+  - first:
+      213: 1448877147055449652
+    second: sortir056
+  - first:
+      213: 3938100295441705703
+    second: sortir057
+  - first:
+      213: 6972821614042345056
+    second: sortir058
+  - first:
+      213: 1682433386360716172
+    second: sortir059
+  - first:
+      213: -5704639940252675822
+    second: sortir060
+  - first:
+      213: -3157345486031959873
+    second: sortir061
+  - first:
+      213: -4772872269159212997
+    second: sortir062
+  - first:
+      213: -8155782241914225314
+    second: sortir063
+  - first:
+      213: 2657347968370793849
+    second: sortir064
+  - first:
+      213: -7015718895377982031
+    second: sortir065
+  - first:
+      213: -2621786983111039601
+    second: sortir066
+  - first:
+      213: 1570603977730884009
+    second: sortir067
+  - first:
+      213: 2269749787200268521
+    second: sortir068
+  - first:
+      213: 2567018553374687917
+    second: sortir069
+  - first:
+      213: -654986271067017599
+    second: sortir070
+  - first:
+      213: -3567333916064159747
+    second: sortir071
+  - first:
+      213: -4399739783648905172
+    second: sortir072
+  - first:
+      213: 8634717187528671314
+    second: sortir073
+  - first:
+      213: -8203185714443676719
+    second: sortir074
+  - first:
+      213: 1787128779869279889
+    second: sortir075
+  - first:
+      213: -2951828065552524667
+    second: sortir076
+  - first:
+      213: 1993502863935778572
+    second: sortir077
+  - first:
+      213: -1466051794792722481
+    second: sortir078
+  - first:
+      213: -4558486352062617161
+    second: sortir079
+  - first:
+      213: 4266457311174553394
+    second: sortir080
+  - first:
+      213: -3912564893092717949
+    second: sortir081
+  - first:
+      213: 4875383257855670375
+    second: sortir082
+  - first:
+      213: -8869015814878495194
+    second: sortir083
+  - first:
+      213: 5604963295544969436
+    second: sortir084
+  - first:
+      213: -7276672058624537750
+    second: sortir085
+  - first:
+      213: 8561768461230640796
+    second: sortir086
+  - first:
+      213: 8112107594108420115
+    second: sortir087
+  - first:
+      213: -4656834762915115659
+    second: sortir088
+  - first:
+      213: 2037016255493178719
+    second: sortir089
+  - first:
+      213: 7371075771566799022
+    second: sortir090
+  - first:
+      213: 1218327398107656192
+    second: sortir091
+  - first:
+      213: 4709625720872290369
+    second: sortir092
+  - first:
+      213: -8971151087125240940
+    second: sortir093
+  - first:
+      213: 1836125212796354396
+    second: sortir094
+  - first:
+      213: 6870867882285523109
+    second: sortir095
+  - first:
+      213: -6063911966849670142
+    second: sortir096
+  - first:
+      213: 8116589017032500743
+    second: sortir097
+  - first:
+      213: 8948845256995234020
+    second: sortir098
+  - first:
+      213: -7397920277948155328
+    second: sortir099
+  - first:
+      213: 5012822027952544395
+    second: sortir100
+  - first:
+      213: 1587675091974906192
+    second: sortir101
+  - first:
+      213: 1979845472332529139
+    second: sortir102
+  - first:
+      213: -4112306889983116465
+    second: sortir103
+  - first:
+      213: 3008107915255668274
+    second: sortir104
+  - first:
+      213: 3006294031191564371
+    second: sortir105
+  - first:
+      213: 1847491691750603610
+    second: sortir106
+  - first:
+      213: -2567913996063924266
+    second: sortir107
+  - first:
+      213: -4462223780384987178
+    second: sortir108
+  - first:
+      213: -8230392183676401053
+    second: sortir109
+  - first:
+      213: 8689109968474150289
+    second: sortir110
+  - first:
+      213: -73113094686758188
+    second: sortir111
+  - first:
+      213: -8702096049273086820
+    second: sortir112
+  - first:
+      213: 1333366199564230189
+    second: sortir113
+  - first:
+      213: 2687786421883133646
+    second: sortir114
+  - first:
+      213: 4375134670216818832
+    second: sortir115
+  - first:
+      213: 1330967585893346058
+    second: sortir116
+  - first:
+      213: 1855245255427996276
+    second: sortir117
+  - first:
+      213: 2031118287024529312
+    second: sortir118
+  - first:
+      213: 695715416900741617
+    second: sortir119
+  - first:
+      213: -5879347203171074195
+    second: sortir120
+  - first:
+      213: -3257249983506444806
+    second: sortir121
+  - first:
+      213: -2604224637573790161
+    second: sortir122
+  - first:
+      213: 8409780315336322811
+    second: sortir123
+  - first:
+      213: -1062263056818456691
+    second: sortir124
+  - first:
+      213: 5292117023507893660
+    second: sortir125
+  - first:
+      213: 6159545962976227624
+    second: sortir126
+  - first:
+      213: 3779130062596246381
+    second: sortir127
+  - first:
+      213: -2776284004430446791
+    second: sortir128
+  - first:
+      213: 5837410632829259836
+    second: sortir129
+  - first:
+      213: -4724508545254220713
+    second: sortir130
+  - first:
+      213: -4502099666172286875
+    second: sortir131
+  - first:
+      213: 2677579694474428286
+    second: sortir132
+  - first:
+      213: 6878375134792671793
+    second: sortir133
+  - first:
+      213: -8926610753435705836
+    second: sortir134
+  - first:
+      213: 3840292053420815329
+    second: sortir135
+  - first:
+      213: 6827342430980563167
+    second: sortir136
+  - first:
+      213: -6105916193801962663
+    second: sortir137
+  - first:
+      213: 1733610294653547022
+    second: sortir138
+  - first:
+      213: 2369220421600056266
+    second: sortir139
+  - first:
+      213: -6386779751835757206
+    second: sortir140
+  - first:
+      213: 4249731714877705756
+    second: sortir141
+  - first:
+      213: 3360601751851442950
+    second: sortir142
+  - first:
+      213: 1494896993956764127
+    second: sortir143
+  - first:
+      213: -1111746534431617684
+    second: sortir144
+  - first:
+      213: 387977604608819052
+    second: sortir145
+  - first:
+      213: -5379913452601736710
+    second: sortir146
+  - first:
+      213: -4285512258303618666
+    second: sortir147
+  - first:
+      213: 387708070804463523
+    second: sortir148
+  - first:
+      213: 473943320551998497
+    second: sortir149
+  - first:
+      213: 4499987924425440117
+    second: sortir150
+  - first:
+      213: -5122857503392638414
+    second: sortir151
+  - first:
+      213: -6708080633042788039
+    second: sortir152
+  - first:
+      213: -6870211175778683063
+    second: sortir153
+  - first:
+      213: 3000837284303156202
+    second: sortir154
+  - first:
+      213: 1961866661644549965
+    second: sortir155
+  - first:
+      213: -7055528498425537916
+    second: sortir156
+  - first:
+      213: -2622370642892112246
+    second: sortir157
+  - first:
+      213: -2971872839238958687
+    second: sortir158
+  - first:
+      213: 4758582094264269473
+    second: sortir159
+  - first:
+      213: -2111293619575510254
+    second: sortir160
+  - first:
+      213: 2028615537031138492
+    second: sortir161
+  - first:
+      213: -1297529043653741226
+    second: sortir162
+  - first:
+      213: 3672215755112239181
+    second: sortir163
+  - first:
+      213: 8286102173192659234
+    second: sortir164
+  - first:
+      213: -5132663127077316909
+    second: sortir165
+  - first:
+      213: -6719303313216163730
+    second: sortir166
+  - first:
+      213: -6665646380685262708
+    second: sortir167
+  - first:
+      213: -6515910890929099590
+    second: sortir168
+  - first:
+      213: 714656037373201142
+    second: sortir169
+  - first:
+      213: -5496460677000173513
+    second: sortir170
+  - first:
+      213: 2894088542766079297
+    second: sortir171
+  - first:
+      213: -5937383173544878162
+    second: sortir172
+  - first:
+      213: 5470483380460892390
+    second: sortir173
+  - first:
+      213: 1244224324824740715
+    second: sortir174
+  - first:
+      213: -5249633332964471764
+    second: sortir175
+  - first:
+      213: 4488482232840658479
+    second: sortir176
+  - first:
+      213: -5701689433250418843
+    second: sortir177
+  - first:
+      213: -3336466667373562801
+    second: sortir178
+  - first:
+      213: -1964688888841302445
+    second: sortir179
+  - first:
+      213: -205278931139896269
+    second: sortir180
+  - first:
+      213: -7502065874946459875
+    second: sortir181
+  - first:
+      213: 7696995916424076701
+    second: sortir182
+  - first:
+      213: 6485812398268876632
+    second: sortir183
+  - first:
+      213: 2741284526315329798
+    second: sortir184
+  - first:
+      213: 8669925635323787472
+    second: sortir185
+  - first:
+      213: -2592421220596011693
+    second: sortir186
+  - first:
+      213: 8700304073862271690
+    second: sortir187
+  - first:
+      213: -6525757864864037624
+    second: sortir188
+  - first:
+      213: 5661961886874773854
+    second: sortir189
+  - first:
+      213: -3816184501174463545
+    second: sortir190
+  - first:
+      213: 8271509873982870110
+    second: sortir191
+  - first:
+      213: 8816531614696110712
+    second: sortir192
+  - first:
+      213: 2435227818947550467
+    second: sortir193
+  - first:
+      213: -5503391135591545575
+    second: sortir194
+  - first:
+      213: -149221108839978190
+    second: sortir195
+  - first:
+      213: 4515985362374096933
+    second: sortir196
+  - first:
+      213: 2306161689320710934
+    second: sortir197
+  - first:
+      213: 1532216210201799250
+    second: sortir198
+  - first:
+      213: -3630275218376151365
+    second: sortir199
+  - first:
+      213: -5092370560686842539
+    second: sortir200
+  - first:
+      213: 3580901386708600330
+    second: sortir201
+  - first:
+      213: 4608458163409657502
+    second: sortir202
+  - first:
+      213: -5620053805653369333
+    second: sortir203
+  - first:
+      213: 3556725750171608002
+    second: sortir204
+  - first:
+      213: 7981041399776818126
+    second: sortir205
+  - first:
+      213: 6158953669922481735
+    second: sortir206
+  - first:
+      213: -1906759612590161382
+    second: sortir207
+  - first:
+      213: 7567833513303697097
+    second: sortir208
+  - first:
+      213: -522209543747419507
+    second: sortir209
+  - first:
+      213: -282419315226051972
+    second: sortir210
+  - first:
+      213: 6504521346903738851
+    second: sortir211
+  - first:
+      213: 4002531738766463053
+    second: sortir212
+  - first:
+      213: -4524003336331782985
+    second: sortir213
+  - first:
+      213: 3070281262227056643
+    second: sortir214
+  - first:
+      213: 5778914438784620123
+    second: sortir215
+  - first:
+      213: 4064404125687293133
+    second: sortir216
+  - first:
+      213: -3188491295309097224
+    second: sortir217
+  - first:
+      213: 2608993331909129007
+    second: sortir218
+  - first:
+      213: 2660096061201197446
+    second: sortir219
+  - first:
+      213: 3479570533203095852
+    second: sortir220
+  - first:
+      213: 1519827390830133219
+    second: sortir221
+  - first:
+      213: -4502750119121950435
+    second: sortir222
+  - first:
+      213: 7487412481118581458
+    second: sortir223
+  - first:
+      213: -2340111168707198345
+    second: sortir224
+  - first:
+      213: -4475113479042618627
+    second: sortir225
+  - first:
+      213: -1142144160691175153
+    second: sortir226
+  - first:
+      213: 2182500909770362357
+    second: sortir227
+  - first:
+      213: -8600366439664582717
+    second: sortir228
+  - first:
+      213: 7166565429287431477
+    second: sortir229
+  - first:
+      213: -6572836285309755165
+    second: sortir230
+  - first:
+      213: 5861196117961382363
+    second: sortir231
+  - first:
+      213: 7519646534536151836
+    second: sortir232
+  - first:
+      213: -6173426200324252683
+    second: sortir233
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sortir000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4025
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1510380e1ef3620800000000000000
+      internalID: 2756169851360858570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir001
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4025
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7694a2531485e70800000000000000
+      internalID: 9104098343327983595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir002
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 4025
+        width: 423
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661ec03076d3425c0800000000000000
+      internalID: -4241197436434063002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir003
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 4024
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d7ada32cf9fd00800000000000000
+      internalID: 1007113221861528534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir004
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 4024
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441856bccfebe0d00800000000000000
+      internalID: 940899365120475460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir005
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 4024
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40c0f712df541520800000000000000
+      internalID: 2671865834886971470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir006
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 4024
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60415db2ebe50ac0800000000000000
+      internalID: -3889443344093200274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir007
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 4024
+        width: 428
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c939129b80a7410800000000000000
+      internalID: 1475501419142552735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir008
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 4024
+        width: 428
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456b271807757b5e0800000000000000
+      internalID: -1893948977566271916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir009
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3948
+        width: 428
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2249c28f88651d090800000000000000
+      internalID: -8011527115836189662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir010
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3948
+        width: 428
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd2a3e4d3efa2cb0800000000000000
+      internalID: -4887814906298356300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir011
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3948
+        width: 428
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6158ffed24228c0800000000000000
+      internalID: -4025581591378717023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir012
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 3948
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af65e5e2d9c43f50800000000000000
+      internalID: 6860330040029441960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir013
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 3948
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b69726c85799f70800000000000000
+      internalID: 9194509360061573932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir014
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3948
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31518eae8c7ec4370800000000000000
+      internalID: 8308270262712276243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir015
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 3948
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327a2bd101be1fc20800000000000000
+      internalID: 3238628061506348835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir016
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 3948
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066b567d922fde7e0800000000000000
+      internalID: -1734464019946424736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir017
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 3948
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c28386b558096c0800000000000000
+      internalID: -4138661429916455866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir018
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3872
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0e9285b4248dc70800000000000000
+      internalID: 8996013147041685706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir019
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3872
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1efa9c303476b780800000000000000
+      internalID: -8667612682303898086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir020
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3872
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a99a380fa3101c70800000000000000
+      internalID: 8939666902808697250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir021
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3872
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af3557a88c40a70800000000000000
+      internalID: 8792372869533530742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir022
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3872
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f6b0f7ef704c40800000000000000
+      internalID: 5494532179544699184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir023
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3872
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889656ba6a80c7bd0800000000000000
+      internalID: -2631218570358068856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir024
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3872
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2e9e7c5b3f97870800000000000000
+      internalID: 8681237718801965798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir025
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 3872
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29499705dfb999f40800000000000000
+      internalID: 5735787112712213650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir026
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3872
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c09777d9ec986cd0800000000000000
+      internalID: -2564627459631247163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir027
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3796
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3253a28fc433190800000000000000
+      internalID: -7983953085654031420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir028
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3796
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d4874acc9c06c0800000000000000
+      internalID: -4175790361882077111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir029
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3796
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd178611ec933370800000000000000
+      internalID: 8301151028733484507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir030
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3797
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c89499bc981324d0800000000000000
+      internalID: -3160655452076468031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir031
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 3797
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83712ca5b73517e0800000000000000
+      internalID: -1795467623020792946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir032
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3797
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0015a8ab8aa231340800000000000000
+      internalID: 4833253729271173376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir033
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3797
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49763033, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc009e851add2ff0800000000000000
+      internalID: -59151433964974927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir034
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3796
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba4783ea19f535b0800000000000000
+      internalID: -5389127485197169987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir035
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3796
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd45d786ece45940800000000000000
+      internalID: 5284108737677970939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir036
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3720
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60105f7e1c2c5530800000000000000
+      internalID: 3844996691364155501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir037
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3720
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6a8a2b079889af0800000000000000
+      internalID: -389410250640808207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir038
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3720
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463bdebb5683f1890800000000000000
+      internalID: -7485202046070705308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir039
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3720
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c56fa35ca5db3b0800000000000000
+      internalID: -5495136167177855918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir040
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 3720
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19075a55ef20ad4d0800000000000000
+      internalID: -3109169301364051823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir041
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3720
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfd975deaab76760800000000000000
+      internalID: 7451129368576384985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir042
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 3720
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac51802d6c2762c0800000000000000
+      internalID: -4438530060541928284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir043
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3720
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8712517f0811680800000000000000
+      internalID: -8786099599323334434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir044
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 3720
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea712415fd056ef50800000000000000
+      internalID: 6910299598317819822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir045
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3644
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8608cd688f7705b0800000000000000
+      internalID: -5402209004073515381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir046
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3644
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18149da8c1eda47a0800000000000000
+      internalID: -6392052506929053311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir047
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3644
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3517e1eed6da84690800000000000000
+      internalID: -7617648082039180973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir048
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3644
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e3e680065eef90800000000000000
+      internalID: -6922501016958803260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir049
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 3644
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d94030f848bc2f0800000000000000
+      internalID: -951521146492904073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir050
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 3644
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963f11ab565472580800000000000000
+      internalID: -8852030239357668503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir051
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 3644
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bbe1e217296afb0800000000000000
+      internalID: -4636857751528621221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir052
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 3644
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adfb8c6976365b50800000000000000
+      internalID: 6581507800588615080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir053
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 3644
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eaaa255817add70800000000000000
+      internalID: 9068685617095421449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir054
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3568
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea24fe262bf4dfbc0800000000000000
+      internalID: -3747751687319764306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir055
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3568
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14041ba9404f2f0d0800000000000000
+      internalID: -3390379268844208063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir056
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3568
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436eb69b6127b1410800000000000000
+      internalID: 1448877147055449652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir057
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3568
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eae9af8a51f6a630800000000000000
+      internalID: 3938100295441705703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir058
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 3568
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ee82b705074c060800000000000000
+      internalID: 6972821614042345056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir059
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 3568
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bb9404044395710800000000000000
+      internalID: 1682433386360716172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir060
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 3569
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211dbb5e23c05d0b0800000000000000
+      internalID: -5704639940252675822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir061
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 3569
+        width: 426
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8c1ef320bde24d0800000000000000
+      internalID: -3157345486031959873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir062
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 3569
+        width: 426
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38d37e75f953cdb0800000000000000
+      internalID: -4772872269159212997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir063
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3493
+        width: 426
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d734d1347d0de80800000000000000
+      internalID: -8155782241914225314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir064
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3493
+        width: 426
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dd853e5ebc0e420800000000000000
+      internalID: 2657347968370793849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir065
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3493
+        width: 426
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bddff4e5d823ae90800000000000000
+      internalID: -7015718895377982031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir066
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3493
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f856ce231aa8d9bd0800000000000000
+      internalID: -2621786983111039601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir067
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 3493
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1077f0ff7ebc510800000000000000
+      internalID: 1570603977730884009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir068
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 3493
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e82713e765cf7f10800000000000000
+      internalID: 2269749787200268521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir069
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 3493
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da24cbd06c1ef9320800000000000000
+      internalID: 2567018553374687917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir070
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 3493
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eea4ce47509e6f0800000000000000
+      internalID: -654986271067017599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir071
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 3493
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7eac134b84e7ec0800000000000000
+      internalID: -3567333916064159747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir072
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3418
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f3734afbf0f2c0800000000000000
+      internalID: -4399739783648905172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir073
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3418
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2504b9a888da4d770800000000000000
+      internalID: 8634717187528671314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir074
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3418
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d396081e0e682e80800000000000000
+      internalID: -8203185714443676719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir075
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3418
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965cfb18282dc810800000000000000
+      internalID: 1787128779869279889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir076
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3418
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a96ba83000907d0800000000000000
+      internalID: -2951828065552524667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir077
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3418
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fad9fea485aab10800000000000000
+      internalID: 1993502863935778572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir078
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3418
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf4e0df8a987abe0800000000000000
+      internalID: -1466051794792722481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir079
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 3418
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b967df80d00db0c0800000000000000
+      internalID: -4558486352062617161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir080
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3418
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f6de1e150853b30800000000000000
+      internalID: 4266457311174553394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir081
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3343
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a5b8a95f6c3b9c0800000000000000
+      internalID: -3912564893092717949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir082
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3343
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768bf5cfd37d8a340800000000000000
+      internalID: 4875383257855670375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir083
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3343
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e78de3b1deae480800000000000000
+      internalID: -8869015814878495194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir084
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3343
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd88f02cb64d8cd40800000000000000
+      internalID: 5604963295544969436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir085
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3343
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b8caee051140b90800000000000000
+      internalID: -7276672058624537750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir086
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3343
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e8bc4ad0381d670800000000000000
+      internalID: 8561768461230640796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir087
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3343
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310c49680eef39070800000000000000
+      internalID: 8112107594108420115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir088
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 3343
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d01c2c4799f5fb0800000000000000
+      internalID: -4656834762915115659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir089
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3343
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f550e56ed7fe44c10800000000000000
+      internalID: 2037016255493178719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir090
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3268
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea83ab05c525b4660800000000000000
+      internalID: 7371075771566799022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir091
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3268
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0003558405e58e010800000000000000
+      internalID: 1218327398107656192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir092
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3268
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148c2a5f3a3fb5140800000000000000
+      internalID: 4709625720872290369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir093
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3267
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4936a811e91108380800000000000000
+      internalID: -8971151087125240940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir094
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3267
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f7ddf172a3b7910800000000000000
+      internalID: 1836125212796354396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir095
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3267
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0e44e7fe93a5f50800000000000000
+      internalID: 6870867882285523109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir096
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3267
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2046fa2b138a8dba0800000000000000
+      internalID: -6063911966849670142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir097
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 3265
+        width: 427
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49882904, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062f0c15bae3a070800000000000000
+      internalID: 8116589017032500743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir098
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 3265
+        width: 427
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49882904, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0e325295fa03c70800000000000000
+      internalID: 8948845256995234020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir099
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3187
+        width: 427
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49882904, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04abd3cf3be455990800000000000000
+      internalID: -7397920277948155328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir100
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3187
+        width: 427
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49882904, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a5d5a431f119540800000000000000
+      internalID: 5012822027952544395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir101
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 3187
+        width: 427
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49882904, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05166e3951e880610800000000000000
+      internalID: 1587675091974906192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir102
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 3189
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdbb88a7f2d97b10800000000000000
+      internalID: 1979845472332529139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir103
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 3189
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b3a27eba62ee6c0800000000000000
+      internalID: -4112306889983116465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir104
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 3189
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23edad61632feb920800000000000000
+      internalID: 3008107915255668274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir105
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 3189
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350ec8b4e7088b920800000000000000
+      internalID: 3006294031191564371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir106
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 3189
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bb74cb7eb93a910800000000000000
+      internalID: 1847491691750603610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir107
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 3189
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df1bd273dfec5cd0800000000000000
+      internalID: -2567913996063924266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3111
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d72ad51d1ff212c0800000000000000
+      internalID: -4462223780384987178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir109
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3111
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a01d95ae5c7cd80800000000000000
+      internalID: -8230392183676401053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir110
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3111
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195153dba7be59870800000000000000
+      internalID: 8689109968474150289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir111
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3111
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da24ca17004cfef0800000000000000
+      internalID: -73113094686758188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir112
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 3111
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c5fb5bfb1fb3780800000000000000
+      internalID: -8702096049273086820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir113
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 3111
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ed9887e71118210800000000000000
+      internalID: 1333366199564230189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir114
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 3111
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece567c928fec4520800000000000000
+      internalID: 2687786421883133646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir115
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 3111
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090f4c65dc997bc30800000000000000
+      internalID: 4375134670216818832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir116
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 3111
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b6bb4b7fb887210800000000000000
+      internalID: 1330967585893346058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3035
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab305fab72fb910800000000000000
+      internalID: 1855245255427996276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir118
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3035
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af95ea125bff2c10800000000000000
+      internalID: 2031118287024529312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir119
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3035
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9a1215c7da7a900800000000000000
+      internalID: 695715416900741617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir120
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3036
+        width: 425
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49882352, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f3dcb6edc586ea0800000000000000
+      internalID: -5879347203171074195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir121
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 3036
+        width: 425
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49882352, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd837cc56cebc2d0800000000000000
+      internalID: -3257249983506444806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir122
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 3036
+        width: 425
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49882352, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26081a6d7febdbd0800000000000000
+      internalID: -2604224637573790161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir123
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 3036
+        width: 425
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49882352, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfea1bec3aa85b470800000000000000
+      internalID: 8409780315336322811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir124
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 3036
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87b050c0651241f0800000000000000
+      internalID: -1062263056818456691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir125
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 3036
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d4cffd460617940800000000000000
+      internalID: 5292117023507893660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2960
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821b3ec2b6a1b7550800000000000000
+      internalID: 6159545962976227624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir127
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2960
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b8c0de4ca227430800000000000000
+      internalID: 3779130062596246381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir128
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2960
+        width: 424
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff2584868a879d0800000000000000
+      internalID: -2776284004430446791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir129
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2959
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3050e9ea06a20150800000000000000
+      internalID: 5837410632829259836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir130
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2959
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c13d5728c2f6eb0800000000000000
+      internalID: -4724508545254220713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir131
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2959
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568656ee4345581c0800000000000000
+      internalID: -4502099666172286875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir132
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2959
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f72f2bb8ca82520800000000000000
+      internalID: 2677579694474428286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir133
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2959
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132623dedb5e47f50800000000000000
+      internalID: 6878375134792671793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir134
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2959
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e5841a0de4e1480800000000000000
+      internalID: -8926610753435705836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2883
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e337ed96457b4530800000000000000
+      internalID: 3840292053420815329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir136
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2883
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd06c86a4c79fbe50800000000000000
+      internalID: 6827342430980563167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir137
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2883
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bf020829d634ba0800000000000000
+      internalID: -6105916193801962663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir138
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2883
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02f8cfb0650f0810800000000000000
+      internalID: 1733610294653547022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir139
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2883
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac39218bb6921e020800000000000000
+      internalID: 2369220421600056266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir140
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2883
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a651c2187a99d57a0800000000000000
+      internalID: -6386779751835757206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir141
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2883
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4ff78a741afa30800000000000000
+      internalID: 4249731714877705756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir142
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 2883
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60329a2fc7143ae20800000000000000
+      internalID: 3360601751851442950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir143
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2883
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9979c45e0feb410800000000000000
+      internalID: 1494896993956764127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir144
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2807
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8eeeca684290f0800000000000000
+      internalID: -1111746534431617684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir145
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2807
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ff387639f526500800000000000000
+      internalID: 387977604608819052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir146
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2807
+        width: 423
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af104570835b655b0800000000000000
+      internalID: -5379913452601736710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir147
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2807
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911b338e4dc684c0800000000000000
+      internalID: -4285512258303618666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir148
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2807
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af1adcaf6a616500800000000000000
+      internalID: 387708070804463523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir149
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 2807
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124cb2160f8c39600800000000000000
+      internalID: 473943320551998497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir150
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2807
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bfce0ec2b237e30800000000000000
+      internalID: 4499987924425440117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir151
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 2807
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a56532e34f7e8b0800000000000000
+      internalID: -5122857503392638414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir152
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 2807
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931aec6843c18e2a0800000000000000
+      internalID: -6708080633042788039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir153
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2731
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947fac7e55b18a0a0800000000000000
+      internalID: -6870211175778683063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir154
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2731
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae333a76c9d15a920800000000000000
+      internalID: 3000837284303156202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir155
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2731
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f31089553f93b10800000000000000
+      internalID: 1961866661644549965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir156
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2731
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a53b4663ab51e90800000000000000
+      internalID: -7055528498425537916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir157
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2731
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eb0015bc77b9bd0800000000000000
+      internalID: -2622370642892112246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir158
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2731
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c78bf569c1c6d0800000000000000
+      internalID: -2971872839238958687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir159
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2731
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaf723e331e90240800000000000000
+      internalID: 4758582094264269473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir160
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 2730
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b27ac93ad23b2e0800000000000000
+      internalID: -2111293619575510254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir161
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2730
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc44963517172c10800000000000000
+      internalID: 2028615537031138492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir162
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2653
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655344b95304efde0800000000000000
+      internalID: -1297529043653741226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir163
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2653
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40de06e5c456f230800000000000000
+      internalID: 3672215755112239181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir164
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2653
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221adbd56062ef270800000000000000
+      internalID: 8286102173192659234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir165
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2654
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d69fc6741e15c8b0800000000000000
+      internalID: -5132663127077316909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir166
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 2654
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6035adac3d30c2a0800000000000000
+      internalID: -6719303313216163730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir167
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 2654
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8003e0deedde73a0800000000000000
+      internalID: -6665646380685262708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir168
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 2654
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc62164195d295a0800000000000000
+      internalID: -6515910890929099590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir169
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 2654
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fac73c21e7fae900800000000000000
+      internalID: 714656037373201142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir170
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 2654
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7386081c226a8b3b0800000000000000
+      internalID: -5496460677000173513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir171
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2577
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d9914323ed92820800000000000000
+      internalID: 2894088542766079297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir172
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2577
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafd975167d2a9da0800000000000000
+      internalID: -5937383173544878162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir173
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2577
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0bc0296af0beb40800000000000000
+      internalID: 5470483380460892390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir174
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2577
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6334166e6f544110800000000000000
+      internalID: 1244224324824740715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir175
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2577
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c4a932c4e8527b0800000000000000
+      internalID: -5249633332964471764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir176
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2577
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e9e1d4fca4a4e30800000000000000
+      internalID: 4488482232840658479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir177
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2577
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fa2875ba78fd0b0800000000000000
+      internalID: -5701689433250418843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir178
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 2577
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44744e4e3d72b1d0800000000000000
+      internalID: -3336466667373562801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir179
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 2577
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e057e6dd50cb4e0800000000000000
+      internalID: -1964688888841302445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2501
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cd88556e3b62df0800000000000000
+      internalID: -205278931139896269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir181
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2501
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d177c3a95de43e790800000000000000
+      internalID: -7502065874946459875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir182
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2501
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dd61c610931da60800000000000000
+      internalID: 7696995916424076701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir183
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2500
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85704ae430c320a50800000000000000
+      internalID: 6485812398268876632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir184
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 2500
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609dc43b0cffa0620800000000000000
+      internalID: 2741284526315329798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir185
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2500
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8f68a1e63c15870800000000000000
+      internalID: 8669925635323787472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir186
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2500
+        width: 423
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35da03692aed50cd0800000000000000
+      internalID: -2592421220596011693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir187
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2501
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2d1708570bdb870800000000000000
+      internalID: 8700304073862271690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir188
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2501
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805419efbc9df65a0800000000000000
+      internalID: -6525757864864037624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir189
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2424
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a8f67654539e40800000000000000
+      internalID: 5661961886874773854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir190
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2424
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3152a4a603a0bc0800000000000000
+      internalID: -3816184501174463545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir191
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2424
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5292e2f76e4ac270800000000000000
+      internalID: 8271509873982870110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir192
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 2424
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a76f4aacc9a5a70800000000000000
+      internalID: 8816531614696110712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir193
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 2424
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d94878ccaabc120800000000000000
+      internalID: 2435227818947550467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir194
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2424
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915480f9be600a3b0800000000000000
+      internalID: -5503391135591545575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir195
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2424
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b6a9e213cddedf0800000000000000
+      internalID: -149221108839978190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir196
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 2424
+        width: 425
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4964706, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fb27a2c00cae30800000000000000
+      internalID: 4515985362374096933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir197
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 2424
+        width: 425
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4964706, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613639e76d1210020800000000000000
+      internalID: 2306161689320710934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir198
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2348
+        width: 425
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4964706, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a6c207686834510800000000000000
+      internalID: 1532216210201799250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir199
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2348
+        width: 425
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4964706, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe29c34cebae9dc0800000000000000
+      internalID: -3630275218376151365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir200
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2348
+        width: 425
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4964706, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d9a91a4f34459b0800000000000000
+      internalID: -5092370560686842539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir201
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2348
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06487ab6dae1b130800000000000000
+      internalID: 3580901386708600330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir202
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2348
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1840784884ff30800000000000000
+      internalID: 4608458163409657502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir203
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 2348
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ed27f07de8102b0800000000000000
+      internalID: -5620053805653369333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir204
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 2348
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3a676b9370c5130800000000000000
+      internalID: 3556725750171608002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir205
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 2348
+        width: 431
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50348026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec332632eda52ce60800000000000000
+      internalID: 7981041399776818126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir206
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 2348
+        width: 431
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50348026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74661d33bbff87550800000000000000
+      internalID: 6158953669922481735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir207
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2272
+        width: 431
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50348026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12808b1c34d985e0800000000000000
+      internalID: -1906759612590161382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir208
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2272
+        width: 431
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50348026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c663c7fb78560960800000000000000
+      internalID: 7567833513303697097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir209
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2272
+        width: 431
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50348026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82cd9ecf2db0c8f0800000000000000
+      internalID: -522209543747419507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir210
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7afd3e0125a41cf0800000000000000
+      internalID: -282419315226051972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir211
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9842cd3b3b44a50800000000000000
+      internalID: 6504521346903738851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir212
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d66bf869db8730800000000000000
+      internalID: 4002531738766463053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir213
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 2273
+        width: 422
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4134f4fe28731c0800000000000000
+      internalID: -4524003336331782985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir214
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 2272
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308e49b7a84db9a20800000000000000
+      internalID: 3070281262227056643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir215
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2272
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5612276014d23050800000000000000
+      internalID: 5778914438784620123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir216
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2196
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc42937a40aa76830800000000000000
+      internalID: 4064404125687293133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir217
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2196
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f61dad6f0430c3d0800000000000000
+      internalID: -3188491295309097224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir218
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2196
+        width: 426
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f237ec1cc91053420800000000000000
+      internalID: 2608993331909129007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir219
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 2196
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689205c164f8ae420800000000000000
+      internalID: 2660096061201197446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir220
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 2196
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21bc72e6fae94030800000000000000
+      internalID: 3479570533203095852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir221
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2196
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efb656a5f2871510800000000000000
+      internalID: 1519827390830133219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir222
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2196
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19636d8f940381c0800000000000000
+      internalID: -4502750119121950435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir223
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 2196
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d236e74bf1a8e760800000000000000
+      internalID: 7487412481118581458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir224
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 2196
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772884e5a41468fd0800000000000000
+      internalID: -2340111168707198345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir225
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2120
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa2a10400435e1c0800000000000000
+      internalID: -4475113479042618627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir226
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2120
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0147bbefe94620f0800000000000000
+      internalID: -1142144160691175153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir227
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2120
+        width: 424
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd44d8930dc94e10800000000000000
+      internalID: 2182500909770362357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir228
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2120
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cff9913a4c55a880800000000000000
+      internalID: -8600366439664582717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir229
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2120
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53da540b941c47360800000000000000
+      internalID: 7166565429287431477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir230
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2120
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0605f093898c4a0800000000000000
+      internalID: -6572836285309755165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir231
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2120
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd99cf9b0d6275150800000000000000
+      internalID: 5861196117961382363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir232
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 2120
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13468faea62b5860800000000000000
+      internalID: 7519646534536151836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortir233
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 2120
+        width: 424
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4976415, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb559a3495935aa0800000000000000
+      internalID: -6173426200324252683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
