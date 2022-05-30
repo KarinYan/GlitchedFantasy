@@ -13,4 +13,32 @@ public class SkipVideo : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
+    //=================== Saltar intro pulsando cualquier tecla ==================================
+
+    public bool ActivarTecla;
+
+    private void Start()
+    {
+        StartCoroutine(PulsarTecla());
+    }
+
+    IEnumerator PulsarTecla()
+    {
+        yield return new WaitForSeconds(498f);
+
+        ActivarTecla = true;
+    }
+
+
+    private void Update()
+    {
+        if (ActivarTecla == true && Input.anyKey)
+        {
+            ReturnMainMenu();
+        }
+
+    }
+    //============================================================================================
+
+
 }
