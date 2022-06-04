@@ -12,31 +12,27 @@ namespace Platformer.Mechanics
     public class ItemPicker : MonoBehaviour
     {
         private PlayerManager collectHealth;
-        private PlayerManager player;
+        public PlayerManager player;
         [HideInInspector]
         public Text coreCounter;
         private bool triggerEntered = false;
 
         private int core;
         private int sceneCores;
-
-        //Función que encuentra los objetos en escena etiquetados con Cores
         void Start()
         {
             sceneCores = GameObject.FindGameObjectsWithTag("Cores").Length;     
         }
-
-        //Función que se ejecuta en cada frame del juego y que invoca la función HealthCollect del PlayerManager y destruye el objeto si se cumplen las condiciones definidas
         void Update()
         { 
-            if (Input.GetKeyDown (KeyCode.E) && triggerEntered == true && collectHealth !=null) 
+           if (Input.GetKeyDown (KeyCode.E) && triggerEntered == true && collectHealth !=null && player.health < player.maxHealth) 
             {
                 collectHealth.HealthCollect();                
                 Destroy(gameObject);
             }            
         }
 
-        //Función que, al producirse una colisión de objetos, activa la posibilidad de coleccionar salud al jugador
+        //Función que, al producirse un contacto entre objetos, desencadena la posibilidad de coleccionar salud al jugador
         //y actualiza el contador de núcleos, destruyéndolos posteriormente
         private void OnTriggerEnter2D(Collider2D other)
         {
@@ -53,6 +49,13 @@ namespace Platformer.Mechanics
                 coreCounter.text = (core.ToString() + "/" + sceneCores);
                 Destroy(other.gameObject);
             }
+        }
+
+        //Función que desactiva la posibilidad de coleccionar salud una vez el jugador ya no está en contacto con la poción
+        private void OnTriggerExit2D(Collider2D other)
+        {
+            PlayerManager player = other.GetComponent<PlayerManager>();
+            triggerEntered = false; 
         }
         
     }

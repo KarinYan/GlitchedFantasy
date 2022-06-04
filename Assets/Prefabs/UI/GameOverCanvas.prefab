@@ -114,7 +114,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverMenu: {fileID: 8229733382921764790}
-  pauseMenu: {fileID: 0}
 --- !u!1 &8229733382921764790
 GameObject:
   m_ObjectHideFlags: 0
@@ -377,7 +376,7 @@ Animator:
   m_GameObject: {fileID: 8229733383652314705}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 73006f6a78fb3cd409e02eeb5c026fbb, type: 2}
+  m_Controller: {fileID: 9100000, guid: ae08d0467576374458db36658b3e3ebe, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 2
   m_ApplyRootMotion: 0

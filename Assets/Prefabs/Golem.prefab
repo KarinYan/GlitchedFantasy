@@ -43,9 +43,9 @@ GameObject:
   - component: {fileID: 7680390620131789029}
   - component: {fileID: 7680390620131789026}
   - component: {fileID: 7680390620131789027}
-  - component: {fileID: 7680390620131789028}
   - component: {fileID: 6217904955339513994}
   - component: {fileID: 4752741543503506934}
+  - component: {fileID: 7680390620131789028}
   m_Layer: 0
   m_Name: Golem
   m_TagString: Untagged
@@ -128,7 +128,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7680390620131789022}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -140,7 +140,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 6
+  m_Constraints: 4
 --- !u!70 &7680390620131789026
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -154,8 +154,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.14441252, y: -0.018417139}
-  m_Size: {x: 2.3914702, y: 2.547082}
+  m_Offset: {x: -0.10739863, y: -0.069311656}
+  m_Size: {x: 2.4284842, y: 2.4284842}
   m_Direction: 0
 --- !u!95 &7680390620131789027
 Animator:
@@ -176,28 +176,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &7680390620131789028
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7680390620131789022}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8eaa0f1ba73f44949b4431470675b748, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 3
-  speed: 0
-  patrol: 0
-  groundCheck: {fileID: 3817603383772838321}
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 8
-  wallCollider: {fileID: 6217904955339513994}
-  hurt: {fileID: 8300000, guid: 4203c721fec8a8345a9fd37df06403c1, type: 3}
-  dead: {fileID: 8300000, guid: a66d158c3712f6e408b3ab5f9da42683, type: 3}
 --- !u!61 &6217904955339513994
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -208,7 +186,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.2814769, y: -0.004087925}
@@ -320,3 +298,25 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &7680390620131789028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7680390620131789022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eaa0f1ba73f44949b4431470675b748, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 3
+  speed: 0
+  patrol: 0
+  groundCheck: {fileID: 3817603383772838321}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  wallCollider: {fileID: 6217904955339513994}
+  hurt: {fileID: 8300000, guid: 4203c721fec8a8345a9fd37df06403c1, type: 3}
+  dead: {fileID: 8300000, guid: a66d158c3712f6e408b3ab5f9da42683, type: 3}

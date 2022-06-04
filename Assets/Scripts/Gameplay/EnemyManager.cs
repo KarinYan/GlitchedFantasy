@@ -109,7 +109,7 @@ namespace Platformer.Mechanics
         private void OnCollisionEnter2D(Collision2D collision)
         {
             PlayerManager player = collision.collider.GetComponent<PlayerManager>();
-            if (player != null)
+            if (player != null && player.health > 0)
             {
                 player.Touch();
             } 

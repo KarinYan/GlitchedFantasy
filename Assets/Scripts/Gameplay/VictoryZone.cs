@@ -39,9 +39,9 @@ namespace Platformer.Mechanics
             PlayerManager player = collision.GetComponent<PlayerManager>();
             if (player != null && sceneCores == 0)
             {
-                if (sceneIndex == 2)
+                if (sceneIndex == 3)
                 {
-                    SceneManager.LoadScene(0);
+                    SceneManager.LoadScene(1);
                 }
                 else
                 {

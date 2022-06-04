@@ -63,8 +63,14 @@ namespace Platformer.Mechanics
             Animator.SetBool("shooting", playerIsShooting); 
             Horizontal = Input.GetAxisRaw("Horizontal");
 
-            if (Horizontal < 0.0f) transform.localScale = new Vector3(-0.5f, 0.5f, 1.0f);
-            else if (Horizontal > 0.0f) transform.localScale = new Vector3(0.5f, 0.5f, 1.0f);               
+            if (Horizontal < 0.0f) 
+            {
+                transform.localScale = new Vector3(-0.5f, 0.5f, 1.0f);
+            }
+            else if (Horizontal > 0.0f) 
+            {
+                transform.localScale = new Vector3(0.5f, 0.5f, 1.0f);      
+            }     
 
             if (Physics2D.Raycast(transform.position, Vector3.down, 1f))
             {
@@ -158,6 +164,9 @@ namespace Platformer.Mechanics
         public void PlayerDied()
         {
             playerIsDead = true;
+            playerIsLanding = false;
+            playerIsFalling = false;
+            playerIsJumping = false;
             health = 0;
             audioSource.PlayOneShot(dead, 0.7f);
         }

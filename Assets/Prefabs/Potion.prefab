@@ -113,8 +113,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4073bcc605ca2b74f821f66b10e858a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 5322912597287289047, guid: d23ac0ce9165947408a27addcfe3fca1, type: 3}
   coreCounter: {fileID: 0}
-  collect: {fileID: 8300000, guid: 0fa5651e4b7936742a2a43554fb5c3d8, type: 3}
 --- !u!82 &3616870788415939504
 AudioSource:
   m_ObjectHideFlags: 0

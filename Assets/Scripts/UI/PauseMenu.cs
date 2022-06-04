@@ -54,7 +54,7 @@ namespace Platformer.Mechanics
             currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
             PlayerPrefs.SetInt("SavedScene", currentSceneIndex);
             Time.timeScale = 1f;
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(1);
         }
 
         //Función que reinicia la escena activa
@@ -67,7 +67,7 @@ namespace Platformer.Mechanics
         //Función que devuelve al jugador al menú principal
         public void ReturnMainMenu()
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(1);
         }
     } 
 }

@@ -23,7 +23,7 @@ namespace Platformer.Mechanics
         //Función que devuelve al jugador al menú principal
         public void ReturnMainMenu()
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(1);
             Time.timeScale = 1f;
         }
     } 

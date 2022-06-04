@@ -13,7 +13,7 @@ namespace Platformer.Mechanics
         //Función que vuelve a cargar el juego desde la primera pantalla
         public void NewGame()
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
             Time.timeScale = 1f;
         }
 
