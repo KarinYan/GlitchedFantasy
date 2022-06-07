@@ -36,7 +36,7 @@ namespace Platformer.Mechanics
         //y actualiza el contador de núcleos, destruyéndolos posteriormente
         private void OnTriggerEnter2D(Collider2D other)
         {
-            PlayerManager player = other.GetComponent<PlayerManager>();
+            player = other.GetComponent<PlayerManager>();
             if(player != null)               
             {              
                 collectHealth = other.GetComponent<PlayerManager>();
@@ -54,7 +54,7 @@ namespace Platformer.Mechanics
         //Función que desactiva la posibilidad de coleccionar salud una vez el jugador ya no está en contacto con la poción
         private void OnTriggerExit2D(Collider2D other)
         {
-            PlayerManager player = other.GetComponent<PlayerManager>();
+            player = other.GetComponent<PlayerManager>();
             triggerEntered = false; 
         }
         

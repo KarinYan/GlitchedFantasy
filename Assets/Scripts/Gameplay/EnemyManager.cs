@@ -19,20 +19,17 @@ namespace Platformer.Mechanics
 
         private Rigidbody2D Rigidbody2D;
         private Animator Animator;
+        private AudioManager clip;
         private bool move;
         private bool flip;
         private bool enemyIsDead = false;
-
-        public AudioClip hurt;
-        public AudioClip dead;
-        AudioSource audioSource;
 
         //Función que inicializa la física del enemigo como cuerpo rígido 2D, sus animaciones y sonidos, siempre que se activa la clase
         void Start()
         {
             Rigidbody2D = GetComponent<Rigidbody2D>();
             Animator = GetComponent<Animator>();
-            audioSource = GetComponent<AudioSource>();
+            clip = gameObject.GetComponent<AudioManager>();
             patrol = true;
         }
 
@@ -55,7 +52,6 @@ namespace Platformer.Mechanics
 
             if (health <= 0)
             {
-                audioSource.PlayOneShot(dead, 0.7f);
                 enemyIsDead = true;
                 speed = 0;
             }
@@ -96,7 +92,18 @@ namespace Platformer.Mechanics
         public void Hit()
         {
             health = health - 1;
-            audioSource.PlayOneShot(hurt, 0.7f);
+            clip.PlayHurtAudio();
+            StartCoroutine(Blink(2));
+        }
+
+        private IEnumerator Blink(int loops) {
+            for (int i = 0; i < loops; i++)
+            {
+                transform.GetComponent<Renderer>().material.SetColor("_Color", new Color(1,1,1,0f));
+                yield return new WaitForSeconds(0.07f);
+                transform.GetComponent<Renderer>().material.SetColor("_Color", new Color(1,1,1,1.0f));
+                yield return new WaitForSeconds(0.07f);
+            }                        
         }
 
         //Función que destruye el objeto del enemigo
@@ -113,6 +120,6 @@ namespace Platformer.Mechanics
             {
                 player.Touch();
             } 
-        }        
+        }       
     }
 }

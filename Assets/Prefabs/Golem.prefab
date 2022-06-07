@@ -46,6 +46,7 @@ GameObject:
   - component: {fileID: 6217904955339513994}
   - component: {fileID: 4752741543503506934}
   - component: {fileID: 7680390620131789028}
+  - component: {fileID: 6667962083356394735}
   m_Layer: 0
   m_Name: Golem
   m_TagString: Untagged
@@ -212,9 +213,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e1a5e4db5ac41ee4c837bcf62c1feeb0, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.082
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -223,9 +224,9 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -258,7 +259,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -318,5 +319,24 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   wallCollider: {fileID: 6217904955339513994}
+--- !u!114 &6667962083356394735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7680390620131789022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7272d166d3087fe48acdcae0a010e697, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 4752741543503506934}
+  step: {fileID: 8300000, guid: e1a5e4db5ac41ee4c837bcf62c1feeb0, type: 3}
+  land: {fileID: 0}
+  jumping: {fileID: 0}
   hurt: {fileID: 8300000, guid: 4203c721fec8a8345a9fd37df06403c1, type: 3}
   dead: {fileID: 8300000, guid: a66d158c3712f6e408b3ab5f9da42683, type: 3}
+  collectPotions: {fileID: 0}
+  collectCores: {fileID: 0}
+  shoot: {fileID: 0}

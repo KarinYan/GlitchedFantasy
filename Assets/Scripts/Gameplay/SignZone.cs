@@ -32,6 +32,14 @@ namespace Platformer.Mechanics
                     triggerEntered = false; 
                 }
             }
+        }        
+
+        public void ExitSignZone()
+        {
+            infoMenuUI.SetActive(false);
+            Time.timeScale = 1f;
+            gameIsPaused = false;
+            triggerEntered = false; 
         }
 
         //Función que activa el cambio de estado al entrar el jugador en la zona

@@ -14,6 +14,9 @@ TextureImporter:
   - first:
       213: -3890957171717946157
     second: dexterLanding_2
+  - first:
+      213: -924257281100723456
+    second: dexterLanding_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -161,6 +164,27 @@ TextureImporter:
       bones: []
       spriteID: 3d44e77411b800ac0800000000000000
       internalID: -3890957171717946157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexterLanding_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 157
+        width: 257
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b4ce656e06c23f0800000000000000
+      internalID: -924257281100723456
       vertices: []
       indices: 
       edges: []

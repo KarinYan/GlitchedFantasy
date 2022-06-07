@@ -16,6 +16,8 @@ GameObject:
   - component: {fileID: 6276878987278202685}
   - component: {fileID: 5322912597287289047}
   - component: {fileID: 5322912597287289046}
+  - component: {fileID: 2473587084310802063}
+  - component: {fileID: 3392423307562996216}
   m_Layer: 0
   m_Name: Dexter
   m_TagString: Untagged
@@ -138,12 +140,12 @@ CapsuleCollider2D:
   m_GameObject: {fileID: 5322912597287289041}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: b275358baee2944418910d59b41f721a, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.11733341, y: -0.0709064}
-  m_Size: {x: 1.2225246, y: 2.3181872}
+  m_Offset: {x: -0.040024996, y: -0.07196593}
+  m_Size: {x: 0.9132905, y: 2.3203063}
   m_Direction: 0
 --- !u!82 &6276878987278202685
 AudioSource:
@@ -155,7 +157,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: a95e52dd6dac98349a6a3fd065380fd8, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 0.4
   m_Pitch: 1
@@ -256,11 +258,6 @@ MonoBehaviour:
   projectilePrefab: {fileID: 8074106251644048271, guid: d6f8d68cc18d9b140aed99cbca152321,
     type: 3}
   gameOverMenuUI: {fileID: 0}
-  jumping: {fileID: 8300000, guid: da515a602166d0d4d8b965f0e43f34cf, type: 3}
-  hurt: {fileID: 8300000, guid: 9c1c0b5b3caf5aa47a1d4108aa124aa9, type: 3}
-  dead: {fileID: 8300000, guid: f963ce839b274d742bf8c07f6e839234, type: 3}
-  collectPotions: {fileID: 8300000, guid: 0fa5651e4b7936742a2a43554fb5c3d8, type: 3}
-  collectCores: {fileID: 8300000, guid: fbc15207d38ecbd4fada6d340426c367, type: 3}
   speed: 3
   jumpForce: 280
   maxHealth: 6
@@ -279,3 +276,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 5322912597287289047}
   coreCounter: {fileID: 0}
+--- !u!114 &2473587084310802063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5322912597287289041}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7272d166d3087fe48acdcae0a010e697, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 6276878987278202685}
+  step: {fileID: 8300000, guid: 0ed28f35539a75a4692db27fabcb2b0a, type: 3}
+  land: {fileID: 8300000, guid: 0ed28f35539a75a4692db27fabcb2b0a, type: 3}
+  jumping: {fileID: 8300000, guid: da515a602166d0d4d8b965f0e43f34cf, type: 3}
+  hurt: {fileID: 8300000, guid: 563858b7a0fbc564288809abcaa6c568, type: 3}
+  dead: {fileID: 8300000, guid: f963ce839b274d742bf8c07f6e839234, type: 3}
+  collectPotions: {fileID: 8300000, guid: 0fa5651e4b7936742a2a43554fb5c3d8, type: 3}
+  collectCores: {fileID: 8300000, guid: fbc15207d38ecbd4fada6d340426c367, type: 3}
+  shoot: {fileID: 8300000, guid: 54ee3623b8f227f4d9d6bdfb01b3ae04, type: 3}
+--- !u!81 &3392423307562996216
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5322912597287289041}
+  m_Enabled: 1
