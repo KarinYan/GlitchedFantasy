@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using static Platformer.Core.Simulation;
+using UnityEngine.UI;
 
 
 namespace Platformer.Mechanics
@@ -23,6 +24,10 @@ namespace Platformer.Mechanics
         private Rigidbody2D Rigidbody2D;
         private Renderer Renderer; 
         private Animator Animator;
+        public LayerMask groundLayer;
+        
+        public Joystick joystickRun;
+        private float horizontalJoystick;
 
         private float Horizontal; 
         [HideInInspector]
@@ -33,6 +38,10 @@ namespace Platformer.Mechanics
         private bool playerIsLanding = false;
         private bool playerIsFalling = false; 
         private bool playerIsShooting = false; 
+        
+        private bool jumpButtonPressed = false; 
+        private bool shootButtonPressed = false; 
+
         private float lastShoot;
 
         public int maxHealth;
@@ -62,7 +71,8 @@ namespace Platformer.Mechanics
             Animator.SetBool("shooting", playerIsShooting); 
             Horizontal = Input.GetAxisRaw("Horizontal");
 
-            if (Horizontal < 0.0f) 
+
+            if (Horizontal < 0.0f || horizontalJoystick < 0.0f) 
             {
                 transform.localScale = new Vector3(-0.5f, 0.5f, 1.0f);
                 if (playerIsGrounded == true)
@@ -72,7 +82,7 @@ namespace Platformer.Mechanics
                 else playerIsRunning = false;
                 
             }
-            else if (Horizontal > 0.0f) 
+            else if (Horizontal > 0.0f || horizontalJoystick > 0.0f) 
             {
                 transform.localScale = new Vector3(0.5f, 0.5f, 1.0f); 
                 if (playerIsGrounded == true)
@@ -81,9 +91,9 @@ namespace Platformer.Mechanics
                 }  
                 else playerIsRunning = false;  
             } 
-            else playerIsRunning = false;   
+            else playerIsRunning = false;
 
-            if (Physics2D.Raycast(transform.position, Vector3.down, 1f))
+            if (Physics2D.Raycast(transform.position, Vector3.down, 1f, groundLayer))
             {
                 if (Rigidbody2D.velocity.y < 0)
                 {
@@ -94,14 +104,17 @@ namespace Platformer.Mechanics
             }
             else playerIsGrounded = false;
 
-            if (Input.GetKeyDown(KeyCode.W) && playerIsGrounded)
+            if ((Input.GetKeyDown(KeyCode.W) || jumpButtonPressed == true) && playerIsGrounded && !playerIsLanding)
             {
+                            
+                jumpButtonPressed = false;
                 playerIsJumping = true;
                 Jump();
             }
 
-            if (Input.GetKey(KeyCode.Space) && Time.time > lastShoot + 0.25f)
+            if ((Input.GetKey(KeyCode.Space) || shootButtonPressed == true) && Time.time > lastShoot + 0.25f)
             {   
+                shootButtonPressed = false;
                 playerIsShooting = true;                
                 Rigidbody2D.velocity = new Vector3(Horizontal * 0, Rigidbody2D.velocity.y);                               
                 Shoot();
@@ -124,12 +137,20 @@ namespace Platformer.Mechanics
 
         //Función que se va ejecutando cada 0.02 segundos para actualizar la velocidad del jugador según tecla apretada
         private void FixedUpdate()
-        {
-            if (Input.GetKey(KeyCode.Space))
+        {            
+            if (Input.GetKey(KeyCode.Space) || jumpButtonPressed == true)
             {
                 Rigidbody2D.velocity = new Vector3(0,Rigidbody2D.velocity.y);
+            }            
+            else if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.LeftArrow))
+            {
+                Rigidbody2D.velocity = new Vector3(Horizontal * speed, Rigidbody2D.velocity.y); 
             }
-            else Rigidbody2D.velocity = new Vector3(Horizontal * speed, Rigidbody2D.velocity.y);            
+            else 
+            {
+                horizontalJoystick = joystickRun.Horizontal * speed;
+                Rigidbody2D.velocity = new Vector3(horizontalJoystick, Rigidbody2D.velocity.y); 
+            }      
         }
 
         //Función que aplica velocidad en el eje Y del jugador en función de la fuerza de salto
@@ -198,7 +219,16 @@ namespace Platformer.Mechanics
             Time.timeScale = 0f;
             gameIsPaused = true;
             Destroy(gameObject);
-        }        
+        }  
+
+        public void OnShoot() 
+        {
+            shootButtonPressed = true;
+        }
+        public void OnJump() 
+        {
+            jumpButtonPressed = true;
+        }
 
         //Función que destruye los objetos etiquetados con TutorialObjects y 
         //reproduce un sonido al entrar en contacto con los objetos etiquetados con Cores

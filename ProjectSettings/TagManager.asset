@@ -10,6 +10,9 @@ TagManager:
   - TutorialObjects
   - Door
   - TextBox
+  - shootButton
+  - jumpButton
+  - interactButton
   layers:
   - Default
   - TransparentFX

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using static Platformer.Core.Simulation;
 using UnityEngine.SceneManagement;  
+using UnityEngine.UI;
 
 namespace Platformer.Mechanics
 {
@@ -11,14 +12,17 @@ namespace Platformer.Mechanics
     {
         public GameObject infoMenuUI;
         public static bool gameIsPaused = false;
-        private bool triggerEntered = false;
+        private bool triggerEntered = false;        
+        private bool interactButtonPressed = false; 
         
         //Función que se ejecuta en cada frame del juego y que activa o desactiva el menú de información, pausando o reanudando el juego según corresponda
         //si se cumplen las condiciones definidas
         void Update()
         {
-            if (Input.GetKeyDown (KeyCode.E) && triggerEntered == true) 
+            if ((Input.GetKeyDown (KeyCode.E) || interactButtonPressed == true) && triggerEntered == true) 
             {
+                interactButtonPressed = false; 
+
                 if (gameIsPaused == false)
                 {
                     infoMenuUI.SetActive(true);
@@ -40,6 +44,14 @@ namespace Platformer.Mechanics
             Time.timeScale = 1f;
             gameIsPaused = false;
             triggerEntered = false; 
+        }
+
+        public void OnClick()
+        {
+            if (triggerEntered == true)
+            {
+                interactButtonPressed = true;  
+            }            
         }
 
         //Función que activa el cambio de estado al entrar el jugador en la zona

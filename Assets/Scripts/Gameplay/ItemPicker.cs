@@ -15,7 +15,8 @@ namespace Platformer.Mechanics
         public PlayerManager player;
         [HideInInspector]
         public Text coreCounter;
-        private bool triggerEntered = false;
+        private bool triggerEntered = false;             
+        private bool interactButtonPressed = false; 
 
         private int core;
         private int sceneCores;
@@ -25,10 +26,19 @@ namespace Platformer.Mechanics
         }
         void Update()
         { 
-           if (Input.GetKeyDown (KeyCode.E) && triggerEntered == true && collectHealth !=null && player.health < player.maxHealth) 
+           if ((Input.GetKeyDown (KeyCode.E) || interactButtonPressed == true) && triggerEntered == true && collectHealth !=null && player.health < player.maxHealth) 
             {
+                interactButtonPressed = false;
                 collectHealth.HealthCollect();                
                 Destroy(gameObject);
+            }            
+        }        
+
+        public void OnClick()
+        {
+            if (triggerEntered == true)
+            {
+                interactButtonPressed = true;  
             }            
         }
 
