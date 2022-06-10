@@ -8,12 +8,13 @@ public class wait : MonoBehaviour
 {
     public float wait_time = 5f;
 
+    //Función que inicializa la corrutina de espera
     void Start()
     {
         StartCoroutine(wait_for_intro());
-
     }
 
+    //Función que marca un tiempo de espera y posteriormente carga el menú principal
     IEnumerator wait_for_intro() 
     {
         yield return new WaitForSeconds(wait_time);

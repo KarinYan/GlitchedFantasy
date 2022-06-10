@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 //Clase para saltar la intro.
 public class SkipVideo : MonoBehaviour
 {
-    //Funcion que carga la escena del menu.
+    //Función que carga la escena del menú.
     public void ReturnMainMenu() 
     {
         
@@ -17,11 +17,13 @@ public class SkipVideo : MonoBehaviour
 
     public bool ActivarTecla;
 
+    //Función que inicializa la corrutina de espera
     private void Start()
     {
         StartCoroutine(PulsarTecla());
     }
 
+    //Función que marca un tiempo de espera y posteriormente activa el botón para saltar la intro
     IEnumerator PulsarTecla()
     {
         yield return new WaitForSeconds(498f);
@@ -29,7 +31,7 @@ public class SkipVideo : MonoBehaviour
         ActivarTecla = true;
     }
 
-
+    //Función que se ejecuta en cada frame del juego y comprueba si se ha activado el botón de saltar la intro. Si es así, carga el menú principal
     private void Update()
     {
         if (ActivarTecla == true && Input.anyKey)

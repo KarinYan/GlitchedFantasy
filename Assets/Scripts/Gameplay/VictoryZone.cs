@@ -13,8 +13,12 @@ namespace Platformer.Mechanics
         public static bool gameIsPaused = false;
         private int sceneCores;
         private int sceneIndex;
+        private int sceneUnlockedLocks;
         
         public GameObject door;
+        public GameObject victoryUnlock;
+        private bool victoryDisplayed = false;
+        private float delay = 1.35f; 
         
         //Función que inicializa el indice de la escena activa
         void Start()
@@ -23,17 +27,23 @@ namespace Platformer.Mechanics
             sceneIndex = currentScene.buildIndex;
         }
         
-        //Función que se ejecuta en cada frame del juego y que calcula la cantidad de núcleos presentes en la escena
+        //Función que se ejecuta en cada frame del juego y que calcula la cantidad de núcleos y locks presentes en la escena
+        //si todavía no se ha activado, activa el objeto y lo destruye después
         void Update()
         { 
             sceneCores = GameObject.FindGameObjectsWithTag("Cores").Length;  
-            if (sceneCores == 0)
-            {
+            sceneUnlockedLocks = GameObject.FindGameObjectsWithTag("UnlockedLock").Length;  
+            if (sceneCores == 0 && victoryDisplayed == false)
+            {     
+                victoryUnlock.SetActive(true);           
                 Destroy(door.gameObject);
+                Destroy(victoryUnlock.gameObject, delay);
+                victoryDisplayed = true;
             }       
         }
 
-        //Función que invoca la función de pase de escena del PlayerManager, cuando el jugador entra en la zona de victoria habiendo recolectado todos los núcleos
+
+        //Función que, según el cumplimiento de condiciones, devuelve al jugador al inicio o lo pasa al siguiente nivel
         private void OnTriggerEnter2D(Collider2D collision)
         {
             PlayerManager player = collision.GetComponent<PlayerManager>();

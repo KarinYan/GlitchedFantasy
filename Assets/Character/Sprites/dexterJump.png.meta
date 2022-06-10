@@ -118,10 +118,10 @@ TextureImporter:
       name: dexterJump_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 775
+        x: 72
+        y: 688
         width: 240
-        height: 245
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,10 +139,10 @@ TextureImporter:
       name: dexterJump_1
       rect:
         serializedVersion: 2
-        x: 260
-        y: 775
+        x: 321
+        y: 687
         width: 280
-        height: 245
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: dexterJump_2
       rect:
         serializedVersion: 2
-        x: 549
-        y: 765
+        x: 609
+        y: 677
         width: 280
-        height: 255
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,8 @@ TextureImporter:
       name: dexterJump_3
       rect:
         serializedVersion: 2
-        x: 6
-        y: 460
+        x: 63
+        y: 352
         width: 240
         height: 300
       alignment: 0
@@ -202,10 +202,10 @@ TextureImporter:
       name: dexterJump_4
       rect:
         serializedVersion: 2
-        x: 261
-        y: 479
+        x: 318
+        y: 357
         width: 180
-        height: 273
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,10 +223,10 @@ TextureImporter:
       name: dexterJump_5
       rect:
         serializedVersion: 2
-        x: 452
-        y: 501
+        x: 509
+        y: 357
         width: 180
-        height: 253
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,10 +244,10 @@ TextureImporter:
       name: dexterJump_6
       rect:
         serializedVersion: 2
-        x: 642
-        y: 508
+        x: 699
+        y: 357
         width: 220
-        height: 257
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,10 +265,10 @@ TextureImporter:
       name: dexterLanding_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 192
+        x: 57
+        y: 20
         width: 240
-        height: 264
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

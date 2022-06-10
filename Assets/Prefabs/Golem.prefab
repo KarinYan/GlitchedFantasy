@@ -109,8 +109,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4166637656028050976, guid: 02070ec77267eb648acfd50a311c8d53,
-    type: 3}
+  m_Sprite: {fileID: 4166637656028050976, guid: 02070ec77267eb648acfd50a311c8d53, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -212,7 +211,7 @@ AudioSource:
   m_GameObject: {fileID: 7680390620131789022}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 79ec2d213e3bec946b0e250bce0e1c9e, type: 2}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1

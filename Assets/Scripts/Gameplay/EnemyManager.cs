@@ -33,7 +33,7 @@ namespace Platformer.Mechanics
             patrol = true;
         }
 
-        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones, sonidos y el estado del enemigo según las configuraciones de cada uno
+        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones y el estado del enemigo según las configuraciones de cada uno
         void Update()
         {               
             if(patrol)    
@@ -88,7 +88,7 @@ namespace Platformer.Mechanics
             }
         }      
 
-        //Función que deduce una vida al enemigo y reproduce un sonido
+        //Función que deduce una vida al enemigo, reproduce un sonido e inicializa la corrutina de parpadeo
         public void Hit()
         {
             health = health - 1;
@@ -96,6 +96,7 @@ namespace Platformer.Mechanics
             StartCoroutine(Blink(2));
         }
 
+        //Función que crea el efecto de parpadeo
         private IEnumerator Blink(int loops) {
             for (int i = 0; i < loops; i++)
             {

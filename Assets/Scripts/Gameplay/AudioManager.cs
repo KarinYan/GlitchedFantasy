@@ -7,6 +7,7 @@ using static Platformer.Core.Simulation;
 
 namespace Platformer.Mechanics
 {
+    //Clase que administra el sonido del juego
     public class AudioManager : MonoBehaviour
     {
         public AudioSource audioSource;
@@ -19,56 +20,58 @@ namespace Platformer.Mechanics
         public AudioClip collectCores;
         public AudioClip shoot;        
         
+        //Función que inicializa el sonido
         void Start()
         {
             audioSource = GetComponent<AudioSource>();
         }
 
+        //Función que reproduce el sonido para pasos
         public void PlayStepAudio()
-        {  
-            GetComponent<AudioSource>().volume  = 0.1f;         
-            audioSource.PlayOneShot(step);                       
+        {          
+            audioSource.PlayOneShot(step, 0.1f);                       
         }
 
+        //Función que reproduce el sonido de aterrizaje
         public void PlayLandAudio()
-        {   
-            GetComponent<AudioSource>().volume  = 0.2f;         
-            audioSource.PlayOneShot(land, 0.5f);            
+        {         
+            audioSource.PlayOneShot(land, 0.2f);            
         }
 
+        //Función que reproduce el sonido de salto
         public void PlayJumpAudio()
-        {   
-            GetComponent<AudioSource>().volume  = 0.2f;          
-            audioSource.PlayOneShot(jumping);
+        {      
+            audioSource.PlayOneShot(jumping, 0.2f);
         }
 
+        //Función que reproduce el sonido de daño
         public void PlayHurtAudio()
         {            
-            audioSource.PlayOneShot(hurt, 0.7f);
+            audioSource.PlayOneShot(hurt, 0.2f);
         }
 
+        //Función que reproduce el sonido de disparo
         public void PlayShootAudio()
         {            
-            GetComponent<AudioSource>().volume  = 0.08f;
-            audioSource.PlayOneShot(shoot);
+            audioSource.PlayOneShot(shoot,0.08f);
         }
 
+        //Función que reproduce el sonido de muerte
         public void PlayDeathAudio()
         {            
-            GetComponent<AudioSource>().volume  = 0.3f;
-            audioSource.PlayOneShot(dead, 0.7f);
+            audioSource.PlayOneShot(dead, 0.3f);
         }
 
+        //Función que reproduce el sonido de colección de vidas
         public void PlayHealthCollectAudio()
         {            
             audioSource.PlayOneShot(collectPotions, 0.7f);
         }
 
+        //Función que reproduce el sonido de colección de núcleos
         public void PlayCoreCollectAudio()
         {            
             audioSource.PlayOneShot(collectCores, 0.7f);
         }
-
-
     }
 }

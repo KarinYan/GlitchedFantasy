@@ -54,9 +54,13 @@ namespace Platformer.Mechanics
                 DestroyBullet();
             }
 
-            if ( corruption != null)
+            if (corruption != null)
             {
                 corruption.Hit();
+                DestroyBullet();
+            }
+            if (collision.transform.tag == "Ground")
+            {
                 DestroyBullet();
             }
         }

@@ -38,6 +38,7 @@ namespace Platformer.Mechanics
             }
         }        
 
+        //Función que desactiva el menú de información reanudando el juego
         public void ExitSignZone()
         {
             infoMenuUI.SetActive(false);
@@ -46,6 +47,7 @@ namespace Platformer.Mechanics
             triggerEntered = false; 
         }
 
+        //Función que activa un valor para condición del Update
         public void OnClick()
         {
             if (triggerEntered == true)

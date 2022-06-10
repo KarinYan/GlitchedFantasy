@@ -20,6 +20,7 @@ namespace Platformer.Mechanics
             PlayerManager.OnPlayerDamaged += DrawHearts;
             PlayerManager.OnPlayerHealed += DrawHearts;
         }
+        //Función que se ejecuta siempre que el objeto se desactiva, para desuscribirse a los eventos del PlayerManager 
         private void OnDisable()
         {
             PlayerManager.OnPlayerDamaged -= DrawHearts;

@@ -12,25 +12,21 @@ namespace Platformer.Mechanics
     public class PlayerManager : MonoBehaviour
     {   
         public static event Action OnPlayerDamaged;
-        public static event Action OnPlayerHealed;
-        public GameObject projectilePrefab;
-        public GameObject gameOverMenuUI;
-        private AudioManager clip;
-
-        public float speed;
-        public float jumpForce;      
-        public static bool gameIsPaused = false;
-        
+        public static event Action OnPlayerHealed;private AudioManager clip;    
         private Rigidbody2D Rigidbody2D;
         private Renderer Renderer; 
         private Animator Animator;
+        public GameObject projectilePrefab;
+        public GameObject gameOverMenuUI;        
         public LayerMask groundLayer;
         
         public Joystick joystickRun;
         private float horizontalJoystick;
 
+        public float speed;
+        public float jumpForce;      
+        public static bool gameIsPaused = false;
         private float Horizontal; 
-        [HideInInspector]
         private bool playerIsGrounded;
         private bool playerIsRunning = false;
         private bool playerIsDead = false;
@@ -58,7 +54,7 @@ namespace Platformer.Mechanics
             clip = gameObject.GetComponent<AudioManager>();
         }
     
-        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones, sonidos y el estado del jugador
+        //Función que se ejecuta en cada frame del juego y que va actualizando las animaciones y el estado del jugador
         //en base a distintos parámetros (cumplimiento de condiciones de estados, teclas apretadas, salud)
         void Update()
         {     
@@ -71,7 +67,6 @@ namespace Platformer.Mechanics
             Animator.SetBool("shooting", playerIsShooting); 
             Horizontal = Input.GetAxisRaw("Horizontal");
 
-
             if (Horizontal < 0.0f || horizontalJoystick < 0.0f) 
             {
                 transform.localScale = new Vector3(-0.5f, 0.5f, 1.0f);
@@ -79,8 +74,7 @@ namespace Platformer.Mechanics
                 {
                     playerIsRunning = true;
                 }
-                else playerIsRunning = false;
-                
+                else playerIsRunning = false;                
             }
             else if (Horizontal > 0.0f || horizontalJoystick > 0.0f) 
             {
@@ -91,22 +85,26 @@ namespace Platformer.Mechanics
                 }  
                 else playerIsRunning = false;  
             } 
-            else playerIsRunning = false;
+            else playerIsRunning = false;   
 
             if (Physics2D.Raycast(transform.position, Vector3.down, 1f, groundLayer))
             {
                 if (Rigidbody2D.velocity.y < 0)
                 {
-                    playerIsLanding = true;                              
+                    playerIsLanding = true; 
+                    playerIsGrounded = false;                             
                 }
-                else playerIsLanding = false;
-                playerIsGrounded = true;
+                else if(Rigidbody2D.velocity.y == 0)
+                {
+                    playerIsLanding = false;
+                    playerIsGrounded = true;  
+                }
+                else playerIsGrounded = true;
             }
             else playerIsGrounded = false;
 
             if ((Input.GetKeyDown(KeyCode.W) || jumpButtonPressed == true) && playerIsGrounded && !playerIsLanding)
-            {
-                            
+            {                            
                 jumpButtonPressed = false;
                 playerIsJumping = true;
                 Jump();
@@ -175,7 +173,7 @@ namespace Platformer.Mechanics
             projectile.GetComponent<AttackManager>().SetDirection(direction);
         }
        
-        //Función que deduce una vida al jugador, invoca el evento OnPlayerDamaged y reproduce un sonido
+        //Función que deduce una vida al jugador, invoca el evento OnPlayerDamaged, reproduce un sonido e inicializa la corrutina de parpadeo
         public void Touch()
         {             
             health = health - 1;
@@ -184,6 +182,7 @@ namespace Platformer.Mechanics
             OnPlayerDamaged?.Invoke();
         }
 
+        //Función que crea el efecto de parpadeo
         private IEnumerator Blink(int loops) {
             for (int i = 0; i < loops; i++)
             {
@@ -218,17 +217,19 @@ namespace Platformer.Mechanics
             gameOverMenuUI.SetActive(true);
             Time.timeScale = 0f;
             gameIsPaused = true;
-            Destroy(gameObject);
         }  
 
+        //Función que activa un valor para condición del Update
         public void OnShoot() 
         {
-            shootButtonPressed = true;
+            shootButtonPressed = true;          
         }
+
+        //Función que activa un valor para condición del Update
         public void OnJump() 
         {
-            jumpButtonPressed = true;
-        }
+            jumpButtonPressed = true;   
+        }    
 
         //Función que destruye los objetos etiquetados con TutorialObjects y 
         //reproduce un sonido al entrar en contacto con los objetos etiquetados con Cores

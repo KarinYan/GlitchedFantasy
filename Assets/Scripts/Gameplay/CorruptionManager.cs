@@ -35,7 +35,7 @@ namespace Platformer.Mechanics
             else damaged = false;
         }
 
-        //Función que deduce una vida a la corrupción
+        //Función que deduce una vida a la corrupción y si esta es nula, activa el estado destruido 
         public void Hit()
         {
             health = health -1;

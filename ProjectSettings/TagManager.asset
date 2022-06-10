@@ -4,15 +4,16 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - TutorialRequirement
-  - Cores
   - Potions
-  - TutorialObjects
-  - Door
-  - TextBox
-  - shootButton
-  - jumpButton
   - interactButton
+  - jumpButton
+  - shootButton
+  - Cores
+  - TextBox
+  - TutorialObjects
+  - UnlockedLock
+  - Door
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - Player
+  - 
   - 
   - 
   - 
