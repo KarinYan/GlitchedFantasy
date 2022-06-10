@@ -40,17 +40,19 @@ namespace Platformer.Mechanics
             }       
 
             if ((Input.GetKeyDown (KeyCode.E) || interactButtonPressed == true) && triggerEntered == true && collectHealth !=null && player.health == player.maxHealth)
-            {
-                
+            {                
+                interactButtonPressed = false; 
+
                 if (infoHealthUIactive == false)
                 {
-                     infoHealthUI.SetActive(true);
-                     infoHealthUIactive = true;
+                    infoHealthUI.SetActive(true);
+                    infoHealthUIactive = true;
                 }   
                 else 
                 {
                     infoHealthUI.SetActive(false);   
                     infoHealthUIactive = false;
+                    triggerEntered = false; 
                 } 
             }  
         }        

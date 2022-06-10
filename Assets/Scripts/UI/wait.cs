@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 //Clase para controlar el tiempo de la intro.
-public class wait : MonoBehaviour
+public class Wait : MonoBehaviour
 {
     public float wait_time = 5f;
 
