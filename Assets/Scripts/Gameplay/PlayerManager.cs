@@ -140,7 +140,7 @@ namespace Platformer.Mechanics
             {
                 Rigidbody2D.velocity = new Vector3(0,Rigidbody2D.velocity.y);
             }            
-            else if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.LeftArrow))
+            else if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
             {
                 Rigidbody2D.velocity = new Vector3(Horizontal * speed, Rigidbody2D.velocity.y); 
             }
@@ -235,11 +235,6 @@ namespace Platformer.Mechanics
         //reproduce un sonido al entrar en contacto con los objetos etiquetados con Cores
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if(other.transform.tag == "TutorialObjects")               
-            {              
-                Destroy(other.gameObject);                                                    
-            }
-
             if(other.transform.tag == "Cores")               
             {          
                 clip.PlayCoreCollectAudio();                                                     
